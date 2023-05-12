@@ -1,0 +1,6 @@
+A data-driven exploration of the race between human labor and machines in the 21
+Jiyong Park, Jongho Kim
+Communications of the ACM
+25 April 2022
+To understand automation and the future of work, this study explores how human labor competes, or cooperates, with technology in performing a range of tasks.
+https://dl.acm.org/doi/10.1145/3488376

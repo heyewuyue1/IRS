@@ -1,0 +1,6 @@
+Multi-Stage Fusion and Multi-Source Attention Network for Multi-Modal Remote Sensing Image Segmentation
+Jiaqi Zhao, Yong Zhou, Boyu Shi, Jingsong Yang, Di Zhang, Rui Yao
+ACM Transactions on Intelligent Systems and Technology
+20 December 2021
+With the rapid development of sensor technology, lots of remote sensing data have been collected. It effectively obtains good semantic segmentation performance by extracting feature maps based on multi-modal remote sensing images since extra modal data provides more information. How to make full use of multi-model remote sensing data for semantic segmentation is challenging. Toward this end, we propose a new network called Multi-Stage Fusion and Multi-Source Attention Network ((MS) 2 -Net) for multi-modal remote sensing data segmentation. The multi-stage fusion module fuses complementary information after calibrating the deviation information by filtering the noise from the multi-modal data. Besides, similar feature points are aggregated by the proposed multi-source attention for enhancing the discriminability of features with different modalities. The proposed model is evaluated on publicly available multi-modal remote sensing data sets, and results demonstrate the effectiveness of the proposed method.
+https://dl.acm.org/doi/10.1145/3484440

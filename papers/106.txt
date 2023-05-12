@@ -1,0 +1,6 @@
+Multi-scale Dynamic Network for Temporal Action Detection
+Yifan Ren, Xing Xu, Fumin Shen, Zheng Wang, Yang Yang, Heng Tao Shen
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+In recent years, as the fundamental task in video understanding, Temporal Action Detection is attracting extensive attention. Most existing approaches use the same model parameters to process all input videos, which are not adaptive to the input video during the inference stage. In this paper, we propose a novel model termed Multi-scale Dynamic Network (MDN) to tackle this problem. The proposed MDN model incorporates multiple Multi-scale Dynamic Modules (MDMs). Each MDM can generate video-specific and segment-specific convolution kernels based on video content from different scales and adaptively capture rich semantic information for the prediction. Besides, we also design a new Edge Suppression Loss (ESL) function for MDN to pay more attention to hard examples. Extensive experiments conducted on two popular benchmarks ActivityNet-1.3 and THUMOS-14 show that the proposed MDN model achieves the state-of-the-art performance.
+https://dl.acm.org/doi/10.1145/3460426.3463613

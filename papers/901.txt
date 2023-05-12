@@ -1,0 +1,6 @@
+Meta-ED: Cross-lingual Event Detection Using Meta-learning for Indian Languages
+Aniruddha Roy, Isha Sharma, Sudeshna Sarkar, Pawan Goyal
+ACM Transactions on Asian and Low-Resource Language Information Processing
+21 February 2023
+Lack of annotated data is a major concern in Event Detection (ED) tasks for low-resource languages. Cross-lingual ED seeks to address this issue by transferring information across various languages to improve overall performance. In this article, we propose a method for cross-lingual ED with a few training instances. We present a model agnostic meta-learning approach for few-shot cross-lingual ED that is able to find good parameter initialization and enables fast adaptation to new low-resource languages. We evaluate our model on four Indian languages. The results show that our approach significantly outperforms the base model.
+https://dl.acm.org/doi/10.1145/3555340

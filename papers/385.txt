@@ -1,0 +1,6 @@
+Scanflow: an end-to-end agent-based autonomic ML workflow manager for clusters
+Peini Liu, Gusseppe Bravo-Rocca, Jordi Guitart, Ajay Dholakia, David Ellison, Miroslav Hodak
+Middleware '21: Proceedings of the 22nd International Middleware Conference: Demos and Posters
+06 December 2021
+Machine Learning (ML) is more than just training models, the whole life-cycle must be considered. Once deployed, a ML model needs to be constantly managed, supervised and debugged to guarantee its availability, validity and robustness in dynamic contexts. This demonstration presents an agent-based ML workflow manager so-called Scanflow 1 , which enables autonomic management and supervision of the end-to-end life-cycle of ML workflows on distributed clusters. The case study on a MNIST project 2 shows that different teams can collaborate using Scanflow within a ML project at different phases, and the effectiveness of agents to maintain the model accuracy and throughput of the model serving while running in production.
+https://dl.acm.org/doi/10.1145/3491086.3492468

@@ -1,0 +1,6 @@
+CoRSAI: A System for Robust Interpretation of CT Scans of COVID-19 Patients Using Deep Learning
+Manvel Avetisian, Ilya Burenko, Konstantin Egorov, Vladimir Kokh, Aleksandr Nesterov, Aleksandr Nikolaev, Alexander Ponomarchuk, Elena Sokolova, Alex Tuzhilin, Dmitry Umerenkov
+ACM Transactions on Management Information Systems
+08 September 2021
+Analysis of chest CT scans can be used in detecting parts of lungs that are affected by infectious diseases such as COVID-19. Determining the volume of lungs affected by lesions is essential for formulating treatment recommendations and prioritizing patients by severity of the disease. In this article we adopted an approach based on using an ensemble of deep convolutional neural networks for segmentation of slices of lung CT scans. Using our models, we are able to segment the lesions, evaluate patients’ dynamics, estimate relative volume of lungs affected by lesions, and evaluate the lung damage stage. Our models were trained on data from different medical centers. We compared predictions of our models with those of six experienced radiologists, and our segmentation model outperformed most of them. On the task of classification of disease severity, our model outperformed all the radiologists.
+https://dl.acm.org/doi/10.1145/3467471

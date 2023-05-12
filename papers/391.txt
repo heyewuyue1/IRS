@@ -1,0 +1,6 @@
+DUMA: Reading Comprehension With Transposition Thinking
+Pengfei Zhu, Zhuosheng Zhang, Hai Zhao, Xiaoguang Li
+IEEE/ACM Transactions on Audio, Speech and Language Processing
+28 December 2021
+Multi-choice Machine Reading Comprehension (MRC) requires models to decide the correct answer from a set of answer options when given a passage and a question. Thus, in addition to a powerful Pre-trained Language Model (PrLM) as an encoder, multi-choice MRC especially relies on a matching network design that is supposed to effectively capture the relationships among the triplet of passage, question, and answers. While the newer and more powerful PrLMs have shown their strengths even without the support from a matching network, we propose a new <bold>DU</bold>al <bold>M</bold>ulti-head Co-<bold>A</bold>ttention (DUMA) model. It is inspired by the human transposition thinking process solving the multi-choice MRC problem by considering each other&#x2019;s focus from the standpoint of passage and question. The proposed DUMA has been shown to be effective and is capable of generally promoting PrLMs. Our proposed method is evaluated on two benchmark multi-choice MRC tasks, DREAM, and RACE. Our results show that in terms of powerful PrLMs, DUMA can further boost the models to obtain higher performance.
+https://dl.acm.org/doi/10.1109/TASLP.2021.3138683

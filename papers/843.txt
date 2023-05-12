@@ -1,0 +1,6 @@
+Can AutoML outperform humans? An evaluation on popular OpenML datasets using AutoML Benchmark
+Marc Hanussek, Matthias Blohm, Maximilien Kintz
+AIRC'20: 2020 2nd International Conference on Artificial Intelligence, Robotics and Control
+30 June 2021
+Abstract: In the last few years, Automated Machine Learning (AutoML) has gained much attention. With that said, the question arises whether AutoML can outperform results achieved by human data scientists. This paper compares four AutoML frameworks on 12 different popular datasets from OpenML; six of them supervised classification tasks and the other six supervised regression ones. Additionally, we consider a real-life dataset from one of our recent projects. The results show that the automated frameworks perform better or equal than the machine learning community in 7 out of 12 OpenML tasks.
+https://dl.acm.org/doi/10.1145/3448326.3448353

@@ -1,0 +1,6 @@
+Sentiment Analysis of Sinhala News Comments
+Surangika Ranathunga, Isuru Udara Liyanage
+ACM Transactions on Asian and Low-Resource Language Information Processing
+26 May 2021
+Sinhala is a low-resource language, for which basic language and linguistic tools have not been properly defined. This affects the development of NLP-based end-user applications for Sinhala. Thus, when implementing NLP tools such as sentiment analyzers, we have to rely only on language-independent techniques. This article presents the use of such language-independent techniques in implementing a sentiment analysis system for Sinhala news comments. We demonstrate that for low-resource languages such as Sinhala, the use of recently introduced word embedding models as semantic features can compensate for the lack of well-developed language-specific linguistic or language resources, and text classification with acceptable accuracy is indeed possible using both traditional statistical classifiers and Deep Learning models. The developed classification models, a corpus of 8.9 million tokens extracted from Sinhala news articles and user comments, and Sinhala Word2Vec and fastText word embedding models are now available for public use; 9,048 news comments annotated with POSITIVE/NEGATIVE/NEUTRAL polarities have also been released.
+https://dl.acm.org/doi/10.1145/3445035

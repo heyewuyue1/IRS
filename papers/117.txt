@@ -1,0 +1,6 @@
+Contrastive Information Extraction With Generative Transformer
+Ningyu Zhang, Hongbin Ye, Shumin Deng, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen
+IEEE/ACM Transactions on Audio, Speech and Language Processing
+14 September 2021
+Information extraction tasks such as entity relation extraction and event extraction are of great importance for natural language processing and knowledge graph construction. In this paper, we revisit the end-to-end information extraction task for sequence generation. Since generative information extraction may struggle to capture long-term dependencies and generate unfaithful triples, we introduce a novel model, contrastive information extraction with a generative transformer. Specifically, we introduce a single shared transformer module for an encoder-decoder-based generation. To generate faithful results, we propose a novel triplet contrastive training object. Moreover, we introduce two mechanisms to further improve model performance (i.e., batch-wise dynamic attention-masking and triple-wise calibration). Experimental results on five datasets (i.e., NYT, WebNLG, MIE, ACE-2005, and MUC-4) show that our approach achieves better performance than baselines.<sup>1</sup>
+https://dl.acm.org/doi/10.1109/TASLP.2021.3110126

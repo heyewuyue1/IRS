@@ -1,0 +1,6 @@
+An Explainable Framework for Diagnosis of COVID-19 Pneumonia via Transfer Learning and Discriminant Correlation Analysis
+Siyuan Lu, Di Wu, Zheng Zhang, Shui-Hua Wang
+ACM Transactions on Multimedia Computing, Communications, and Applications
+26 October 2021
+The new coronavirus COVID-19 has been spreading all over the world in the last six months, and the death toll is still rising. The accurate diagnosis of COVID-19 is an emergent task as to stop the spreading of the virus. In this paper, we proposed to leverage image feature fusion for the diagnosis of COVID-19 in lung window computed tomography (CT). Initially, ResNet-18 and ResNet-50 were selected as the backbone deep networks to generate corresponding image representations from the CT images. Second, the representative information extracted from the two networks was fused by discriminant correlation analysis to obtain refined image features. Third, three randomized neural networks (RNNs): extreme learning machine, Schmidt neural network and random vector functional-link net, were trained using the refined features, and the predictions of the three RNNs were ensembled to get a more robust classification performance. Experiment results based on five-fold cross validation suggested that our method outperformed state-of-the-art algorithms in the diagnosis of COVID-19.
+https://dl.acm.org/doi/10.1145/3449785

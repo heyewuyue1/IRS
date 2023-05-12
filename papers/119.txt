@@ -1,0 +1,6 @@
+Using machine learning to predict the code size impact of duplication heuristics in a dynamic compiler
+Raphael Mosaner, David Leopoldseder, Lukas Stadler, Hanspeter Mössenböck
+MPLR 2021: Proceedings of the 18th ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes
+29 September 2021
+Code duplication is a major opportunity to enable optimizations in subsequent compiler phases. However, duplicating code prematurely or too liberally can result in tremendous code size increases. Thus, modern compilers use trade-offs between estimated costs in terms of code size increase and benefits in terms of performance increase. In the context of this ongoing research project, we propose the use of machine learning to provide trade-off functions with accurate predictions for code size impact. To evaluate our approach, we implemented a neural network predictor in the GraalVM compiler and compared its performance against a human-crafted, highly tuned heuristic. First results show promising performance improvements, leading to code size reductions of more than 10% for several benchmarks. Additionally, we present an assistance mode for finding flaws in the human-crafted heuristic, leading to improvements for the duplication optimization itself.
+https://dl.acm.org/doi/10.1145/3475738.3480943

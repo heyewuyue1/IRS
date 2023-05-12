@@ -1,0 +1,6 @@
+On the scalability of building binary decision diagrams for current feature models
+Tobias Heß, Chico Sundermann, Thomas Thüm
+SPLC '21: Proceedings of the 25th ACM International Systems and Software Product Line Conference - Volume A
+06 September 2021
+Binary decision diagrams (BDD) have been proposed for numerous product-line analyses. These analyses typically exploit properties unique to decision diagrams, such as negation in constant time and space. Furthermore, the existence of a BDD representing the configuration space of a product line removes the need to employ SAT or #SAT solvers for their analysis. Recent work has shown that the performance of state-of-the-art BDD libraries is significantly lower than previously reported and hypothesized. In this work, we provide an assessment of the state-of-the-art of BDD scalability in this domain and explain why previous results on the scalability of BDDs do not apply to more recent product-line instances.
+https://dl.acm.org/doi/10.1145/3461001.3474452

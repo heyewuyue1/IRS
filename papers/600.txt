@@ -1,0 +1,6 @@
+The Impact of Learning Rate Decay and Periodical Learning Rate Restart on Artificial Neural Network
+Yimin Ding
+AIEE 2021: 2021 2nd International Conference on Artificial Intelligence in Electronics Engineering
+30 July 2021
+There is no denying that learning rate is one of the most important hyper-parameter for model training. In this paper, two typical strategies, namely learning rate decay and periodical learning rate restart are tested in artificial neural networks (ANN) and compared with the fixed learning rate. Experiments demonstrate that learning rate adjustment strategies surpass fixed learning rate in model training, including fast convergence, high validation accuracy and low training loss. Besides, periodical learning rate restart strategy tends to take fewer epochs than learning rate decay to get the same accuracy. Thus, increasing the learning rate appropriately will better fit the model and achieve excellent performance.
+https://dl.acm.org/doi/10.1145/3460268.3460270

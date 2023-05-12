@@ -1,0 +1,6 @@
+A Survey of Preprocessing Methods for Marine Ship Target Detection Based on Video Surveillance
+Bi Zhenbo, Zhang Shiyou, Pan Hongjun, Wu Yuanhong, Yang Hua
+ICCAI 2021: 2021 7th International Conference on Computing and Artificial Intelligence
+24 September 2021
+Ship target detection based on video surveillance has an important application in maritime security. In order to reduce the interference caused by the complex marine environment, it is usually necessary to preprocess the captured images. Based on the current research results of ship video detection at sea, this paper summarizes the commonly used ship target detection preprocessing methods under visible light detection conditions, including: image format conversion, video image anti jitter, defogging processing, image filtering, binary processing and morphological filtering. On this basis, the development of pretreatment technology and the research and development strategy of ship target detection system are discussed.
+https://dl.acm.org/doi/10.1145/3467707.3467708

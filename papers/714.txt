@@ -1,0 +1,6 @@
+HodgeNet: learning spectral geometry on triangle meshes
+Dmitriy Smirnov, Justin Solomon
+ACM Transactions on Graphics
+19 July 2021
+Constrained by the limitations of learning toolkits engineered for other applications, such as those in image processing, many mesh-based learning algorithms employ data flows that would be atypical from the perspective of conventional geometry processing. As an alternative, we present a technique for learning from meshes built from standard geometry processing modules and operations. We show that low-order eigenvalue/eigenvector computation from operators parameterized using discrete exterior calculus is amenable to efficient approximate backpropagation, yielding spectral per-element or per-mesh features with similar formulas to classical descriptors like the heat/wave kernel signatures. Our model uses few parameters, generalizes to high-resolution meshes, and exhibits performance and time complexity on par with past work.
+https://dl.acm.org/doi/10.1145/3450626.3459797

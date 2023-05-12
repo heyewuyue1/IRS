@@ -1,0 +1,6 @@
+Hardware Acceleration for Embedded Keyword Spotting: Tutorial and Survey
+J. S. P. Giraldo, Marian Verhelst
+ACM Transactions on Embedded Computing Systems
+18 October 2021
+In recent years, Keyword Spotting (KWS) has become a crucial human–machine interface for mobile devices, allowing users to interact more naturally with their gadgets by leveraging their own voice. Due to privacy, latency and energy requirements, the execution of KWS tasks on the embedded device itself instead of in the cloud, has attracted significant attention from the research community. However, the constraints associated with embedded systems, including limited energy, memory, and computational capacity, represent a real challenge for the embedded deployment of such interfaces. In this article, we explore and guide the reader through the design of KWS systems. To support this overview, we extensively survey the different approaches taken by the recent state-of-the-art (SotA) at the algorithmic, architectural, and circuit level to enable KWS tasks in edge, devices. A quantitative and qualitative comparison between relevant SotA hardware platforms is carried out, highlighting the current design trends, as well as pointing out future research directions in the development of this technology.
+https://dl.acm.org/doi/10.1145/3474365

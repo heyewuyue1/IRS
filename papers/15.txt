@@ -1,0 +1,6 @@
+Efficient Transformers: A Survey
+Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
+ACM Computing Surveys
+07 December 2022
+Transformer model architectures have garnered immense interest lately due to their effectiveness across a range of domains like language, vision, and reinforcement learning. In the field of natural language processing for example, Transformers have become an indispensable staple in the modern deep learning stack. Recently, a dizzying number of “X-former” models have been proposed—Reformer, Linformer, Performer, Longformer, to name a few—which improve upon the original Transformer architecture, many of which make improvements around computational and memory efficiency . With the aim of helping the avid researcher navigate this flurry, this article characterizes a large and thoughtful selection of recent efficiency-flavored “X-former” models, providing an organized and comprehensive overview of existing work and models across multiple domains.
+https://dl.acm.org/doi/10.1145/3530811

@@ -1,0 +1,6 @@
+Multimodal Sentiment Analysis based on Recurrent Neural Network and Multimodal Attention
+Cong Cai, Yu He, Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao, Mingyu Xu, Kexin Wang
+MuSe '21: Proceedings of the 2nd on Multimodal Sentiment Analysis Challenge
+20 October 2021
+Automatic estimation of emotional state has a wide application in human-computer interaction. In this paper, we present our solutions for the MuSe-Stress and MuSe-Physio sub-challenge of Multimodal Sentiment Analysis (MuSe 2021). The goal of these two sub-challenges is to perform continuous emotion predictions from people in stressed dispositions. To this end, we first extract both handcrafted features and deep representations from multiple modalities. Then, we explore the Long Short-Term Memory network and Transformer Encoder with Multimodal Multi-head Attention to model the complex temporal dependencies in the sequence. Finally, we adopt the early fusion, late fusion and model fusion to boost the model's performance by exploiting complementary information from different modalities. Our method achieves CCC of 0.6648, 0.3054 and 0.5781 for valence, arousal and arousal plus EDA (anno12_EDA). The results of valence and anno12_EDA outperform the baseline system with corresponding CCC of 0.5614 and 0.4908, and both rank Top3 in these challenges.
+https://dl.acm.org/doi/10.1145/3475957.3484454

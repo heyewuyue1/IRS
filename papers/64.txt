@@ -1,0 +1,6 @@
+A novel music genre classification algorithm based on Continuous Wavelet Transform and Convolution Neural Network
+Kang Xu, Md Al Alif, Gang He
+EITCE '21: Proceedings of the 2021 5th International Conference on Electronic Information Technology and Computer Engineering
+31 December 2021
+The automated genre categorization of musical audio signals plays a fundamental role in the application, spectral characteristics that have been averaged across a large number of audio frames are estimated by Continuous Wavelet Transform (CWT) and then converted to a gray-scale picture for training and classification. A Convolution Neural Networks (CNN) model is proposed in this paper and the results demonstrated that the classification accuracy of the proposed CWT+ CNN model is about 70% with the testing sample and 94% with the training sample. This may suggest good application potential for the music genre classification.
+https://dl.acm.org/doi/10.1145/3501409.3501632

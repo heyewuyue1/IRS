@@ -1,0 +1,6 @@
+Neural Architecture Search Survey: A Hardware Perspective
+Krishna Teja Chitty-Venkata, Arun K. Somani
+ACM Computing Surveys
+21 November 2022
+We review the problem of automating hardware-aware architectural design process of Deep Neural Networks (DNNs). The field of Convolutional Neural Network (CNN) algorithm design has led to advancements in many fields, such as computer vision, virtual reality, and autonomous driving. The end-to-end design process of a CNN is a challenging and time-consuming task, as it requires expertise in multiple areas such as signal and image processing, neural networks, and optimization. At the same time, several hardware platforms, general- and special-purpose, have equally contributed to the training and deployment of these complex networks in a different setting. Hardware-Aware Neural Architecture Search (HW-NAS) automates the architectural design process of DNNs to alleviate human effort and generate efficient models accomplishing acceptable accuracy-performance tradeoffs. The goal of this article is to provide insights and understanding of HW-NAS techniques for various hardware platforms (MCU, CPU, GPU, ASIC, FPGA, ReRAM, DSP, and VPU), followed by the co-search methodologies of neural algorithm and hardware accelerator specifications.
+https://dl.acm.org/doi/10.1145/3524500

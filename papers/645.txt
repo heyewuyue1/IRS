@@ -1,0 +1,6 @@
+COPD Severity Prediction in Elderly with ML Techniques
+Elias Dritsas, Sotirios Alexiou, Konstantinos Moustakas
+PETRA '22: Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments
+11 July 2022
+Chronic Obstructive Pulmonary Disease (COPD) is a disease characterized by persistent symptoms mainly in the respiratory system and permanent restriction of airflow. It can worsen over time and develop into a serious illness, being one of the leading causes of morbidity and mortality worldwide. In the context of this study, we focus on the early prediction of the COPD patients’ severity grades, especially those over 55 years of age. For this purpose, we employ Machine Learning (ML) techniques in order to design appropriate models that will efficiently estimate the severity level based on the most crucial risk factors for disease development. These models will be embedded in the AI Framework of the GATEKEEPER system, which aims to provide personalized risk assessment and interventions to the elderly population.
+https://dl.acm.org/doi/10.1145/3529190.3534748

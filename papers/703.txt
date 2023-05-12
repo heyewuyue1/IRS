@@ -1,0 +1,6 @@
+Adaptive Artificial Personalities
+Kathrin Janowski, Hannes Ritschel, Elisabeth André
+The Handbook on Socially Interactive Agents: 20 years of Research on Embodied Conversational Agents, Intelligent Virtual Agents, and Social Robotics Volume 2: Interactivity, Platforms, Application
+03 November 2022
+
+https://dl.acm.org/doi/10.1145/3563659.3563666

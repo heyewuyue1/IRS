@@ -1,0 +1,6 @@
+Color-Grayscale-Pair Image Sentiment Dataset and Its Application to Sentiment-Driven Image Color Conversion
+Atsushi Takada, Xueting Wang, Toshihiko Yamasaki
+MMArt-ACM '21: Proceedings of the 2021 International Joint Workshop on Multimedia Artworks Analysis and Attractiveness Computing in Multimedia 2021
+27 August 2021
+In this study, we focused on the fact that the color information of an image has a significant effect on the emotion recalled, and we created a dataset with discrete and continuous emotion labels for color and grayscale image pairs, which are not present in existing emotion image datasets. As a result of the analysis of the continuous-valued emotion labels, we found that the color images evoked a wider range of positive and negative emotions. We also conducted experiments to transform the color of the image to the target emotion using the emotion label and the image as input and succeeded in changing the color of the entire image according to the input emotion value. Another experiment is conducted to convert the emotion category and we confirmed that the image was generated in such a way that the evoked emotion was changed compared to the original image.
+https://dl.acm.org/doi/10.1145/3463946.3469240

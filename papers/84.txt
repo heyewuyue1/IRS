@@ -1,0 +1,6 @@
+Report on the FIRE 2020 evaluation initiative
+Parth Mehta, Thomas Mandl, Prasenjit Majumder, Surupendu Gangopadhyay
+ACM SIGIR Forum
+16 July 2021
+This report gives an overview on the Forum for Information Retrieval Evaluation (FIRE) initiative for South-Asian languages 1 . The FIRE conference was conducted online in December 2020. The event combined a conference including keynotes, peer reviewed paper session with an Evaluation Forum. This report will present an overview of the conference and provide insights into the evaluation tracks. Current domains include legal information access, mixed script information retrieval, semantic analysis and social media posts classification. The tasks are discussed and connections to other evaluation initiatives are shown.
+https://dl.acm.org/doi/10.1145/3476415.3476418

@@ -1,0 +1,6 @@
+Improving Early Prognosis of Dementia Using Machine Learning Methods
+Georgios Katsimpras, Fotis Aisopos, Peter Garrard, Maria-Esther Vidal, Georgios Paliouras
+ACM Transactions on Computing for Healthcare
+07 April 2022
+Early and precise prognosis of dementia is a critical medical challenge. The design of an optimal computational model that addresses this issue, and at the same time explains the underlying mechanisms that lead to output decisions, is an ongoing challenge. In this study, we focus on assessing the risk of an individual converting to Dementia in the short (next year) and long (one to five years) term, given only a few early-stage observations. Our goal is to develop a machine learning model that could assist the prediction of dementia from regular clinical data. The results show that combining various machine learning techniques together can successfully define ways to identify the risks of developing dementia over the following five years with accuracies considerably above average rates. These findings suggest that accurately developed models can be considered as a promising tool to improve early dementia prognosis.
+https://dl.acm.org/doi/10.1145/3502433

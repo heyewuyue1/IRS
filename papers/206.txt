@@ -1,0 +1,6 @@
+Word Sense Disambiguation using Cooperative Game Theory and Fuzzy Hindi WordNet based on ConceptNet
+Goonjan Jain, D. K. Lobiyal
+ACM Transactions on Asian and Low-Resource Language Information Processing
+04 March 2022
+Natural Language is fuzzy in nature. The fuzziness of Hindi language was captured in the Fuzzy Hindi WordNet (FHWN) . FHWN assigned membership values to fuzzy relationships by consulting experts from various domains. However, these membership values need to be corrected. In the proposed work, we compute the membership values of fuzzy semantic relations using ConceptNet. Later, we perform WSD of Hindi text using cooperative game theoretic approach. We used the Shapley Value centrality measure where we predict which coalition of players (word senses) proves to be the most beneficial. We tested and compared our algorithm with the existing state-of-the-art approaches of Hindi on three datasets and results are better on all the three datasets. One more notable aspect is that the results are quite stable even if the fuzzy membership values of fuzzy graphs changes.
+https://dl.acm.org/doi/10.1145/3502739

@@ -1,0 +1,6 @@
+Learning time-critical responses for interactive character control
+Kyungho Lee, Sehee Min, Sunmin Lee, Jehee Lee
+ACM Transactions on Graphics
+19 July 2021
+Creating agile and responsive characters from a collection of unorganized human motion has been an important problem of constructing interactive virtual environments. Recently, learning-based approaches have successfully been exploited to learn deep network policies for the control of interactive characters. The agility and responsiveness of deep network policies are influenced by many factors, such as the composition of training datasets, the architecture of network models, and learning algorithms that involve many threshold values, weights, and hyper-parameters. In this paper, we present a novel teacher-student framework to learn time-critically responsive policies, which guarantee the time-to-completion between user inputs and their associated responses regardless of the size and composition of the motion databases. We demonstrate the effectiveness of our approach with interactive characters that can respond to the user's control quickly while performing agile, highly dynamic movements.
+https://dl.acm.org/doi/10.1145/3450626.3459826

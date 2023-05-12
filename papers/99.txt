@@ -1,0 +1,6 @@
+The good, the bad, and the ugly: mining for patterns in student source code
+Kim Mens, Siegfried Nijssen, Hoang-Son Pham
+EASEAI 2021: Proceedings of the 3rd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence
+23 August 2021
+Research on source code mining has been explored to discover interesting structural regularities, API usage patterns, refactoring opportunities, bugs, crosscutting concerns, code clones and systematic changes. In this paper we present a pattern mining algorithm that uses frequent tree mining to mine for interesting good, bad or ugly coding idioms made by undergraduate students taking an introductory programming course. We do so by looking for patterns that distinguish positive examples, corresponding to the more correct answers to a question, from negative examples, corresponding to solutions that failed the question. We report promising initial results of this algorithm applied to the source code of over 500 students. Even though more work is needed to fine-tune and validate the algorithm further, we hope that it can lead to interesting insights that can eventually be integrated into an intelligent recommendation system to help students learn from their errors.
+https://dl.acm.org/doi/10.1145/3472673.3473958

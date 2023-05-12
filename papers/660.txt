@@ -1,0 +1,6 @@
+Battery-Free Camera Occupancy Detection System
+Ali Saffari, Sin Yong Tan, Mohamad Katanbaf, Homagni Saha, Joshua R. Smith, Soumik Sarkar
+EMDL'21: Proceedings of the 5th International Workshop on Embedded and Mobile Deep Learning
+24 June 2021
+Occupancy detection systems are commonly equipped with high-quality cameras and a processor with high computational power to run detection algorithms. This paper presents a human occupancy detection system that uses battery-free cameras and a deep learning model implemented on a low-cost hub to detect human presence. Our low-resolution camera harvests energy from ambient light and transmits data to the hub using backscatter communication. We implement the state-of-the-art YOLOv5 network detection algorithm that offers high detection accuracy and fast inferencing speed on a Raspberry Pi 4 Model B. We achieve an inferencing speed of ~ 100ms per image and an overall detection accuracy of >90% with only 2GB CPU RAM on the Raspberry Pi. In the experimental results, we also demonstrate that the detection is robust to noise, illuminance, occlusion, and angle of depression.
+https://dl.acm.org/doi/10.1145/3469116.3470013

@@ -1,0 +1,6 @@
+Factorization of Binary Matrices: Rank Relations, Uniqueness and Model Selection of Boolean Decomposition
+Derek Desantis, Erik Skau, Duc P. Truong, Boian Alexandrov
+ACM Transactions on Knowledge Discovery from Data
+30 July 2022
+The application of binary matrices are numerous. Representing a matrix as a mixture of a small collection of latent vectors via low-rank decomposition is often seen as an advantageous method to interpret and analyze data. In this work, we examine the factorizations of binary matrices using standard arithmetic (real and nonnegative) and logical operations (Boolean and ℤ 2 ). We examine the relationships between the different ranks, and discuss when factorization is unique. In particular, we characterize when a Boolean factorization X = W ∧ H has a unique W , a unique H (for a fixed W ), and when both W and H are unique, given a rank constraint. We introduce a method for robust Boolean model selection, called BMF k , and show on numerical examples that BMF k not only accurately determines the correct number of Boolean latent features but reconstruct the pre-determined factors accurately.
+https://dl.acm.org/doi/10.1145/3522594

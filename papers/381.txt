@@ -1,0 +1,6 @@
+Isolating Uncertainty of the Face Expression Recognition with the Meta-Learning Supervisor Neural Network
+Stanislav Selitskiy, Nikolaos Christou, Natalya Selitskaya
+AIVR 2021: 2021 5th International Conference on Artificial Intelligence and Virtual Reality (AIVR)
+08 November 2021
+We investigate whether the well-known poor performance of the head-on usage of the convolutional neural networks for the facial expression recognition task may be improved in terms of reducing the false positive and false negative errors. An uncertainty isolating technique is used that introduces an additional “unknown” class. A self-attention supervisor artificial neural network is used to “learn about learning” of the underlying convolutional neural networks, in particular, to learn patterns of the underlying neural network parameters that accompany wrong or correct verdicts. A novel data set containing artistic makeup and occlusions images is used to aggravate the problem of the training data not representing the test data distribution.
+https://dl.acm.org/doi/10.1145/3480433.3480447

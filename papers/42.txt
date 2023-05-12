@@ -1,0 +1,6 @@
+A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions
+Xuefei Yin, Yanming Zhu, Jiankun Hu
+ACM Computing Surveys
+13 July 2021
+The past four years have witnessed the rapid development of federated learning (FL). However, new privacy concerns have also emerged during the aggregation of the distributed intermediate results. The emerging privacy-preserving FL (PPFL) has been heralded as a solution to generic privacy-preserving machine learning. However, the challenge of protecting data privacy while maintaining the data utility through machine learning still remains. In this article, we present a comprehensive and systematic survey on the PPFL based on our proposed 5W-scenario-based taxonomy. We analyze the privacy leakage risks in the FL from five aspects, summarize existing methods, and identify future research directions.
+https://dl.acm.org/doi/10.1145/3460427

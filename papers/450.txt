@@ -1,0 +1,6 @@
+QuatRE: Relation-Aware Quaternions for Knowledge Graph Embeddings
+Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dinh Phung
+WWW '22: Companion Proceedings of the Web Conference 2022
+16 August 2022
+We propose a simple yet effective embedding model to learn quaternion embeddings for entities and relations in knowledge graphs. Our model aims to enhance correlations between head and tail entities given a relation within the Quaternion space with Hamilton product. The model achieves this goal by further associating each relation with two relation-aware rotations, which are used to rotate quaternion embeddings of the head and tail entities, respectively. Experimental results show that our proposed model produces state-of-the-art performances on well-known benchmark datasets for knowledge graph completion. Our code is available at: https://github.com/daiquocnguyen/QuatRE.
+https://dl.acm.org/doi/10.1145/3487553.3524251

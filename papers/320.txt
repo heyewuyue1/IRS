@@ -1,0 +1,6 @@
+A Secure Face Recognition for IoT-enabled Healthcare System
+Alamgir Sardar, Saiyed Umer, Ranjeet Kr. Rout, Shui-Hua Wang, M. Tanveer
+ACM Transactions on Sensor Networks
+17 April 2023
+In Healthcare, the Internet of Things (IoT)-enabled surveillance cameras capture thousands of images every day, where face recognition provides reliable security as well as smart treatment through patient sentiment analysis, emotion detection, automated nurse calls, and hospital traffic systems. In this article, a secure face recognition system for the IoT-enabled Healthcare system has been proposed. Here each registered person will be identified by his/her face biometric with strong template protection schemes. To protect the biometric information, three-step template protection techniques are proposed: (i) Cancelable biometrics , (ii) BioCrypto-Circuit , and (iii) BioCrypto-Protection . The performance of the proposed system has been tested on four benchmark face databases, CVL, IITK, Casia-Face-v5, and FERET. The results of the proposed system are reported in terms of the correct recognition rate and the equal error rate. These performances have also been compared with some state-of-the-art methods with respect to each employed database, which shows the novelty of the proposed system.
+https://dl.acm.org/doi/10.1145/3534122

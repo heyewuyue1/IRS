@@ -1,0 +1,6 @@
+Establishing Data Provenance for Responsible Artificial Intelligence Systems
+Karl Werder, Balasubramaniam Ramesh, Rongen (Sophia) Zhang
+ACM Transactions on Management Information Systems
+10 March 2022
+Data provenance, a record that describes the origins and processing of data, offers new promises in the increasingly important role of artificial intelligence (AI)-based systems in guiding human decision making. To avoid disastrous outcomes that can result from bias-laden AI systems, responsible AI builds on four important characteristics: fairness, accountability, transparency, and explainability. To stimulate further research on data provenance that enables responsible AI, this study outlines existing biases and discusses possible implementations of data provenance to mitigate them. We first review biases stemming from the data's origins and pre-processing. We then discuss the current state of practice, the challenges it presents, and corresponding recommendations to address them. We present a summary highlighting how our recommendations can help establish data provenance and thereby mitigate biases stemming from the data's origins and pre-processing to realize responsible AI-based systems. We conclude with a research agenda suggesting further research avenues.
+https://dl.acm.org/doi/10.1145/3503488

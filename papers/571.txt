@@ -1,0 +1,6 @@
+Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges
+Madhura Joshi, Ankit Pal, Malaikannan Sankarasubbu
+ACM Transactions on Computing for Healthcare
+03 November 2022
+Federated learning is the process of developing machine learning models over datasets distributed across data centers such as hospitals, clinical research labs, and mobile devices while preventing data leakage. This survey examines previous research and studies on federated learning in the healthcare sector across a range of use cases and applications. Our survey shows what challenges, methods, and applications a practitioner should be aware of in the topic of federated learning. This paper aims to lay out existing research and list the possibilities of federated learning for healthcare industries.
+https://dl.acm.org/doi/10.1145/3533708

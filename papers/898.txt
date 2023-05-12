@@ -1,0 +1,6 @@
+Evolutionary Dynamic Multi-objective Optimisation: A Survey
+Shouyong Jiang, Juan Zou, Shengxiang Yang, Xin Yao
+ACM Computing Surveys
+21 November 2022
+Evolutionary dynamic multi-objective optimisation (EDMO) is a relatively young but rapidly growing area of investigation. EDMO employs evolutionary approaches to handle multi-objective optimisation problems that have time-varying changes in objective functions, constraints, and/or environmental parameters. Due to the simultaneous presence of dynamics and multi-objectivity in problems, the optimisation difficulty for EDMO has a marked increase compared to that for single-objective or stationary optimisation. After nearly two decades of community effort, EDMO has achieved significant advancements on various topics, including theoretic research and applications. This article presents a broad survey and taxonomy of existing research on EDMO. Multiple research opportunities are highlighted to further promote the development of the EDMO research field.
+https://dl.acm.org/doi/10.1145/3524495

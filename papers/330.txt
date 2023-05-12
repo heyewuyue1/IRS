@@ -1,0 +1,6 @@
+Fuzzy Feature Similarity Functions for Feature Clustering and Dimensionality Reduction
+Arun Nagaraja, Uma Boregowda, Radhakrishna Vangipuram
+DATA'21: International Conference on Data Science, E-learning and Information Systems 2021
+04 June 2021
+Dimensionality reduction is usually obtained by applying some of the most well unknown methods such as principal component analysis, singular value decomposition, feature selection algorithms which are based on information gain, Gini index etc. The objective behind achievement of dimensionality reduction is reducing computational complexity and at the same time aiming to attain better performance by learning algorithms which may perform supervised or unsupervised learning. In this paper, we present a feature clustering similarity function for dimensionality reduction so that the eventual reduced dataset may be used to reduce the computational complexity and also result better classifier evaluation results interms of accuracy, precision etc.
+https://dl.acm.org/doi/10.1145/3460620.3460758

@@ -1,0 +1,6 @@
+JoT-GAN: A Framework for Jointly Training GAN and Person Re-Identification Model
+Zhongwei Zhao, Ran Song, Qian Zhang, Peng Duan, Youmei Zhang
+ACM Transactions on Multimedia Computing, Communications, and Applications
+25 January 2022
+To cope with the problem caused by inadequate training data, many person re-identification (re-id) methods exploit generative adversarial networks (GAN) for data augmentation, where the training of GAN is typically independent of that of the re-id model. The coupling relation between them that probably brings in a performance gain of re-id is thus ignored. In this work, we propose a general framework, namely JoT-GAN, to jointly train GAN and the re-id model. It can simultaneously achieve the optima of both the generator and the re-id model, where the training is guided by each other through a discriminator. The re-id model is boosted for two reasons: (1) the adversarial training encourages it to fool the discriminator, and (2) the generated samples augment the training data. Extensive results on benchmark datasets show that for the re-id model trained with the identification loss as well as the triplet loss, the proposed joint training framework outperforms existing methods with separate training and achieves state-of-the-art re-id performance.
+https://dl.acm.org/doi/10.1145/3491225

@@ -1,0 +1,6 @@
+GPU-based Classification for Wireless Intrusion Detection
+Alina Lazar, Alex Sim, Kesheng Wu
+SNTA '21: Proceedings of the 2021 on Systems and Network Telemetry and Analytics
+15 June 2021
+Automated network intrusion detection systems (NIDS) continuously monitor the network traffic to detect attacks or/and anomalies. These systems need to be able to detect attacks and alert network engineers in real-time. Therefore, modern NIDS are built using complex machine learning algorithms that require large training datasets and are time-consuming to train. The proposed work shows that machine learning algorithms from the RAPIDS cuML library on Graphics Processing Units (GPUs) can speed-up the training process on large scale datasets. This approach is able to reduce the training time while providing high accuracy and performance. We demonstrate the proposed approach on a large subset of data extracted from the Aegean Wi-Fi Intrusion Dataset (AWID). Multiple classification experiments were performed on both CPU and GPU. We achieve up to 65x acceleration of training several machine learning methods by moving most of the pipeline computations to the GPU and leveraging the new cuML library as well as the GPU version of the CatBoost library.
+https://dl.acm.org/doi/10.1145/3452411.3464445

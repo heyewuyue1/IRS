@@ -1,0 +1,6 @@
+Learning to Select: A Fully Attentive Approach for Novel Object Captioning
+Marco Cagrandi, Marcella Cornia, Matteo Stefanini, Lorenzo Baraldi, Rita Cucchiara
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+Image captioning models have lately shown impressive results when applied to standard datasets. Switching to real-life scenarios, however, constitutes a challenge due to the larger variety of visual concepts which are not covered in existing training sets. For this reason, novel object captioning (NOC) has recently emerged as a paradigm to test captioning models on objects which are unseen during the training phase. In this paper, we present a novel approach for NOC that learns to select the most relevant objects of an image, regardless of their adherence to the training set, and to constrain the generative process of a language model accordingly. Our architecture is fully-attentive and end-to-end trainable, also when incorporating constraints. We perform experiments on the held-out COCO dataset, where we demonstrate improvements over the state of the art, both in terms of adaptability to novel objects and caption quality.
+https://dl.acm.org/doi/10.1145/3460426.3463587

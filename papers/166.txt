@@ -1,0 +1,6 @@
+Comparison of machine learning algorithms for automatic assessment of performance in a virtual reality dental simulator
+Lucas H. Sallaberry, Romero Tori, Fatima L S Nunes
+SVR'21: Symposium on Virtual and Augmented Reality
+03 January 2022
+Virtual reality simulators for training of apprentices have been successfully developed for many different medical fields. However, establishing an objective and automatic method to assess the student’s performance is still difficult to achieve, as it is fairly complex to model and it can differ significantly for each medical procedure. In this study, we extracted several features from a dataset collected in a virtual reality simulator and compared the performance of different machine learning classification algorithms (Naive Bayes, Random Forests, Multi Layer Perceptrons and Support Vector Machine) and feature select/fusion algorithms (ReliefF and PCA). We found that the Naive Bayes classifier generally achieved worse results than the other three classifiers and the best results for each algorithm was usually achieved when combined with the ReliefF feature selection algorithm.
+https://dl.acm.org/doi/10.1145/3488162.3488207

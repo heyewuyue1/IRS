@@ -1,0 +1,6 @@
+Facial Expression Recognition Based on Deep Learning and Attention Mechanism
+Yexuan Ma, Chaobing Huang
+AISS '21: Proceedings of the 3rd International Conference on Advanced Information Science and System
+19 January 2022
+Facial expression recognition has always been a challenging task. With the development of deep learning theory, facial expression recognition has brought new breakthroughs and development trends. This paper proposes a network based on attention mechanism. A mask block is designed to extract facial expression feature information, the improved residual network is used to obtain multi-scale feature information, and the convolutional block attention module (CBAM) is added to the network to pay attention to image detail features. The experimental results show that the recognition rate of the proposed network reaches 72.84% and 85.43% of the public data sets of FER2013 and RAF-DB, which effectively improves the accuracy of expression recognition.
+https://dl.acm.org/doi/10.1145/3503047.3503052

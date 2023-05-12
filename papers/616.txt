@@ -1,0 +1,6 @@
+Spatial Variability Aware Deep Neural Networks (SVANN): A General Approach
+Jayant Gupta, Carl Molnar, Yiqun Xie, Joe Knight, Shashi Shekhar
+ACM Transactions on Intelligent Systems and Technology
+30 November 2021
+Spatial variability is a prominent feature of various geographic phenomena such as climatic zones, USDA plant hardiness zones, and terrestrial habitat types (e.g., forest, grasslands, wetlands, and deserts). However, current deep learning methods follow a spatial-one-size-fits-all (OSFA) approach to train single deep neural network models that do not account for spatial variability. Quantification of spatial variability can be challenging due to the influence of many geophysical factors. In preliminary work, we proposed a spatial variability aware neural network (SVANN-I, formerly called SVANN ) approach where weights are a function of location but the neural network architecture is location independent. In this work, we explore a more flexible SVANN-E approach where neural network architecture varies across geographic locations. In addition, we provide a taxonomy of SVANN types and a physics inspired interpretation model. Experiments with aerial imagery based wetland mapping show that SVANN-I outperforms OSFA and SVANN-E performs the best of all.
+https://dl.acm.org/doi/10.1145/3466688

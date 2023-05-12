@@ -1,0 +1,6 @@
+Artificial intelligence and mental health
+Keith Kirkpatrick
+Communications of the ACM
+25 April 2022
+How AI can be used to improve diagnosis of mental health conditions.
+https://dl.acm.org/doi/10.1145/3524017

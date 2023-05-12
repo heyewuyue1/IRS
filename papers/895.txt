@@ -1,0 +1,6 @@
+Evolutionary Large-Scale Multi-Objective Optimization: A Survey
+Ye Tian, Langchun Si, Xingyi Zhang, Ran Cheng, Cheng He, Kay Chen Tan, Yaochu Jin
+ACM Computing Surveys
+04 October 2021
+Multi-objective evolutionary algorithms (MOEAs) have shown promising performance in solving various optimization problems, but their performance may deteriorate drastically when tackling problems containing a large number of decision variables. In recent years, much effort been devoted to addressing the challenges brought by large-scale multi-objective optimization problems. This article presents a comprehensive survey of stat-of-the-art MOEAs for solving large-scale multi-objective optimization problems. We start with a categorization of these MOEAs into decision variable grouping based, decision space reduction based, and novel search strategy based MOEAs, discussing their strengths and weaknesses. Then, we review the benchmark problems for performance assessment and a few important and emerging applications of MOEAs for large-scale multi-objective optimization. Last, we discuss some remaining challenges and future research directions of evolutionary large-scale multi-objective optimization.
+https://dl.acm.org/doi/10.1145/3470971

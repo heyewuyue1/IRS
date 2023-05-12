@@ -1,0 +1,6 @@
+Semantic Knowledge Graphs for the News: A Review
+Andreas L. Opdahl, Tareq Al-Moslmi, Duc-Tien Dang-Nguyen, Marc Gallofré Ocaña, Bjørnar Tessem, Csaba Veres
+ACM Computing Surveys
+15 December 2022
+ICT platforms for news production, distribution, and consumption must exploit the ever-growing availability of digital data. These data originate from different sources and in different formats; they arrive at different velocities and in different volumes. Semantic knowledge graphs (KGs) is an established technique for integrating such heterogeneous information. It is therefore well-aligned with the needs of news producers and distributors, and it is likely to become increasingly important for the news industry. This article reviews the research on using semantic knowledge graphs for production, distribution, and consumption of news. The purpose is to present an overview of the field; to investigate what it means; and to suggest opportunities and needs for further research and development.
+https://dl.acm.org/doi/10.1145/3543508

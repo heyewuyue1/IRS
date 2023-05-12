@@ -1,0 +1,6 @@
+Research on automatic leveling Control based on improved PID Neural Network
+Chusi Huang, Jiandong Li
+AISS '21: Proceedings of the 3rd International Conference on Advanced Information Science and System
+19 January 2022
+Since the leveling system is a nonlinear multi-variable coupling system, it is difficult for the traditional control methods to achieve good control effect in the automatic leveling system. Therefore, this paper takes the four-legged structure platform as the research object and proposes the compound leveling method of the highest point stationary method combined with the inverse system decoupling control method as the leveling method. The mechatronic integration simulation model of the platform and the leg system is established by MATLAB/Simulink. On this basis, the platform is controlled by classical PID controller, classical multi-variable PID neural network controller and improved PID neural network decoupling controller. Simulation results show that the optimized PID neural network controller not only avoids jitter, false leg, overshoot and other problems, but also greatly reduces the leveling time and improves the leveling performance of the platform.
+https://dl.acm.org/doi/10.1145/3503047.3503125

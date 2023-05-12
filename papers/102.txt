@@ -1,0 +1,6 @@
+Residual Recurrent CRNN for End-to-End Optical Music Recognition on Monophonic Scores
+Aozhi Liu, Lipei Zhang, Yaqi Mei, Baoqiang Han, Zifeng Cai, Zhaohua Zhu, Jing Xiao
+MMPT '21: Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding
+27 August 2021
+One of the challenges of the Optical Music Recognition task is to transcript the symbols of the camera-captured images into digital music notations. Previous end-to-end model which was developed as a Convolutional Recurrent Neural Network does not explore sufficient contextual information from full scales and there is still a large room for improvement. We propose an innovative framework that combines a block of Residual Recurrent Convolutional Neural Network with a recurrent Encoder-Decoder network to map a sequence of monophonic music symbols corresponding to the notations present in the image. The Residual Recurrent Convolutional block can improve the ability of the model to enrich the context information. The experiment results are benchmarked against a publicly available dataset called CAMERA-PRIMUS, which demonstrates that our approach surpass the state-of-the-art end-to-end method using Convolutional Recurrent Neural Network.
+https://dl.acm.org/doi/10.1145/3463945.3469056

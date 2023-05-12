@@ -1,0 +1,6 @@
+Chain of Explanation: New Prompting Method to Generate Quality Natural Language Explanation for Implicit Hate Speech
+Fan Huang, Haewoon Kwak, Jisun An
+WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023
+30 April 2023
+Recent studies have exploited advanced generative language models to generate Natural Language Explanations (NLE) for why a certain text could be hateful. We propose the Chain of Explanation (CoE) Prompting method, using the heuristic words and target group, to generate high-quality NLE for implicit hate speech. We improved the BLUE score from 44.0 to 62.3 for NLE generation by providing accurate target information. We then evaluate the quality of generated NLE using various automatic metrics and human annotations of informativeness and clarity scores.
+https://dl.acm.org/doi/10.1145/3543873.3587320

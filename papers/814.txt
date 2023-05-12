@@ -1,0 +1,6 @@
+Text Mining in Cybersecurity: A Systematic Literature Review
+Luciano Ignaczak, Guilherme Goldschmidt, Cristiano André Da Costa, Rodrigo Da Rosa Righi
+ACM Computing Surveys
+18 July 2021
+The growth of data volume has changed cybersecurity activities, demanding a higher level of automation. In this new cybersecurity landscape, text mining emerged as an alternative to improve the efficiency of the activities involving unstructured data. This article proposes a Systematic Literature Review ( SLR ) to present the application of text mining in the cybersecurity domain. Using a systematic protocol, we identified 2,196 studies, out of which 83 were summarized. As a contribution, we propose a taxonomy to demonstrate the different activities in the cybersecurity domain supported by text mining. We also detail the strategies evaluated in the application of text mining tasks and the use of neural networks to support activities involving unstructured data. The work also discusses text classification performance aiming its application in real-world solutions. The SLR also highlights open gaps for future research, such as the analysis of non-English content and the intensification in the usage of neural networks.
+https://dl.acm.org/doi/10.1145/3462477

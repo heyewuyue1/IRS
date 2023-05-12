@@ -1,0 +1,6 @@
+Scarcity of Labels in Non-Stationary Data Streams: A Survey
+Conor Fahy, Shengxiang Yang, Mario Gongora
+ACM Computing Surveys
+21 January 2022
+In a dynamic stream there is an assumption that the underlying process generating the stream is non-stationary and that concepts within the stream will drift and change as the stream progresses. Concepts learned by a classification model are prone to change and non-adaptive models are likely to deteriorate and become ineffective over time. The challenge of recognising and reacting to change in a stream is compounded by the scarcity of labels problem. This refers to the very realistic situation in which the true class label of an incoming point is not immediately available (or might never be available) or in situations where manually annotating data points are prohibitively expensive. In a high-velocity stream, it is perhaps impossible to manually label every incoming point and pursue a fully supervised approach. In this article, we formally describe the types of change, which can occur in a data-stream and then catalogue the methods for dealing with change when there is limited access to labels. We present an overview of the most influential ideas in the field along with recent advancements and we highlight trends, research gaps, and future research directions.
+https://dl.acm.org/doi/10.1145/3494832

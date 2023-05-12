@@ -1,0 +1,6 @@
+Quantum Machine Learning: Current State and Challenges
+Maria Avramouli, Ilias Savvas, Georgia Garani, Anna Vasilaki
+PCI '21: Proceedings of the 25th Pan-Hellenic Conference on Informatics
+22 February 2022
+In recent years, machine learning has penetrated a large part of our daily lives, which creates special challenges and impressive progress in this area. Nevertheless, as the amount of daily data is grown, learning time is increased. Quantum machine learning (QML) may speed up the processing of information and provide great promise in machine learning. However, it is not used in practice yet, because quantum software and hardware challenges are still unsurmountable. This paper provides current research of quantum computing and quantum machine learning algorithms. Also, the quantum vendors, their frameworks, and their platforms are presented. A few fully implemented versions of quantum machine learning are presented, which are easier to be evaluated. Finally, QML's challenges, and problems are discussed.
+https://dl.acm.org/doi/10.1145/3503823.3503896

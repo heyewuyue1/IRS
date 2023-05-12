@@ -1,0 +1,6 @@
+Beyond NVD: Cybersecurity meets the Semantic Web.
+Raúl Aranovich, Muting Wu, Dian Yu, Katya Katsy, Benyamin Ahmadnia, Matthew Bishop, Vladimir Filkov, Kenji Sagae
+NSPW '21: New Security Paradigms Workshop
+27 December 2021
+Cybersecurity experts rely on the knowledge stored in databases like the NVD to do their work, but these are not the only sources of information about threats and vulnerabilities. Much of that information flows through social media channels. In this paper we argue that security experts and general users alike can benefit from the technologies of the Semantic Web, merging heterogeneous sources of knowledge in an ontological representation. We present a system that has an ontology of vulnerabilities at its core, but that is enhanced with NLP tools to identify cybersecurity-related information in social media and to launch queries over heterogeneous data sources. The transformative power of Semantic Web technologies for cybersecurity, which has been proven in the biomedical field, is evaluated and discussed.
+https://dl.acm.org/doi/10.1145/3498891.3501259

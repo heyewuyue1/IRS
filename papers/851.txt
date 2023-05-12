@@ -1,0 +1,6 @@
+A Survey on Concept Drift in Process Mining
+Denise Maria Vecino Sato, Sheila Cristiana De Freitas, Jean Paul Barddal, Edson Emilio Scalabrin
+ACM Computing Surveys
+08 October 2021
+Concept drift in process mining (PM) is a challenge as classical methods assume processes are in a steady-state, i.e., events share the same process version. We conducted a systematic literature review on the intersection of these areas, and thus, we review concept drift in PM and bring forward a taxonomy of existing techniques for drift detection and online PM for evolving environments. Existing works depict that (i) PM still primarily focuses on offline analysis, and (ii) the assessment of concept drift techniques in processes is cumbersome due to the lack of common evaluation protocol, datasets, and metrics.
+https://dl.acm.org/doi/10.1145/3472752

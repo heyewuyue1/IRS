@@ -1,0 +1,6 @@
+Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank
+Zuchao Li, Hai Zhao, Junru Zhou, Kevin Parnow, Shexia He
+ACM Transactions on Asian and Low-Resource Language Information Processing
+12 November 2022
+The latest developments in neural semantic role labeling (SRL) have shown great performance improvements with both the dependency and span formalism/styles. Although the two styles share many similarities in linguistic meaning and computation, most previous studies focus on a single style. In this article, we define a new cross-style semantic role label convention and propose a new cross-style joint optimization model designed around the most basic linguistic meaning of a semantic role. Our work provides a solution to make the results of the two styles more comparable and allowing both formalisms of SRL to benefit from their natural connections in both linguistics and computation. Our model learns a general semantic argument structure and is capable of outputting in either style. Additionally, we propose a syntax-aided method to uniformly enhance the learning of both dependency and span representations. Experiments show that the proposed methods are effective on both span and dependency SRL benchmarks.
+https://dl.acm.org/doi/10.1145/3526214

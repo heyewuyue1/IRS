@@ -1,0 +1,6 @@
+General virtual sketching framework for vector line art
+Haoran Mo, Edgar Simo-Serra, Chengying Gao, Changqing Zou, Ruomei Wang
+ACM Transactions on Graphics
+19 July 2021
+Vector line art plays an important role in graphic design, however, it is tedious to manually create. We introduce a general framework to produce line drawings from a wide variety of images, by learning a mapping from raster image space to vector image space. Our approach is based on a recurrent neural network that draws the lines one by one. A differentiable rasterization module allows for training with only supervised raster data. We use a dynamic window around a virtual pen while drawing lines, implemented with a proposed aligned cropping and differentiable pasting modules. Furthermore, we develop a stroke regularization loss that encourages the model to use fewer and longer strokes to simplify the resulting vector image. Ablation studies and comparisons with existing methods corroborate the efficiency of our approach which is able to generate visually better results in less computation time, while generalizing better to a diversity of images and applications.
+https://dl.acm.org/doi/10.1145/3450626.3459833

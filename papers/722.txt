@@ -1,0 +1,6 @@
+Guest Editorial: Special Issue on Computational Intelligence in the Internet of Things
+Yunhao Liu
+ACM Transactions on Sensor Networks
+05 August 2021
+
+https://dl.acm.org/doi/10.1145/3463812

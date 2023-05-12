@@ -1,0 +1,6 @@
+From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer
+Xin Xie, Ningyu Zhang, Zhoubo Li, Shumin Deng, Hui Chen, Feiyu Xiong, Mosha Chen, Huajun Chen
+WWW '22: Companion Proceedings of the Web Conference 2022
+16 August 2022
+Knowledge graph completion aims to address the problem of extending a KG with missing triples. In this paper, we provide an approach GenKGC, which converts knowledge graph completion to sequence-to-sequence generation task with the pre-trained language model. We further introduce relation-guided demonstration and entity-aware hierarchical decoding for better representation learning and fast inference. Experimental results on three datasets show that our approach can obtain better or comparable performance than baselines and achieve faster inference speed compared with previous methods with pre-trained language models. We also release a new large-scale Chinese knowledge graph dataset OpenBG500 for research purpose1.
+https://dl.acm.org/doi/10.1145/3487553.3524238

@@ -1,0 +1,6 @@
+Responsible data management
+Julia Stoyanovich, Serge Abiteboul, Bill Howe, H. V. Jagadish, Sebastian Schelter
+Communications of the ACM
+20 May 2022
+Perspectives on the role and responsibility of the data-management research community in designing, developing, using, and overseeing automated decision systems.
+https://dl.acm.org/doi/10.1145/3488717

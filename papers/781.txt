@@ -1,0 +1,6 @@
+Biomedical Question Answering: A Survey of Approaches and Challenges
+Qiao Jin, Zheng Yuan, Guangzhi Xiong, Qianlan Yu, Huaiyuan Ying, Chuanqi Tan, Mosha Chen, Songfang Huang, Xiaozhong Liu, Sheng Yu
+ACM Computing Surveys
+18 January 2022
+Automatic Question Answering (QA) has been successfully applied in various domains such as search engines and chatbots. Biomedical QA (BQA), as an emerging QA task, enables innovative applications to effectively perceive, access, and understand complex biomedical knowledge. There have been tremendous developments of BQA in the past two decades, which we classify into five distinctive approaches: classic, information retrieval, machine reading comprehension, knowledge base, and question entailment approaches. In this survey, we introduce available datasets and representative methods of each BQA approach in detail. Despite the developments, BQA systems are still immature and rarely used in real-life settings. We identify and characterize several key challenges in BQA that might lead to this issue, and we discuss some potential future directions to explore.
+https://dl.acm.org/doi/10.1145/3490238

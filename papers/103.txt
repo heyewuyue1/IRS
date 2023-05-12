@@ -1,0 +1,6 @@
+A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods
+Gullal S. Cheema, Sherzod Hakimov, Eric Müller-Budack, Ralph Ewerth
+MMPT '21: Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding
+27 August 2021
+Opinion and sentiment analysis is a vital task to characterize subjective information in social media posts. In this paper, we present a comprehensive experimental evaluation and comparison with six state-of-the-art methods, from which we have re-implemented one of them. In addition, we investigate different textual and visual feature embeddings that cover different aspects of the content, as well as the recently introduced multimodal CLIP embeddings. Experimental results are presented for two different publicly available benchmark datasets of tweets and corresponding images. In contrast to the evaluation methodology of previous work, we introduce a reproducible and fair evaluation scheme to make results comparable. Finally, we conduct an error analysis to outline the limitations of the methods and possibilities for the future work.
+https://dl.acm.org/doi/10.1145/3463945.3469058

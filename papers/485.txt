@@ -1,0 +1,6 @@
+Word-Sense disambiguation system for text readability
+Rodrigo AlarconLourdes Alarcon, Lourdes Moreno, Paloma Martínez
+DSAI 2020: 9th International Conference on Software Development and Technologies for Enhancing Accessibility and Fighting Info-exclusion
+09 June 2021
+People with cognitive, language and learning disabilities face accessibility barriers when reading texts with complex or specialized words. In order for these needs to be addressed, and in accordance with accessibility guidelines, it is beneficial to provide the definitions of complex words to the user. In this sense, human language can, at times, be ambiguous, and many words may be interpreted in multiple ways depending on the context. To offer a correct definition, it is often necessary to carry out Word Sense Disambiguation. In this paper, a system that is based on Natural Language Processing and Language Resources in the field of easy reading to provide a contextualized definition for a complex word is presented. An expert linguistic, specialized in easy reading and plain language, has evaluated the Word Sense Disambiguation system. This research work is part of the EASIER project that offers an accessible platform to provide users with the easiest possible Spanish text to understand and read.
+https://dl.acm.org/doi/10.1145/3439231.3439257

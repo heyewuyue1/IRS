@@ -1,0 +1,6 @@
+Ontology-Based Extraction of Kazakh Language Word Combinations in Natural Language Processing
+Gaziza Yelibayeva, Altynbek Sharipbay, Gulmira Bekmanova, Assel Omarbekova
+DATA'21: International Conference on Data Science, E-learning and Information Systems 2021
+04 June 2021
+This article provides an ontological model of nominative word combinations in the Kazakh language. It is necessary for creation of the automated templates for search of nominative word combinations of the Kazakh language in text corpora. The presented model expands the theory of applied linguistics in the field of extracting information from the text during corpus studies. The results will be used in semantic searches, Q&A systems and in the development of software applications for obtaining knowledge, as well as for training and evaluation of knowledge on the syntax of the Kazakh language in the system of e-learning.
+https://dl.acm.org/doi/10.1145/3460620.3460631

@@ -1,0 +1,6 @@
+Multi-feature Fusion VoteNet for 3D Object Detection
+Zhoutao Wang, Qian Xie, Mingqiang Wei, Kun Long, Jun Wang
+ACM Transactions on Multimedia Computing, Communications, and Applications
+27 January 2022
+In this article, we propose a Multi-feature Fusion VoteNet (MFFVoteNet) framework for improving the 3D object detection performance in cluttered and heavily occluded scenes. Our method takes the point cloud and the synchronized RGB image as inputs to provide object detection results in 3D space. Our detection architecture is built on VoteNet with three key designs. First, we augment the VoteNet input with point color information to enhance the difference of various instances in a scene. Next, we integrate an image feature module into the VoteNet to provide a strong object class signal that can facilitate deterministic detections in occlusion. Moreover, we propose a Projection Non-Maximum Suppression (PNMS) method in 3D object detection to eliminate redundant proposals and hence provide more accurate positioning of 3D objects. We evaluate the proposed MFFVoteNet on two challenging 3D object detection datasets, i.e., ScanNetv2 and SUN RGB-D. Extensive experiments show that our framework can effectively improve the performance of 3D object detection.
+https://dl.acm.org/doi/10.1145/3462219

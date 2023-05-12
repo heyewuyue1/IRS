@@ -1,0 +1,6 @@
+Regression and Machine Learning analysis to predict the length of stay in patients undergoing hip replacement surgery
+Cristina Ponsiglione, Teresa Angela Trunfio, Francesco Bruno, Anna Borrelli
+BECB 2021: 2021 International Symposium on Biomedical Engineering and Computational Biology
+14 February 2022
+
+https://dl.acm.org/doi/10.1145/3502060.3503616

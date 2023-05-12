@@ -1,0 +1,6 @@
+A Federated Learning-enabled Smart Street Light Monitoring Application: Benefits and Future Challenges
+Diya Anand, Ioannis Mavromatis, Pietro Carnelli, Aftab Khan
+MORSE '22: Proceedings of the 1st ACM Workshop on AI Empowered Mobile and Wireless Sensing
+13 February 2023
+Data-enabled cities are recently accelerated and enhanced with automated learning for improved Smart Cities applications. In the context of an Internet of Things (IoT) ecosystem, the data communication is frequently costly, inefficient, not scalable and lacks security. Federated Learning (FL) plays a pivotal role in providing privacy-preserving and communication efficient Machine Learning (ML) frameworks. In this paper we evaluate the feasibility of FL in the context of a Smart Cities Street Light Monitoring application. FL is evaluated against benchmarks of centralised and (fully) personalised machine learning techniques for the classification task of the lampposts operation. Incorporating FL in such a scenario shows minimal performance reduction in terms of the classification task, but huge improvements in the communication cost and the privacy preserving. These outcomes strengthen FL's viability and potential for IoT applications.
+https://dl.acm.org/doi/10.1145/3556558.3558580

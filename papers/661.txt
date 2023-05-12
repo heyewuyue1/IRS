@@ -1,0 +1,6 @@
+Developing a Vietnamese Tourism Question Answering System Using Knowledge Graph and Deep Learning
+Phuc Do, Truong H. V. Phan, Brij B. Gupta
+ACM Transactions on Asian and Low-Resource Language Information Processing
+30 June 2021
+In recent years, Question Answering (QA) systems have increasingly become very popular in many sectors. This study aims to use a knowledge graph and deep learning to develop a QA system for tourism in Vietnam. First, the QA system replies to a user's question about a place in Vietnam. Then, the QA describes it in detail such as when the place was discovered, why the place's name was called like that, and so on. Finally, the system recommends some related tourist attractions to users. Meanwhile, deep learning is used to solve a simple natural language answer, and a knowledge graph is used to infer a natural language answering list related to entities in the question. The study experiments on a manual dataset collected from Vietnamese tourism websites. As a result, the QA system combining the two above approaches provides more information than other systems have done before. Besides that, the system gets 0.83 F1, 0.87 precision on the test set.
+https://dl.acm.org/doi/10.1145/3453651

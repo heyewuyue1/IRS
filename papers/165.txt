@@ -1,0 +1,6 @@
+Recurrent SinGAN: Towards Scale-Agnostic Single Image GANs
+Xiaoyu He, Zhenyong Fu
+EITCE '21: Proceedings of the 2021 5th International Conference on Electronic Information Technology and Computer Engineering
+31 December 2021
+Learning a deep generative model on a single image has attracted considerable attention recently. In this paper, we present a single image generative model, named recurrent SinGAN, based on the recent proposed SinGAN [22]. The original SinGAN relies on a pyramid architecture of generators to learn the patch distribution from the pyramid of multiple image scales. We propose a recurrent generator to replace the pyramid of generators in SinGAN with a single recurrent generator. Our single recurrent generator can learn the patch distributions across multiple scales, yielding a scale-agnostic single image generative model.  On the image synthesis task, our recurrent SinGAN performs on par with the original SinGAN, however our method reduces the training time by almost 60% and has 4.5x fewer parameters.  Moreover, the results on various image manipulation tasks, including paint-to-image, image editing, harmonization, and image super-resolution, further verify the effectiveness of our proposed method.
+https://dl.acm.org/doi/10.1145/3501409.3501476

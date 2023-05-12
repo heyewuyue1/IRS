@@ -1,0 +1,6 @@
+Simulation Daily Mobility in Rabat region
+Khalid Qbouche, Khadija Rhoulami
+NISS2021: Proceedings of the 4th International Conference on Networking, Information Systems & Security
+26 November 2021
+Nowadays, the world has seen a huge evolution in big cities because of urban development, so the percentage of overcrowding is increased. This problem is influenced by the daily movement, either by private transport or public transport. Therefore, Daily Mobility (DM) is usually interconnected to human urban behavior to give more realistic and effective simulation models. In this paper, we represent a displacement scenario of daily mobility between the place of residence and the workplace of each person who is characterized by the coordinates of GPS (Place_id) by Gama Platform. Besides, we implemented a prototype for the movement of people in the Rabat region.
+https://dl.acm.org/doi/10.1145/3454127.3454128

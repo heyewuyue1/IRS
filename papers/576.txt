@@ -1,0 +1,6 @@
+Multi-document Summarization via Deep Learning Techniques: A Survey
+Congbo Ma, Wei Emma Zhang, Mingyu Guo, Hu Wang, Quan Z. Sheng
+ACM Computing Surveys
+03 December 2022
+Multi-document summarization (MDS) is an effective tool for information aggregation that generates an informative and concise summary from a cluster of topic-related documents. Our survey, the first of its kind, systematically overviews the recent deep-learning-based MDS models. We propose a novel taxonomy to summarize the design strategies of neural networks and conduct a comprehensive summary of the state of the art. We highlight the differences between various objective functions that are rarely discussed in the existing literature. Finally, we propose several future directions pertaining to this new and exciting field.
+https://dl.acm.org/doi/10.1145/3529754

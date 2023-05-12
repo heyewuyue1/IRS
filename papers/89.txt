@@ -1,0 +1,6 @@
+Fast k-means Clustering Based on the Neighbor Information
+Daowan Peng, Zizhong Chen, Jingcheng Fu, Shuyin Xia, Qing Wen
+ISEEIE 2021: 2021 International Symposium on Electrical, Electronics and Information Engineering
+20 July 2021
+The k-means algorithm has been widely used in the last several decades, but the efficiency of Lloyd's k-means algorithm drops sharply in dealing with large-scale data scenarios. To solve this problem, this paper proposes a fast k-means algorithm based on neighbor information. Firstly, we propose a localization strategy in the reassignment step of k-means. Through this strategy, the scale of distance calculation is greatly reduced. Secondly, we propose the neighbor update strategy. In such a way, more accurate neighbors for each cluster could be found in each iteration, thereby ensuring the clustering quality when the k-means algorithm converges. The proposed k-means algorithm was evaluated on multiple real-world datasets and increased the speed up to hundreds of times while only losing about 1.10% of the clustering result quality.
+https://dl.acm.org/doi/10.1145/3459104.3459194

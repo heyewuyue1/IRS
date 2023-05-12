@@ -1,0 +1,6 @@
+Towards Metaheuristic Scheduling Techniques in Cloud and Fog: An Extensive Taxonomic Review
+Raj Mohan Singh, Lalit Kumar Awasthi, Geeta Sikka
+ACM Computing Surveys
+03 February 2022
+Task scheduling is a critical issue in distributed computing environments like cloud and fog. The objective is to provide an optimal distribution of tasks among the resources. Several research initiatives to use metaheuristic techniques for finding near-optimal solutions to task scheduling problems are under way. This study presents a comprehensive taxonomic review and analysis of recent metaheuristic scheduling techniques using exhaustive evaluation criteria in the cloud and fog environment. A taxonomy of metaheuristic scheduling algorithms is presented. Besides, we have considered an extensive list of scheduling objectives along with their associated metrics. Rigorous evaluation of existing literature is performed, and limitations highlighted. We have also focused on hybrid algorithms as they tend to improve scheduling performance. We believe that this work will encourage researchers to conduct further research for removing the limitations in existing studies.
+https://dl.acm.org/doi/10.1145/3494520

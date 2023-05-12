@@ -1,0 +1,6 @@
+End-to-end Machine Learning using Kubeflow
+Johnu George, Amit Saha
+CODS-COMAD 2022: 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)
+08 January 2022
+Usually data scientists are adept in deriving valuable insights from data by applying appropriate machine learning algorithms. However, data scientists are usually not skilled in developing or operating production level software which is the domain of ML Operators. In order to move from initial experiments to production grade systems, the code needs to run at scale on large, realistic data sets, and be able to run on both on-premise equipment as well as on public clouds. Additionally, the entire process needs to be part of some Software Development Lifecycle (SDLC), accounting for some flavour of continuous integration/continuous development (CICD).  In this tutorial, attendees will learn about the components of an end-to-end ML system, and will get hands-on experience on model training, hyperparameter tuning, and model deployment. The tutorial will be based on Kubeflow, a widely used open-source (Apache License 2.0) machine learning toolkit for Kubernetes. The related code and examples can be accessed from a public github repository.
+https://dl.acm.org/doi/10.1145/3493700.3493768

@@ -1,0 +1,6 @@
+Vietnamese sign language detection using Mediapipe
+Bach Duy Khuat, Duong Thai Phung, Ha Thi Thu Pham, Anh Ngoc Bui, Son Tung Ngo
+ICSCA 2021: 2021 10th International Conference on Software and Computer Applications
+30 July 2021
+Sign language is the only way used in communication for deaf and dumb people who cannot hear and speak. Viet Nam has nearly 2.5 million people with hearing and speaking disabilities, while the number of sign language interpreters in Vietnam is tiny. The hearing impaired has the same need for normal communication, access to information, and public services such as hospitals as ordinary people. The lack of sign language interpreters and effective methods to assist ordinary people in communicating with the hearing impaired require a convenient tool that makes sign language friendly for everyone. This paper presents an implementation using a recurrent neural network (RNN) with a Mediapipe hand tracking framework for Sign Language Gesture Recognition. Training data is created from input video using Multi-Hand Tracking and deep learning model that can recognize gestures by Hand Landmark Features per frame with RNN training. The dataset contains gestures of the most common words in Vietnamese. This model produces good accurate results in word recognition.
+https://dl.acm.org/doi/10.1145/3457784.3457810

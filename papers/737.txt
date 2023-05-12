@@ -1,0 +1,6 @@
+: When Federated Learning Meets Pre-training
+Yuanyishu Tian, Yao Wan, Lingjuan Lyu, Dezhong Yao, Hai Jin, Lichao Sun
+ACM Transactions on Intelligent Systems and Technology
+24 August 2022
+The fast growth of pre-trained models (PTMs) has brought natural language processing to a new era, which has become a dominant technique for various natural language processing (NLP) applications. Every user can download the weights of PTMs, then fine-tune the weights for a task on the local side. However, the pre-training of a model relies heavily on accessing a large-scale of training data and requires a vast amount of computing resources. These strict requirements make it impossible for any single client to pre-train such a model. To grant clients with limited computing capability to participate in pre-training a large model, we propose a new learning approach, FedBERT , that takes advantage of the federated learning and split learning approaches, resorting to pre-training BERT in a federated way. FedBERT can prevent sharing the raw data information and obtain excellent performance. Extensive experiments on seven GLUE tasks demonstrate that FedBERT can maintain its effectiveness without communicating to the sensitive local data of clients.
+https://dl.acm.org/doi/10.1145/3510033

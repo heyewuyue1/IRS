@@ -1,0 +1,6 @@
+Sequence-Based Extractive Summarisation for Scientific Articles
+Daniel Kershaw, Rob Koeling
+WWW '22: Companion Proceedings of the Web Conference 2022
+16 August 2022
+This paper presents the results of research on supervised extractive text summarisation for scientific articles. We show that a simple sequential tagging model based only on the text within a document achieves high results against a simple classification model. Improvements can be achieved through additional sentence-level features, though these were minimal. Through further analysis, we show the potential of the sequential model relying on the structure of the document depending on the academic discipline which the document is from.
+https://dl.acm.org/doi/10.1145/3487553.3524652

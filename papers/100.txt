@@ -1,0 +1,6 @@
+VaryMinions: leveraging RNNs to identify variants in event logs
+Sophie Fortz, Paul Temple, Xavier Devroey, Patrick Heymans, Gilles Perrouin
+MaLTESQuE 2021: Proceedings of the 5th International Workshop on Machine Learning Techniques for Software Quality Evolution
+23 August 2021
+Business processes have to manage variability in their execution, e.g., to deliver the correct building permit in different municipalities. This variability is visible in event logs, where sequences of events are shared by the core process (building permit authorisation) but may also be specific to each municipality. To rationalise resources (e.g., derive a configurable business process capturing all municipalities’ permit variants) or to debug anomalous behaviour, it is mandatory to identify to which variant a given trace belongs. This paper supports this task by training Long Short Term Memory (LSTMs) and Gated Recurrent Units (GRUs) algorithms on two datasets: a configurable municipality and a travel expenses workflow. We demonstrate that variability can be identified accurately (>87%) and discuss the challenges of learning highly entangled variants.
+https://dl.acm.org/doi/10.1145/3472674.3473980

@@ -1,0 +1,6 @@
+DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments
+Luca Arrotta, Gabriele Civitarese, Claudio Bettini
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+29 March 2022
+The sensor-based recognition of Activities of Daily Living (ADLs) in smart-home environments is an active research area, with relevant applications in healthcare and ambient assisted living. The application of Explainable Artificial Intelligence (XAI) to ADLs recognition has the potential of making this process trusted, transparent and understandable. The few works that investigated this problem considered only interpretable machine learning models. In this work, we propose DeXAR, a novel methodology to transform sensor data into semantic images to take advantage of XAI methods based on Convolutional Neural Networks (CNN). We apply different XAI approaches for deep learning and, from the resulting heat maps, we generate explanations in natural language. In order to identify the most effective XAI method, we performed extensive experiments on two different datasets, with both a common-knowledge and a user-based evaluation. The results of a user study show that the white-box XAI method based on prototypes is the most effective.
+https://dl.acm.org/doi/10.1145/3517224

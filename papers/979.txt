@@ -1,0 +1,6 @@
+Improving Human-AI Collaboration With Descriptions of AI Behavior
+Ángel Alexander Cabrera, Adam Perer, Jason I. Hong
+Proceedings of the ACM on Human-Computer Interaction
+16 April 2023
+People work with AI systems to improve their decision making, but often under- or over-rely on AI predictions and perform worse than they would have unassisted. To help people appropriately rely on AI aids, we propose showing them behavior descriptions, details of how AI systems perform on subgroups of instances. We tested the efficacy of behavior descriptions through user studies with 225 participants in three distinct domains: fake review detection, satellite image classification, and bird classification. We found that behavior descriptions can increase human-AI accuracy through two mechanisms: helping people identify AI failures and increasing people's reliance on the AI when it is more accurate. These findings highlight the importance of people's mental models in human-AI collaboration and show that informing people of high-level AI behaviors can significantly improve AI-assisted decision making.
+https://dl.acm.org/doi/10.1145/3579612

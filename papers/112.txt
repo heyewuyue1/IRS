@@ -1,0 +1,6 @@
+Fire Detection using Transformer Network
+Mohammad Shahid, Kai-lung Hua
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+Technological breakthroughs in computing have empowered vision-based surveillance systems to detect fire using transformers framework. Over the last few decades, convolutional neural networks (CNNs) have been broadly applied for many computer vision-related problems and provided satisfactory results. However, due to the inductive prejudices embedded in convolutional operations, it cannot comprehend long-range dependencies. Vision transformers (ViT) has recently become an alternative to CNN for a vision problem by factoring an image as a patches sequence and leverage intra-attention between pixels. This paper shows that ViT is a viable tool for automated fire detection by aggregating features from the whole spatial context. The proposed method is tested on benchmark fire datasets to reveal the framework's strength and effectiveness.
+https://dl.acm.org/doi/10.1145/3460426.3463665

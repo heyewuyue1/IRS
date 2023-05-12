@@ -1,0 +1,6 @@
+Disentangling Features for Fashion Recommendation
+Lavinia De Divitiis, Federico Becattini, Claudio Baecchi, Alberto Del Bimbo
+ACM Transactions on Multimedia Computing, Communications, and Applications
+23 January 2023
+Online stores have become fundamental for the fashion industry, revolving around recommendation systems to suggest appropriate items to customers. Such recommendations often suffer from a lack of diversity and propose items that are similar to previous purchases of a user. Recently, a novel kind of approach based on Memory Augmented Neural Networks (MANNs) has been proposed, aimed at recommending a variety of garments to create an outfit by complementing a given fashion item. In this article we address the task of compatible garment recommendation developing a MANN architecture by taking into account the co-occurrence of clothing attributes, such as shape and color, to compose an outfit. To this end we obtain disentangled representations of fashion items and store them in external memory modules, used to guide recommendations at inference time. We show that our disentangled representations are able to achieve significantly better performance compared to the state of the art and also provide interpretable latent spaces, giving a qualitative explanation of the recommendations.
+https://dl.acm.org/doi/10.1145/3531017

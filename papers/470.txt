@@ -1,0 +1,6 @@
+Introduction to the Special Section on Learning Representations, Similarity, and Associations in Dynamic Multimedia Environments
+Xun Yang, Liang Zheng, Elisa Ricci, Meng Wang
+ACM Transactions on Multimedia Computing, Communications, and Applications
+06 January 2023
+
+https://dl.acm.org/doi/10.1145/3569952

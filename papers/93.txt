@@ -1,0 +1,6 @@
+A Deep Learning Based Implementation for Self-Driving Car
+Vu Thanh Dat, Phan Quang Huy, Nguyen Dinh Tra, Tran Hai Anh, Bui Ngoc Anh, Ngo Tung Son
+ICSCA 2021: 2021 10th International Conference on Software and Computer Applications
+30 July 2021
+Today, self-driving cars are a part of our life. It has received much attention in recent years. Many big companies and developers have invested a lot in this area and developed their own autonomous driving car platforms. The intriguing area of self-driving car motivates us to build a self-driving platform. This paper proposes the self-driving car's architecture and its software components that have been solved in FPT's contest. Lane detection in different environmental conditions, dodging obstacles, and detecting traffic signs. In this competition, the vehicle is equipped with limited hardware such as a single low-cost camera, an Nvidia Jetson TX2 board. We analyze the results obtained in the game in the simulator. We see that our method has overcome limited hardware but still achieved good results in complex problems. The final product has been used to compete in the Digital Race competition 2020 - a competition held annually by FPT Corporation.
+https://dl.acm.org/doi/10.1145/3457784.3457827

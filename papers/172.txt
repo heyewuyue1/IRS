@@ -1,0 +1,6 @@
+Deep Reinforcement Learning Algorithm for Fast Solutions to Vehicle Routing Problem with Time-Windows
+Abhinav Gupta, Supratim Ghosh, Anulekha Dhara
+CODS-COMAD 2022: 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)
+08 January 2022
+Vehicle routing problem (VRP) is a well known NP-hard combinatorial optimization problem having several variants. In this paper, we consider VRP along with additional constraints of capacity and time-windows (CVRPTW) and aim to provide a fast and approximately optimal solutions to large-scale CVRPTW problems. We present a deep Q-network with encoder-decoder based reinforcement learning approach to solve CVRPTW. The encoder is based on the attention mechanism whereas decoder is fully connected neural network. Via numerical experiments on benchmark datasets, we show the efficacy and computational speed our approach compared to baseline heuristics, a meta-heuristic algorithm, and a multi-agent reinforcement learning (RL) based framework.
+https://dl.acm.org/doi/10.1145/3493700.3493723

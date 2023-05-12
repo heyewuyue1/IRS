@@ -1,0 +1,6 @@
+Intelligent Data Collaboration in Heterogeneous-device IoT Platforms
+Danfeng Sun, Jia Wu, Jian Yang, Huifeng Wu
+ACM Transactions on Sensor Networks
+21 June 2021
+The merging boundaries between edge computing and deep learning are forging a new blueprint for the Internet of Things (IoT). However, the low-quality of data in many IoT platforms, especially those composed of heterogeneous devices, is hindering the development of high-quality applications for those platforms. The solution presented in this article is intelligent data collaboration, i.e., the concept of deep learning providing IoT with the ability to adaptively collaborate to accomplish a task. Here, we outline the concept of intelligent data collaboration in detail and present a mathematical model in general form. To demonstrate one possible case where intelligent data collaboration would be useful, we prepared an implementation called adaptive data cleaning (ADC), designed to filter noisy data out of temperature readings in an IoT base station network. ADC primarily consists of a denoising autoencoder LSTM for predictions and a four-level data processing mechanism to perform the filtering. Comparisons between ADC and a maximum slop method show ADC with the lowest false error and the best filtering rates.
+https://dl.acm.org/doi/10.1145/3427912

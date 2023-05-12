@@ -1,0 +1,6 @@
+A Novel Ensemble Reinforcement Learning Gated Recursive Network for Traffic Speed Forecasting
+Shuqin Dong, Chengqin Yu, Guangxi Yan, Jintian Zhu, Hui Hu
+WABD 2021: 2021 Workshop on Algorithm and Big Data
+06 June 2021
+Traffic speed forecasting is one of the important issues in the intelligent transportation system, which is related to traffic management planning. The existing studies tend to use single models to forecast the traffic speed, and cannot completely extract the complex information of the traffic speed sequence. This research proposes a new hybrid model based on reinforcement learning for the accurate forecasting of traffic speed. The model contains the LSTM network and the GRU network as predictors for in-depth mining of the characteristics of traffic speed data and uses reinforcement learning to integrate the results of the two predictors, combining the advantages of multiple predictors to achieve stable and accurate forecasting results of traffic speed. This paper uses two sets of measured traffic data from Guangzhou to test the effectiveness, and five other traffic speed forecasting models are also established for comparison. Experimental results show that the hybrid model applied in the article has the best performance on both data sets, and the MAPEs are 5.02% and 3.25%.
+https://dl.acm.org/doi/10.1145/3456389.3456397

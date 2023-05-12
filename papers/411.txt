@@ -1,0 +1,6 @@
+Time Masking for Temporal Language Models
+Guy D. Rosin, Ido Guy, Kira Radinsky
+WSDM '22: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining
+15 February 2022
+Our world is constantly evolving, and so is the content on the web. Consequently, our languages, often said to mirror the world, are dynamic in nature. However, most current contextual language models are static and cannot adapt to changes over time. In this work, we propose a temporal contextual language model called TempoBERT, which uses time as an additional context of texts. Our technique is based on modifying texts with temporal information and performing time masking - specific masking for the supplementary time information. We leverage our approach for the tasks of semantic change detection and sentence time prediction, experimenting on diverse datasets in terms of time, size, genre, and language. Our extensive evaluation shows that both tasks benefit from exploiting time masking.
+https://dl.acm.org/doi/10.1145/3488560.3498529

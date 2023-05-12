@@ -1,0 +1,6 @@
+Deep Learning for Medical Anomaly Detection – A Survey
+Tharindu Fernando, Harshala Gammulle, Simon Denman, Sridha Sridharan, Clinton Fookes
+ACM Computing Surveys
+18 July 2021
+Machine learning–based medical anomaly detection is an important problem that has been extensively studied. Numerous approaches have been proposed across various medical application domains and we observe several similarities across these distinct applications. Despite this comparability, we observe a lack of structured organisation of these diverse research applications such that their advantages and limitations can be studied. The principal aim of this survey is to provide a thorough theoretical analysis of popular deep learning techniques in medical anomaly detection. In particular, we contribute a coherent and systematic review of state-of-the-art techniques, comparing and contrasting their architectural differences as well as training algorithms. Furthermore, we provide a comprehensive overview of deep model interpretation strategies that can be used to interpret model decisions. In addition, we outline the key limitations of existing deep medical anomaly detection techniques and propose key research directions for further investigation.
+https://dl.acm.org/doi/10.1145/3464423

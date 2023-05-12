@@ -1,0 +1,6 @@
+Life Expectancy Estimation based on Machine Learning and Structured Predictors
+Khulood Faisal, Dareen Alomari, Hind Alasmari, Hanan Alghamdi, Kawther Saeedi
+AISS '21: Proceedings of the 3rd International Conference on Advanced Information Science and System
+19 January 2022
+
+https://dl.acm.org/doi/10.1145/3503047.3503122

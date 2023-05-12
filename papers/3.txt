@@ -1,0 +1,6 @@
+Topic Modeling Using Latent Dirichlet allocation: A Survey
+Uttam Chauhan, Apurva Shah
+ACM Computing Surveys
+17 September 2021
+We are not able to deal with a mammoth text corpus without summarizing them into a relatively small subset. A computational tool is extremely needed to understand such a gigantic pool of text. Probabilistic Topic Modeling discovers and explains the enormous collection of documents by reducing them in a topical subspace. In this work, we study the background and advancement of topic modeling techniques. We first introduce the preliminaries of the topic modeling techniques and review its extensions and variations, such as topic modeling over various domains, hierarchical topic modeling, word embedded topic models, and topic models in multilingual perspectives. Besides, the research work for topic modeling in a distributed environment, topic visualization approaches also have been explored. We also covered the implementation and evaluation techniques for topic models in brief. Comparison matrices have been shown over the experimental results of the various categories of topic modeling. Diverse technical challenges and future directions have been discussed.
+https://dl.acm.org/doi/10.1145/3462478

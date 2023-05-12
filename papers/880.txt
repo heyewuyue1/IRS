@@ -1,0 +1,6 @@
+Semantic Correspondence with Geometric Structure Analysis
+Rui Wang, Dong Liang, Xiaochun Cao, Yuanfang Guo
+ACM Transactions on Multimedia Computing, Communications, and Applications
+22 July 2021
+This article studies the correspondence problem for semantically similar images, which is challenging due to the joint visual and geometric deformations. We introduce the Flip-aware Distance Ratio method (FDR) to solve this problem from the perspective of geometric structure analysis. First, a distance ratio constraint is introduced to enforce the geometric consistencies between images with large visual variations, whereas local geometric jitters are tolerated via a smoothness term. For challenging cases with symmetric structures, our proposed method exploits Curl to suppress the mismatches. Subsequently, image correspondence is formulated as a permutation problem, for which we propose a Gradient Guided Simulated Annealing (GGSA) algorithm to perform a robust discrete optimization. Experiments on simulated and real-world datasets, where both visual and geometric deformations are present, indicate that our method significantly improves the baselines for both visually and semantically similar images.
+https://dl.acm.org/doi/10.1145/3441576

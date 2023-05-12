@@ -1,0 +1,6 @@
+Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing
+Qiang Yang
+ACM Transactions on Interactive Intelligent Systems
+25 October 2021
+With the rapid advances of Artificial Intelligence (AI) technologies and applications, an increasing concern is on the development and application of responsible AI technologies. Building AI technologies or machine-learning models often requires massive amounts of data, which may include sensitive, user private information to be collected from different sites or countries. Privacy, security, and data governance constraints rule out a brute force process in the acquisition and integration of these data. It is thus a serious challenge to protect user privacy while achieving high-performance models. This article reviews recent progress of federated learning in addressing this challenge in the context of privacy-preserving computing. Federated learning allows global AI models to be trained and used among multiple decentralized data sources with high security and privacy guarantees, as well as sound incentive mechanisms. This article presents the background, motivations, definitions, architectures, and applications of federated learning as a new paradigm for building privacy-preserving, responsible AI ecosystems.
+https://dl.acm.org/doi/10.1145/3485875

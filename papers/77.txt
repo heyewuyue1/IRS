@@ -1,0 +1,6 @@
+Improving Deep Learning Networks for Profiled Side-channel Analysis Using Performance Improvement Techniques
+Damien Robissout, Lilian Bossuet, Amaury Habrard, Vincent Grosso
+ACM Journal on Emerging Technologies in Computing Systems
+30 June 2021
+The use of deep learning techniques to perform side-channel analysis attracted the attention of many researchers as they obtained good performances with them. Unfortunately, the understanding of the neural networks used to perform side-channel attacks is not very advanced yet. In this article, we propose to contribute to this direction by studying the impact of some particular deep learning techniques for tackling side-channel attack problems. More precisely, we propose to focus on three existing techniques: batch normalization, dropout, and weight decay, not yet used in side-channel context. By combining adequately these techniques for our problem, we show that it is possible to improve the attack performance, i.e., the number of traces needed to recover the secret, by more than 55%. Additionally, they allow us to have a gain of more than 34% in terms of training time. We also show that an architecture trained with such techniques is able to perform attacks efficiently even in the context of desynchronized traces.
+https://dl.acm.org/doi/10.1145/3453162

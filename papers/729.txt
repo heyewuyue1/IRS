@@ -1,0 +1,6 @@
+A Survey of Evaluation Metrics Used for NLG Systems
+Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra
+ACM Computing Surveys
+18 January 2022
+In the last few years, a large number of automatic evaluation metrics have been proposed for evaluating Natural Language Generation (NLG) systems. The rapid development and adoption of such automatic evaluation metrics in a relatively short time has created the need for a survey of these metrics. In this survey, we (i) highlight the challenges in automatically evaluating NLG systems, (ii) propose a coherent taxonomy for organising existing evaluation metrics, (iii) briefly describe different existing metrics, and finally (iv) discuss studies criticising the use of automatic evaluation metrics. We then conclude the article highlighting promising future directions of research.
+https://dl.acm.org/doi/10.1145/3485766

@@ -1,0 +1,6 @@
+AI-Based Container Orchestration for Federated Cloud Environments
+Yodit Gebrealif, Mohammed Mubarkoot, Jörn Altmann, Bernhard Egger
+FRAME '21: Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge
+18 June 2021
+This paper proposes an architecture for artificial-intelligence-based container orchestration in cloud federation environments. The paper adapts the architecture proposed by Kurze et al. [1] and enhances it with two subcomponents in the federation layer to enable resource identification and container orchestration across cloud federation members. These two subcomponents are the AI Resource Identifier and the Container Orchestrator. The AI Resource Identifier is responsible for identifying the available resource in the federated environment whenever needed. It optimizes resource allocation of federation members by using Artificial Intelligence (AI) techniques for learning from the past. The Container Orchestrator sub-component is responsible for organizing jobs to be allocated along with all the necessary files and dependencies in a containerized way. This, in turn, enhances scalability and portability in a federated environment.
+https://dl.acm.org/doi/10.1145/3452369.3463818

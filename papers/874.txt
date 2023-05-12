@@ -1,0 +1,6 @@
+StyleGAN-NADA: CLIP-guided domain adaptation of image generators
+Rinon Gal, Or Patashnik, Haggai Maron, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or
+ACM Transactions on Graphics
+22 July 2022
+Can a generative model be trained to produce images from a specific domain, guided only by a text prompt, without seeing any image? In other words: can an image generator be trained "blindly"? Leveraging the semantic power of large scale Contrastive-Language-Image-Pre-training (CLIP) models, we present a text-driven method that allows shifting a generative model to new domains, without having to collect even a single image. We show that through natural language prompts and a few minutes of training, our method can adapt a generator across a multitude of domains characterized by diverse styles and shapes. Notably, many of these modifications would be difficult or infeasible to reach with existing methods. We conduct an extensive set of experiments across a wide range of domains. These demonstrate the effectiveness of our approach, and show that our models preserve the latent-space structure that makes generative models appealing for downstream tasks. Code and videos available at: stylegan-nada.github.io/
+https://dl.acm.org/doi/10.1145/3528223.3530164

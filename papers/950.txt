@@ -1,0 +1,6 @@
+Multiple Mobile Robot Task and Motion Planning: A Survey
+Luke Antonyshyn, Jefferson Silveira, Sidney Givigi, Joshua Marshall
+ACM Computing Surveys
+02 February 2023
+With recent advances in mobile robotics, autonomous systems, and artificial intelligence, there is a growing expectation that robots are able to solve complex problems. Many of these problems require multiple robots working cooperatively in a multi-robot system. Complex tasks may also include the interconnection of task-level specifications with robot motion-level constraints. Many recent works in the literature use multiple mobile robots to solve these complex tasks by integrating task and motion planning. We survey recent contributions to the field of combined task and motion planning for multiple mobile robots by categorizing works based on their underlying problem representations, and we identify possible directions for future research. We propose a taxonomy for task and motion planning based on system capabilities, applicable to multi-robot and single-robot systems.
+https://dl.acm.org/doi/10.1145/3564696

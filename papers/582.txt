@@ -1,0 +1,6 @@
+Neural Machine Translation for Low-resource Languages: A Survey
+Surangika Ranathunga, En-Shiun Annie Lee, Marjana Prifti Skenduli, Ravi Shekhar, Mehreen Alam, Rishemjit Kaur
+ACM Computing Surveys
+09 February 2023
+Neural Machine Translation (NMT) has seen tremendous growth in the last ten years since the early 2000s and has already entered a mature phase. While considered the most widely used solution for Machine Translation, its performance on low-resource language pairs remains sub-optimal compared to the high-resource counterparts due to the unavailability of large parallel corpora. Therefore, the implementation of NMT techniques for low-resource language pairs has been receiving the spotlight recently, thus leading to substantial research on this topic. This article presents a detailed survey of research advancements in low-resource language NMT (LRL-NMT) and quantitative analysis to identify the most popular techniques. We provide guidelines to select the possible NMT technique for a given LRL data setting based on our findings. We also present a holistic view of the LRL-NMT research landscape and provide recommendations to enhance the research efforts further.
+https://dl.acm.org/doi/10.1145/3567592

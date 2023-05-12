@@ -1,0 +1,6 @@
+Machine Learning into Metaheuristics: A Survey and Taxonomy
+El-Ghazali Talbi
+ACM Computing Surveys
+13 July 2021
+During the past few years, research in applying machine learning (ML) to design efficient, effective, and robust metaheuristics has become increasingly popular. Many of those machine learning-supported metaheuristics have generated high-quality results and represent state-of-the-art optimization algorithms. Although various appproaches have been proposed, there is a lack of a comprehensive survey and taxonomy on this research topic. In this article, we will investigate different opportunities for using ML into metaheuristics. We define uniformly the various ways synergies that might be achieved. A detailed taxonomy is proposed according to the concerned search component: target optimization problem and low-level and high-level components of metaheuristics. Our goal is also to motivate researchers in optimization to include ideas from ML into metaheuristics. We identify some open research issues in this topic that need further in-depth investigations.
+https://dl.acm.org/doi/10.1145/3459664

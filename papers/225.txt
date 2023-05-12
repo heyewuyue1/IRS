@@ -1,0 +1,6 @@
+A Meta-Method for Portfolio Management Using Machine Learning for Adaptive Strategy Selection
+Damian Kisiel, Denise Gorse
+CIIS '21: Proceedings of the 2021 4th International Conference on Computational Intelligence and Intelligent Systems
+11 April 2022
+This work proposes a novel portfolio management technique, the Meta Portfolio Method (MPM), inspired by the successes of meta approaches in the field of bioinformatics and elsewhere. The MPM uses XGBoost to learn how to switch between two risk-based portfolio allocation strategies, the Hierarchical Risk Parity (HRP) and more classical Naïve Risk Parity (NRP). It is demonstrated that the MPM is able to successfully take advantage of the best characteristics of each strategy (the NRP’s fast growth during market uptrends, and the HRP’s protection against drawdowns during market turmoil). As a result, the MPM is shown to possess an excellent out-of-sample risk-reward profile, as measured by the Sharpe ratio, and in addition offers a high degree of interpretability of its asset allocation decisions.
+https://dl.acm.org/doi/10.1145/3507623.3507635

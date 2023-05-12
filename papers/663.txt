@@ -1,0 +1,6 @@
+Quit When You Can: Efficient Evaluation of Ensembles by Optimized Ordering
+Serena Wang, Maya Gupta, Seungil You
+ACM Journal on Emerging Technologies in Computing Systems
+14 July 2021
+Given a classifier ensemble and a dataset, many examples may be confidently and accurately classified after only a subset of the base models in the ensemble is evaluated. Dynamically deciding to classify early can reduce both mean latency and CPU without harming the accuracy of the original ensemble. To achieve such gains, we propose jointly optimizing the evaluation order of the base models and early-stopping thresholds. Our proposed objective is a combinatorial optimization problem, but we provide a greedy algorithm that achieves a 4-approximation of the optimal solution under certain assumptions, which is also the best achievable polynomial-time approximation bound. Experiments on benchmark and real-world problems show that the proposed Quit When You Can (QWYC) algorithm can speed up average evaluation time by 1.8–2.7 times on even jointly trained ensembles, which are more difficult to speed up than independently or sequentially trained ensembles. QWYC’s joint optimization of ordering and thresholds also performed better in experiments than previous fixed orderings, including gradient boosted trees’ ordering.
+https://dl.acm.org/doi/10.1145/3451209

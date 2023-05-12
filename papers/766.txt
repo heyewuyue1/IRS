@@ -1,0 +1,6 @@
+A Survey on Aspect-Based Sentiment Classification
+Gianni Brauwers, Flavius Frasincar
+ACM Computing Surveys
+21 November 2022
+With the constantly growing number of reviews and other sentiment-bearing texts on the Web, the demand for automatic sentiment analysis algorithms continues to expand. Aspect-based sentiment classification (ABSC) allows for the automatic extraction of highly fine-grained sentiment information from text documents or sentences. In this survey, the rapidly evolving state of the research on ABSC is reviewed. A novel taxonomy is proposed that categorizes the ABSC models into three major categories: knowledge-based, machine learning, and hybrid models. This taxonomy is accompanied with summarizing overviews of the reported model performances, and both technical and intuitive explanations of the various ABSC models. State-of-the-art ABSC models are discussed, such as models based on the transformer model, and hybrid deep learning models that incorporate knowledge bases. Additionally, various techniques for representing the model inputs and evaluating the model outputs are reviewed. Furthermore, trends in the research on ABSC are identified and a discussion is provided on the ways in which the field of ABSC can be advanced in the future.
+https://dl.acm.org/doi/10.1145/3503044

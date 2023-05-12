@@ -1,0 +1,6 @@
+Control strategies for physically simulated characters performing two-player competitive sports
+Jungdam Won, Deepak Gopinath, Jessica Hodgins
+ACM Transactions on Graphics
+19 July 2021
+In two-player competitive sports, such as boxing and fencing , athletes often demonstrate efficient and tactical movements during a competition. In this paper, we develop a learning framework that generates control policies for physically simulated athletes who have many degrees-of-freedom. Our framework uses a two step-approach, learning basic skills and learning bout-level strategies, with deep reinforcement learning, which is inspired by the way that people how to learn competitive sports. We develop a policy model based on an encoder-decoder structure that incorporates an autoregressive latent variable, and a mixture-of-experts decoder. To show the effectiveness of our framework, we implemented two competitive sports, boxing and fencing , and demonstrate control policies learned by our framework that can generate both tactical and natural-looking behaviors. We also evaluate the control policies with comparisons to other learning configurations and with ablation studies.
+https://dl.acm.org/doi/10.1145/3450626.3459761

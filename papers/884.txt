@@ -1,0 +1,6 @@
+A Comprehensive Survey on Word Representation Models: From Classical to State-of-the-Art Word Representation Language Models
+Usman Naseem, Imran Razzak, Shah Khalid Khan, Mukesh Prasad
+ACM Transactions on Asian and Low-Resource Language Information Processing
+30 June 2021
+Word representation has always been an important research area in the history of natural language processing (NLP). Understanding such complex text data is imperative, given that it is rich in information and can be used widely across various applications. In this survey, we explore different word representation models and its power of expression, from the classical to modern-day state-of-the-art word representation language models (LMS). We describe a variety of text representation methods, and model designs have blossomed in the context of NLP, including SOTA LMs. These models can transform large volumes of text into effective vector representations capturing the same semantic information. Further, such representations can be utilized by various machine learning (ML) algorithms for a variety of NLP-related tasks. In the end, this survey briefly discusses the commonly used ML- and DL-based classifiers, evaluation metrics, and the applications of these word embeddings in different NLP tasks.
+https://dl.acm.org/doi/10.1145/3434237

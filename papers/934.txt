@@ -1,0 +1,6 @@
+A Survey on Recent Approaches to Question Difficulty Estimation from Text
+Luca Benedetto, Paolo Cremonesi, Andrew Caines, Paula Buttery, Andrea Cappelli, Andrea Giussani, Roberto Turrin
+ACM Computing Surveys
+16 January 2023
+Question Difficulty Estimation from Text (QDET) is the application of Natural Language Processing techniques to the estimation of a value, either numerical or categorical, which represents the difficulty of questions in educational settings. We give an introduction to the field, build a taxonomy based on question characteristics, and present the various approaches that have been proposed in recent years, outlining opportunities for further research. This survey provides an introduction for researchers and practitioners into the domain of question difficulty estimation from text and acts as a point of reference about recent research in this topic to date.
+https://dl.acm.org/doi/10.1145/3556538

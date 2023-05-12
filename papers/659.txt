@@ -1,0 +1,6 @@
+MILL: Channel Attention–based Deep Multiple Instance Learning for Landslide Recognition
+Xiaochuan Tang, Mingzhe Liu, Hao Zhong, Yuanzhen Ju, Weile Li, Qiang Xu
+ACM Transactions on Multimedia Computing, Communications, and Applications
+21 June 2021
+Landslide recognition is widely used in natural disaster risk management. Traditional landslide recognition is mainly conducted by geologists, which is accurate but inefficient. This article introduces multiple instance learning (MIL) to perform automatic landslide recognition. An end-to-end deep convolutional neural network is proposed, referred to as Multiple Instance Learning–based Landslide classification (MILL). First, MILL uses a large-scale remote sensing image classification dataset to build pre-train networks for landslide feature extraction. Second, MILL extracts instances and assign instance labels without pixel-level annotations. Third, MILL uses a new channel attention–based MIL pooling function to map instance-level labels to bag-level label. We apply MIL to detect landslides in a loess area. Experimental results demonstrate that MILL is effective in identifying landslides in remote sensing images.
+https://dl.acm.org/doi/10.1145/3454009

@@ -1,0 +1,6 @@
+A Survey on Generative Adversarial Networks: Variants, Applications, and Training
+Abdul Jabbar, Xi Li, Bourahla Omar
+ACM Computing Surveys
+04 October 2021
+The Generative Models have gained considerable attention in unsupervised learning via a new and practical framework called Generative Adversarial Networks (GAN) due to their outstanding data generation capability. Many GAN models have been proposed, and several practical applications have emerged in various domains of computer vision and machine learning. Despite GANs excellent success, there are still obstacles to stable training. The problems are Nash equilibrium, internal covariate shift, mode collapse, vanishing gradient, and lack of proper evaluation metrics. Therefore, stable training is a crucial issue in different applications for the success of GANs. Herein, we survey several training solutions proposed by different researchers to stabilize GAN training. We discuss (I) the original GAN model and its modified versions, (II) a detailed analysis of various GAN applications in different domains, and (III) a detailed study about the various GAN training obstacles as well as training solutions. Finally, we reveal several issues as well as research outlines to the topic.
+https://dl.acm.org/doi/10.1145/3463475

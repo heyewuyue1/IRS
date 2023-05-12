@@ -1,0 +1,6 @@
+Tuning Language Representation Models for Classification of Turkish News
+Meltem Tokgoz, Fatmanur Turhan, Necva Bolucu, Burcu Can
+ISEEIE 2021: 2021 International Symposium on Electrical, Electronics and Information Engineering
+20 July 2021
+Pre-trained language representation models are very efficient in learning language representation independent from natural language processing tasks to be performed. The language representation models such as BERT and DistilBERT have achieved amazing results in many language understanding tasks. Studies on text classification problems in the literature are generally carried out for the English language. This study aims to classify the news in the Turkish language using pre-trained language representation models. In this study, we utilize BERT and DistilBERT by tuning both models for the text classification task to learn the categories of Turkish news with different tokenization methods. We provide a quantitative analysis of the performance of BERT and DistilBERT on the Turkish news dataset by comparing the models in terms of their representation capability in the text classification task. The highest performance is obtained with DistilBERT with an accuracy of 97.4%.
+https://dl.acm.org/doi/10.1145/3459104.3459170

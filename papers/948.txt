@@ -1,0 +1,6 @@
+A Survey of 3D Ear Recognition Techniques
+Iyyakutti Iyappan Ganapathi, Syed Sadaf Ali, Surya Prakash, Ngoc-Son Vu, Naoufel Werghi
+ACM Computing Surveys
+02 February 2023
+Human recognition with biometrics is a rapidly emerging area of computer vision. Compared to other well-known biometric features such as the face, fingerprint, iris, and palmprint, the ear has recently received considerable research attention. The ear recognition system accepts 2D or 3D images as input. Since pose, illumination, and scale all affect 2D ear images, it is evident that they all impact recognition performance; therefore, 3D ear images are employed to address these issues. The geometric shapes of 3D ears are utilized as rich features to improve recognition accuracy. We present recent advances in several areas relevant to 3D ear recognition and provide directions for future research. To the best of our knowledge, no comprehensive review has been conducted on using 3D ear images in human recognition. This review focuses on three primary categories of 3D ear recognition techniques: (1) registration-based recognition, (2) local and global feature-based recognition, and (3) a combination of (1) and (2). Based on the above categorization and publicly available 3D ear datasets, this article reviews existing 3D ear recognition techniques.
+https://dl.acm.org/doi/10.1145/3560884

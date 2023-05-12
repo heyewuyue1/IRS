@@ -1,0 +1,6 @@
+A comparison of different Machine Learning algorithms for predicting the length of hospital stay for patients undergoing cataract surgery
+Arianna Scala, Teresa Angela Trunfio, Andrea Lombardi, Cristiana Giglio, Anna Borrelli, Maria Triassi
+BECB 2021: 2021 International Symposium on Biomedical Engineering and Computational Biology
+14 February 2022
+The advancement of surgical techniques, the use of new drug therapies and the introduction of innovative medical devices have brought excellent results in all surgical disciplines, including Ophthalmology. This development, however, takes place in a difficult economic and financial context, especially for Italy, the reference country for this study. In this context, being able to obtain as standardized procedures as possible helps to provide a more appropriate response by maximizing the use of available resources. A parameter used in the literature is the Length of Stay (LOS). In this study, Machine Learning algorithms were used to build a classifier capable of predicting the total LOS of patients who undergone a surgery for the exportation of the natural crystalline lens with phacoemulsification starting from a set of independent variables. Random Forest proved to be the best algorithm for this application with an accuracy of over 90%.
+https://dl.acm.org/doi/10.1145/3502060.3503647

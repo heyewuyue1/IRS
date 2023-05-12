@@ -1,0 +1,6 @@
+Ensemble Transfer Learning for Lung Cancer Detection
+Manop Phankokkruad
+DSIT 2021: 2021 4th International Conference on Data Science and Information Technology
+28 September 2021
+Lung cancer is the most leading cause of death. One of the significant screening problems is the difficulty in diagnosing it at an early stage. Consequently, this is a better way to study the ensemble of the transfer learning model to improve their accuracy and performance for lung cancer detection. This study has proposed the three CNN models for detecting lung cancer using VGG16, ResNet50V2, and DenseNet201 architecture based on transfer learning. The proposed models enhance to classify lung cancer into five different classes. The three transfer learning of CNN architectures were used to train, test, and validate based on the image dataset. The results reveal that the proposed models have performed the classification task for detecting lung cancer. The models achieved an accuracy level of VGG16, ResNet50V2, and DenseNet201 were 62%, 90%, and 89%, respectively. Finally, the ensemble of the three proposed CNN models is created and validated. The final proposed ensemble model achieved 91% validation accuracy that performed better than the other existing models.
+https://dl.acm.org/doi/10.1145/3478905.3478995

@@ -1,0 +1,6 @@
+Improved Data Mining Method for Class-Imbalanced Financial Distress Prediction
+Tingting Ren, Tongyu Lu, Yuanyuan Yang
+ICCAI 2021: 2021 7th International Conference on Computing and Artificial Intelligence
+24 September 2021
+The accurate financial distress prediction model can help enterprises improve their financial performance, provide meaningful investment references to relevant institutions, and protect investors’ interests. However, the class-imbalanced problem exists in predicting financial distress generally, and it always makes the accuracy of the traditional classification model quite low. Therefore, this paper aims to build an efficient model for predicting imbalanced financial distress. First, the double significance test and the principal component analysis are performed to select the indicators. Then, the SMOTE and the cost-sensitive learning methods are implemented respectively to enhance the traditional machine learning algorithms. The empirical results show that these two approaches can significantly improve the classification accuracy of financial distress enterprises, and the cost-sensitive model is relatively better because of its higher suitability for the imbalanced dataset.
+https://dl.acm.org/doi/10.1145/3467707.3467754

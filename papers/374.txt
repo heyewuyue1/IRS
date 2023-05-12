@@ -1,0 +1,6 @@
+Frequency Centric Defense Mechanisms against Adversarial Examples
+Sanket B. Shah, Param Raval, Harin Khakhi, Mehul S. Raval
+ADVM '21: Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia
+22 October 2021
+Adversarial example(AE) aims at fooling a Convolution Neural Network by introducing small perturbations in the input image. The proposed work uses the magnitude and phase of the Fourier Spectrum and the entropy of the image to defend against AE. We demonstrate the defense in two ways: by training an adversarial detector and denoising the adversarial effect. Experiments were conducted on the low-resolution CIFAR-10 and high-resolution ImageNet datasets. The adversarial detector has 99% accuracy for FGSM and PGD attacks on the CIFAR-10 dataset. However, the detection accuracy falls to 50% for sophisticated DeepFool and Carlini & Wagner attacks on ImageNet. We overcome the limitation by using autoencoder and show that 70% of AEs are correctly classified after denoising.
+https://dl.acm.org/doi/10.1145/3475724.3483610

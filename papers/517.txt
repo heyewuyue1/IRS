@@ -1,0 +1,6 @@
+Deep learning based crowd counting model for drone assisted systems
+Marcin Woźniak, Jakub Siłka, Michal Wieczorek
+DroneCom '21: Proceedings of the 4th ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond
+25 October 2021
+Recent advances in deep learning make it possible to implement neural network architecture fitted to the task. In this paper we present new deep neural network model developed for drone assisted systems, in which image from drone camera is processed for smart crowd counting operation. Our proposed architecture works to estimate the crowd in the image by using derivative of ResNet conception model. We have used RMSprop algorithm to train it. Research results from our experiments show 98% of Accuracy, Precision and Recall which is very high efficiency in such systems. Proposed model is easy to configure and has high potential for further development.
+https://dl.acm.org/doi/10.1145/3477090.3481054

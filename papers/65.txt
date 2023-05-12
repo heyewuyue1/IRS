@@ -1,0 +1,6 @@
+UAV Lightweight Object Detection Based on the Improved YOLO Algorithm
+YunFei Chen, Xingwu Chen, Lingfeng Chen, Dongwei He, Jishi Zheng, Chao Xu, Yang Lin, Lisang Liu
+EITCE '21: Proceedings of the 2021 5th International Conference on Electronic Information Technology and Computer Engineering
+31 December 2021
+Aiming at the characteristics of small objects in low-altitude images, special shooting angles, and variable shooting angles of unmanned aerial vehicles (UAVs), this paper proposes a structural innovation based on the YOLOv5-MobileNetv3Small network model. It transplants the MobileNetv3 network structure and improves the BackBone network structure to solve the problem of inference high-pixel images taking up too much memory for low-power edge computing nodes. The improved YOLO algorithm uses the Visdrone2019-DET dataset to train the network model and uses the Jetson NX edge computing platform on the UAV to process 1920*1080 video streams for testing. The memory usage of the optimized YOLOv5-MobileNetv3Small network model can be reduced by 72.4%.
+https://dl.acm.org/doi/10.1145/3501409.3501674

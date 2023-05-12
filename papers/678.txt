@@ -1,0 +1,6 @@
+A Survey on String Constraint Solving
+Roberto Amadini
+ACM Computing Surveys
+23 November 2021
+String constraint solving refers to solving combinatorial problems involving constraints over string variables. String solving approaches have become popular over the past few years given the massive use of strings in different application domains like formal analysis, automated testing, database query processing, and cybersecurity. This article reports a comprehensive survey on string constraint solving by exploring the large number of approaches that have been proposed over the past few decades to solve string constraints.
+https://dl.acm.org/doi/10.1145/3484198

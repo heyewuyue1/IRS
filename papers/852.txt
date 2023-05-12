@@ -1,0 +1,6 @@
+A Survey on Data-driven Network Intrusion Detection
+Dylan Chou, Meng Jiang
+ACM Computing Surveys
+08 October 2021
+Data-driven network intrusion detection (NID) has a tendency towards minority attack classes compared to normal traffic. Many datasets are collected in simulated environments rather than real-world networks. These challenges undermine the performance of intrusion detection machine learning models by fitting machine learning models to unrepresentative “sandbox” datasets. This survey presents a taxonomy with eight main challenges and explores common datasets from 1999 to 2020. Trends are analyzed on the challenges in the past decade and future directions are proposed on expanding NID into cloud-based environments, devising scalable models for large network data, and creating labeled datasets collected in real-world networks.
+https://dl.acm.org/doi/10.1145/3472753

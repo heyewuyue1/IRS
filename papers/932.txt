@@ -1,0 +1,6 @@
+Read the News, Not the Books: Forecasting Firms’ Long-term Financial Performance via Deep Text Mining
+Shuang (Sophie) Zhai, Zhu (Drew) Zhang
+ACM Transactions on Management Information Systems
+16 January 2023
+In this paper, we show textual data from firm-related events in news articles can effectively predict various firm financial ratios, with or without historical financial ratios. We exploit state-of-the-art neural architectures, including pseudo-event embeddings, Long Short-Term Memory Networks, and attention mechanisms. Our news-powered deep learning models are shown to outperform standard econometric models operating on precise accounting historical data. We also observe forecasting quality improvement when integrating textual and numerical data streams. In addition, we provide in-depth case studies for model explainability and transparency. Our forecasting models, model attention maps, and firm embeddings benefit various stakeholders with quality predictions and explainable insights. Our proposed models can be applied both when numerically historical data is or is not available.
+https://dl.acm.org/doi/10.1145/3533018

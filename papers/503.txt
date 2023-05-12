@@ -1,0 +1,6 @@
+DANet: Dimension Apart Network for Radar Object Detection
+Bo Ju, Wei Yang, Jinrang Jia, Xiaoqing Ye, Qu Chen, Xiao Tan, Hao Sun, Yifeng Shi, Errui Ding
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+In this paper, we propose a dimension apart network (DANet) for radar object detection task. A Dimension Apart Module (DAM) is first designed to be lightweight and capable of extracting temporal-spatial information from the RAMap sequences. To fully utilize the hierarchical features from the RAMaps, we propose a multi-scale U-Net style network architecture termed DANet. Extensive experiments demonstrate that our proposed DANet achieves superior performance on the radar detection task at much less computational cost, compared to previous pioneer works. In addition to the proposed novel network, we also utilize a vast amount of data augmentation techniques. To further improve the robustness of our model, we ensemble the predicted results from a bunch of lightweight DANet variants. Finally, we achieve 82.2% on average precision and 90% on average recall of object detection performance and rank at 1st place in the ROD2021 radar detection challenge. Our code is available at: \urlhttps://github.com/jb892/ROD2021_Radar_Detection_Challenge_Baidu.
+https://dl.acm.org/doi/10.1145/3460426.3463656

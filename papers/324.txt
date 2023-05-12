@@ -1,0 +1,6 @@
+Autoencoder Based on Cepstrum Separation to Detect Depression from Speech
+Yuanhua Zhang, Weiping Hu, Qing Wu
+ICITEE '20: Proceedings of the 3rd International Conference on Information Technologies and Electrical Engineering
+17 May 2021
+Depression has become a common mental disorder that plagues more and more people. This paper uses speech signals to study a method for predicting the degree of depression and help clinicians judge the degree of depression in patients. In this paper, a autoencoder model based on Bidirectional Gated Recurrent Unit (BiGRU) is proposed to extract deep speech features, with the original speech as the network input, the signal after the cepstrum separation as the training target. In this model, we take the original speech as the input of the network, and the homomorphic speech as the training target of the model. The long-term deep features extracted by the model and the short-time shallow features extracted by the Opensmile toolkit were sent into Random Forest (RF) respectively, and finally the Support Vector Regression (SVR) was used for decision fusion recognition. In this paper, experiments are conducted on the DAIC-WOZ data set, and the Root Mean Square Error (RMSE) is 5.68 and the Mean Absolute Error (MAE) is 4.64.
+https://dl.acm.org/doi/10.1145/3452940.3453038

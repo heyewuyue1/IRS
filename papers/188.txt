@@ -1,0 +1,6 @@
+Advancing Chinese Event Detection via Revisiting Character Information
+Yanxia Qin, Zhongqing Wang, Yue Zhang, Kehai Chen, Min Zhang
+ACM Transactions on Asian and Low-Resource Language Information Processing
+11 February 2022
+Recently, character information has been successfully introduced into the encoder-decoder event detection model to relieve the trigger-word mismatch problem, thus achieving impressive results in the languages without natural delimiters (i.e., Chinese). However, it is introduced into the encoder or the decoder separately, which makes the advantage of character information not be captured and represented adequately for event detection. In this article, we proposed a novel method to model character information in both the encoding and decoding stages to advance the neural event detection model. In particular, the proposed method can encode both words and characters and predict their event types jointly and further leverage interactions between word and its characters to optimize the inference. Experimental results show that the proposed model outperforms previous event detection methods on the ACE2005 Chinese benchmark. We release our code at Github. 1
+https://dl.acm.org/doi/10.1145/3502197

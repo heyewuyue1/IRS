@@ -1,0 +1,6 @@
+Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction
+Dai Quoc Nguyen, Vinh Tong, Dinh Phung, Dat Quoc Nguyen
+WSDM '22: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining
+15 February 2022
+We introduce a novel embedding model, named NoGE, which aims to integrate co-occurrence among entities and relations into graph neural networks to improve knowledge graph completion (i.e., link prediction). Given a knowledge graph, NoGE constructs a single graph considering entities and relations as individual nodes. NoGE then computes weights for edges among nodes based on the co-occurrence of entities and relations. Next, NoGE proposes Dual Quaternion Graph Neural Networks (DualQGNN) and utilizes DualQGNN to update vector representations for entity and relation nodes. NoGE then adopts a score function to produce the triple scores. Comprehensive experimental results show that NoGE obtains state-of-the-art results on three new and difficult benchmark datasets CoDEx for knowledge graph completion.
+https://dl.acm.org/doi/10.1145/3488560.3502183

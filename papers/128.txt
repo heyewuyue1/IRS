@@ -1,0 +1,6 @@
+Searching Silk Fabrics by Images Leveraging on Knowledge Graph and Domain Expert Rules
+Thomas Schleider, Raphael Troncy, Thibault Ehrhart, Mareike Dorozynski, Franz Rottensteiner, Jorge Sebastián Lozano, Georgia Lo Cicero
+SUMAC'21: Proceedings of the 3rd Workshop on Structuring and Understanding of Multimedia heritAge Contents
+20 October 2021
+The production of European silk textile is an endangered intangible cultural heritage. Digital tools can nowadays be developed to help preserving it, or even to make it more accessible for the public and the fashion industry. In this paper, we propose an image-based retrieval tool that leverages on a knowledge graph describing the silk textile production as well as rules formulated by experts of this domain. Out of several possible similarity scenarios, two have proven to work best and have been integrated into an exploratory search engine.
+https://dl.acm.org/doi/10.1145/3475720.3484445

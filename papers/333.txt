@@ -1,0 +1,6 @@
+PROTOTYPE-TO-STYLE: Dialogue Generation With Style-Aware Editing on Retrieval Memory
+Yixuan Su, Yan Wang, Deng Cai, Simon Baker, Anna Korhonen, Nigel Collier
+IEEE/ACM Transactions on Audio, Speech and Language Processing
+09 June 2021
+The ability of dialogue systems to express pre-specified style during conversations has a direct, positive impact on their usability and user satisfaction. While it has attracted much research interest, existing methods often generate stylistic responses at the cost of content quality. In this work, we introduce a prototype-to-style (PS) framework to tackle the challenge of stylistic dialogue generation. The proposed framework first exploits an Information Retrieval (IR) system and extracts a response prototype from the retrieved response. A stylistic response generator then takes the response prototype and the desired style as input to produce a high-quality and stylistic response. To effectively train the proposed model and imitate the real testing environment, we introduce a new style-aware learning objective and a denoising learning strategy. Results on three benchmark datasets (gender, emotion, and sentiment) from two languages demonstrate that the proposed approach significantly outperforms existing baselines both in terms of in-domain and cross-domain evaluations.
+https://dl.acm.org/doi/10.1109/TASLP.2021.3087948

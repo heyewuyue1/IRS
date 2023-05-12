@@ -1,0 +1,6 @@
+Post-hoc Interpretability for Neural NLP: A Survey
+Andreas Madsen, Siva Reddy, Sarath Chandar
+ACM Computing Surveys
+23 December 2022
+Neural networks for NLP are becoming increasingly complex and widespread, and there is a growing concern if these models are responsible to use. Explaining models helps to address the safety and ethical concerns and is essential for accountability. Interpretability serves to provide these explanations in terms that are understandable to humans. Additionally, post-hoc methods provide explanations after a model is learned and are generally model-agnostic. This survey provides a categorization of how recent post-hoc interpretability methods communicate explanations to humans, it discusses each method in-depth, and how they are validated, as the latter is often a common concern.
+https://dl.acm.org/doi/10.1145/3546577

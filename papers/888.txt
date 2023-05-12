@@ -1,0 +1,6 @@
+SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks
+Lumin Yang, Jiajie Zhuang, Hongbo Fu, Xiangzhi Wei, Kun Zhou, Youyi Zheng
+ACM Transactions on Graphics
+01 August 2021
+We introduce SketchGNN , a convolutional graph neural network for semantic segmentation and labeling of freehand vector sketches. We treat an input stroke-based sketch as a graph with nodes representing the sampled points along input strokes and edges encoding the stroke structure information. To predict the per-node labels, our SketchGNN uses graph convolution and a static-dynamic branching network architecture to extract the features at three levels, i.e., point-level, stroke-level, and sketch-level. SketchGNN significantly improves the accuracy of the state-of-the-art methods for semantic sketch segmentation (by 11.2% in the pixel-based metric and 18.2% in the component-based metric over a large-scale challenging SPG dataset) and has magnitudes fewer parameters than both image-based and sequence-based methods.
+https://dl.acm.org/doi/10.1145/3450284

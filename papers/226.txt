@@ -1,0 +1,6 @@
+Artificial intelligence for synthetic biology
+Mohammed Eslami, Aaron Adler, Rajmonda S. Caceres, Joshua G. Dunn, Nancy Kelley-Loughnane, Vanessa A. Varaljay, Hector Garcia Martin
+Communications of the ACM
+25 April 2022
+The opportunities and challenges of adapting and applying AI principles to synbio.
+https://dl.acm.org/doi/10.1145/3500922

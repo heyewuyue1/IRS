@@ -1,0 +1,6 @@
+Interpretable machine learning: moving from mythos to diagnostics
+Valerie Chen, Jeffrey Li, Joon Sik Kim, Gregory Plumb, Ameet Talwalkar
+Communications of the ACM
+21 July 2022
+
+https://dl.acm.org/doi/10.1145/3546036

@@ -1,0 +1,6 @@
+NeuSE: A Neural Snapshot Ensemble Method for Collaborative Filtering
+Dongsheng Li, Haodong Liu, Chao Chen, Yingying Zhao, Stephen M. Chu, Bo Yang
+ACM Transactions on Knowledge Discovery from Data
+19 May 2021
+In collaborative filtering (CF) algorithms, the optimal models are usually learned by globally minimizing the empirical risks averaged over all the observed data. However, the global models are often obtained via a performance tradeoff among users/items, i.e., not all users/items are perfectly fitted by the global models due to the hard non-convex optimization problems in CF algorithms. Ensemble learning can address this issue by learning multiple diverse models but usually suffer from efficiency issue on large datasets or complex algorithms. In this article, we keep the intermediate models obtained during global model learning as the snapshot models, and then adaptively combine the snapshot models for individual user-item pairs using a memory network-based method. Empirical studies on three real-world datasets show that the proposed method can extensively and significantly improve the accuracy (up to 15.9% relatively) when applied to a variety of existing collaborative filtering methods.
+https://dl.acm.org/doi/10.1145/3450526

@@ -1,0 +1,6 @@
+The Role of Generative Adversarial Network in Medical Image Analysis: An In-depth Survey
+Manal Alamir, Manal Alghamdi
+ACM Computing Surveys
+03 December 2022
+A generative adversarial network (GAN) is one of the most significant research directions in the field of artificial intelligence, and its superior data generation capability has garnered wide attention. In this article, we discuss the recent advancements in GANs, particularly in the medical field. First, the different medical imaging modalities and the principal theory of GANs were analyzed and summarized, after which, the evaluation metrics and training issues were determined. Third, the extension models of GANs were classified and introduced one-by-one. Fourth, the applications of GAN in medical images including cross-modality, augmentation, detection, classification, and reconstruction were illustrated. Finally, the problems we needed to resolve and future directions were discussed. The objective of this review is to provide a comprehensive overview of the GAN, simplify the GAN’s basics, and present the most successful applications in different scenarios.
+https://dl.acm.org/doi/10.1145/3527849

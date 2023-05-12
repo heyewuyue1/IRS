@@ -1,0 +1,6 @@
+Reinforcement Learning and Additional Rewards for the Traveling Salesman Problem
+Umberto Junior Mele, Xiaochen Chou, Luca Maria Gambardella, Roberto Montemanni
+ICIEA 2021-Europe: 2021 The 8th International Conference on Industrial Engineering and Applications(Europe)
+07 September 2021
+A comprehensive literature on the Traveling Salesman Problem (TSP) is available, and this problem has become a valuable benchmark to test new heuristic methods for general Combinatorial Optimisation problems. For this reason, recently developed Deep Learning-driven heuristics have been tried on the TSP. These Deep Learning frameworks use the city coordinates as inputs, and are trained using reinforcement learning to predict a distribution over the TSP feasible solutions. The aim of the present work is to show how easy-to-calculate Combinatorial Optimization concepts can improve the performances of such systems. In particular, we show how passing Minimum Spanning Tree information during training can lead to significant improvements to the quality of TSP solutions.  As a side result, we also propose a Deep Learning architecture able to predict in real time the optimal length of a TSP instance.  The proposed architectures have been tested on random 2D Euclidean graphs with 50 and 100 nodes, showing significant results.
+https://dl.acm.org/doi/10.1145/3463858.3463885

@@ -1,0 +1,6 @@
+Ethical Challenges in AI
+Ricardo Baeza-Yates
+WSDM '22: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining
+15 February 2022
+In the first part we address four current specific challenges through examples: (1) discrimination (e.g., facial recognition, justice, sharing economy, language models); (2) stupid models (e.g., lack of semantic and context understanding); (3) physiognomy (e.g., facial bio-metrics based predictions); and (4) indiscriminate use of computing resources (e.g., large language models). These examples do have a personal bias but set the context for the second part where we address four generic challenges: (1) too many principles, (2) cultural differences; (3) regulation and (4) our cognitive biases. We finish discussing what we can do to address these challenges in the near future.
+https://dl.acm.org/doi/10.1145/3488560.3498370

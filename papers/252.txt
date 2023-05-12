@@ -1,0 +1,6 @@
+Automated Analysis of Blood Smear Images for Leukemia Detection: A Comprehensive Review
+Ajay Mittal, Sabrina Dhalla, Savita Gupta, Aastha Gupta
+ACM Computing Surveys
+09 September 2022
+Leukemia, the malignancy of blood-forming tissues, becomes fatal if not detected in the early stages. It is detected through a blood smear test that involves the morphological analysis of the stained blood slide. The manual microscopic examination of slides is tedious, time-consuming, error-prone, and subject to inter-observer and intra-observer bias. Several computerized methods to automate this task have been developed to alleviate these problems during the past few years. However, no exclusive comprehensive review of these methods has been presented to date. Such a review shall be highly beneficial for novice readers interested in pursuing research in this domain. This article fills the void by presenting a comprehensive review of 149 papers detailing the methods used to analyze blood smear images and detect leukemia. The primary focus of the review is on presenting the underlying techniques used and their reported performance, along with their merits and demerits. It also enumerates the research issues that have been satisfactorily solved and open challenges still existing in the domain.
+https://dl.acm.org/doi/10.1145/3514495

@@ -1,0 +1,6 @@
+From Coarse to Fine: Hierarchical Structure-aware Video Summarization
+Wenxu Li, Gang Pan, Chen Wang, Zhen Xing, Zhenjun Han
+ACM Transactions on Multimedia Computing, Communications, and Applications
+25 January 2022
+Hierarchical structure is a common characteristic for some kinds of videos (e.g., sports videos, game videos): The videos are composed of several actions hierarchically and there exist temporal dependencies among segments with different scales, where action labels can be enumerated. Our ideas are based on two observations: First, the actions are the fundamental units for people to understand these videos. Second, the humans summarize a video by iteratively observing and refining, i.e., observing segments in video and hierarchically refining the boundaries of important actions. Based on the above insights, we generate action proposals to construct the structure of the video and formulate the summarization process as a hierarchical refining process. We also train a hierarchical summarization network with deep Q-learning (HQSN) to achieve the refining process and explore temporal dependency. Besides, we collect a new dataset that consists of structured game videos with fine-grain actions and importance annotations. The experimental results demonstrate the effectiveness of the proposed method.
+https://dl.acm.org/doi/10.1145/3485472

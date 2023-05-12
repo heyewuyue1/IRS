@@ -1,0 +1,6 @@
+DSSAE: Deep Stacked Sparse Autoencoder Analytical Model for COVID-19 Diagnosis by Fractional Fourier Entropy
+Shui-Hua Wang, Xin Zhang, Yu-Dong Zhang
+ACM Transactions on Management Information Systems
+05 October 2021
+( Aim ) COVID-19 has caused more than 2.28 million deaths till 4/Feb/2021 while it is still spreading across the world. This study proposed a novel artificial intelligence model to diagnose COVID-19 based on chest CT images. ( Methods ) First, the two-dimensional fractional Fourier entropy was used to extract features. Second, a custom deep stacked sparse autoencoder (DSSAE) model was created to serve as the classifier. Third, an improved multiple-way data augmentation was proposed to resist overfitting. ( Results ) Our DSSAE model obtains a micro-averaged F1 score of 92.32% in handling a four-class problem (COVID-19, community-acquired pneumonia, secondary pulmonary tuberculosis, and healthy control). ( Conclusion ) Our method outperforms 10 state-of-the-art approaches.
+https://dl.acm.org/doi/10.1145/3451357

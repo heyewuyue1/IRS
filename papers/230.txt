@@ -1,0 +1,6 @@
+A Survey of Opponent Modeling in Adversarial Domains
+Samer Nashed, Shlomo Zilberstein
+Journal of Artificial Intelligence Research
+05 May 2022
+Opponent modeling is the ability to use prior knowledge and observations in order to predict the behavior of an opponent. This survey presents a comprehensive overview of existing opponent modeling techniques for adversarial domains, many of which must address stochastic, continuous, or concurrent actions, and sparse, partially observable payoff structures. We discuss all the components of opponent modeling systems, including feature extraction, learning algorithms, and strategy abstractions. These discussions lead us to propose a new form of analysis for describing and predicting the evolution of game states over time. We then introduce a new framework that facilitates method comparison, analyze a representative selection of techniques using the proposed framework, and highlight common trends among recently proposed methods. Finally, we list several open problems and discuss future research directions inspired by AI research on opponent modeling and related research in other disciplines.
+https://dl.acm.org/doi/10.1613/jair.1.12889

@@ -1,0 +1,6 @@
+Voxento 2.0: A Prototype Voice-controlled Interactive Search Engine for Lifelogs
+Ahmed Alateeq, Mark Roantree, Cathal Gurrin
+LSC '21: Proceedings of the 4th Annual on Lifelog Search Challenge
+21 August 2021
+In this paper, we describe an extended version of Voxento which is an interactive voice-based retrieval system for lifelogs that has been developed to participate in the fourth Lifelog Search Challenge LSC'21, at ACM ICMR'21. Voxento provides a spoken interface to the lifelog dataset, which facilitates a novice user to interact with a personal lifelog using a range of vocal commands and interactions. For the version presented here, Voxento has been enhanced with new retrieval features and better user interaction support. In this paper, we introduce these new features, which include dynamic result filtering, predefined interactive responses and the development of a new retrieval API. Although Voxento was proposed for wearable technologies such as Google Glass or interactive devices like smart TVs, the version of Voxento presented here uses a desktop computer in order to participate in the LSC'21 competition. In the current Voxento iteration, the user has the option to enable voice interaction or use standard text-based retrieval.
+https://dl.acm.org/doi/10.1145/3463948.3469071

@@ -1,0 +1,6 @@
+An Attentive Survey of Attention Models
+Sneha Chaudhari, Varun Mithal, Gungor Polatkan, Rohan Ramanath
+ACM Transactions on Intelligent Systems and Technology
+22 October 2021
+Attention Model has now become an important concept in neural networks that has been researched within diverse application domains. This survey provides a structured and comprehensive overview of the developments in modeling attention. In particular, we propose a taxonomy that groups existing techniques into coherent categories. We review salient neural architectures in which attention has been incorporated and discuss applications in which modeling attention has shown a significant impact. We also describe how attention has been used to improve the interpretability of neural networks. Finally, we discuss some future research directions in attention. We hope this survey will provide a succinct introduction to attention models and guide practitioners while developing approaches for their applications.
+https://dl.acm.org/doi/10.1145/3465055

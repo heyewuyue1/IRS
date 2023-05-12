@@ -1,0 +1,6 @@
+Camera Measurement of Physiological Vital Signs
+Daniel McDuff
+ACM Computing Surveys
+16 January 2023
+The need for remote tools for healthcare monitoring has never been more apparent. Camera measurement of vital signs leverages imaging devices to compute physiological changes by analyzing images of the human body. Building on advances in optics, machine learning, computer vision, and medicine, these techniques have progressed significantly since the invention of digital cameras. This article presents a comprehensive survey of camera measurement of physiological vital signs, describing the vital signs that can be measured and the computational techniques for doing so. I cover both clinical and non-clinical applications and the challenges that need to be overcome for these applications to advance from proofs of concept. Finally, I describe the current resources (datasets and code) available to the research community and provide a comprehensive webpage (https://cameravitals.github.io/) with links to these resource and a categorized list of all papers referenced in this article.
+https://dl.acm.org/doi/10.1145/3558518

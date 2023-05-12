@@ -1,0 +1,6 @@
+Cross-Modal Self-Attention with Multi-Task Pre-Training for Medical Visual Question Answering
+Haifan Gong, Guanqi Chen, Sishuo Liu, Yizhou Yu, Guanbin Li
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+Due to the severe lack of labeled data, existing methods of medical visual question answering usually rely on transfer learning to obtain effective image feature representation and use cross-modal fusion of visual and linguistic features to achieve question-related answer prediction. These two phases are performed independently and without considering the compatibility and applicability of the pre-trained features for cross-modal fusion. Thus, we reformulate image feature pre-training as a multi-task learning paradigm and witness its extraordinary superiority, forcing it to take into account the applicability of features for the specific image comprehension task. Furthermore, we introduce a cross-modal self-attention~(CMSA) module to selectively capture the long-range contextual relevance for more effective fusion of visual and linguistic features. Experimental results demonstrate that the proposed method outperforms existing state-of-the-art methods. Our code and models are available at https://github.com/haifangong/CMSA-MTPT-4-MedicalVQA.
+https://dl.acm.org/doi/10.1145/3460426.3463584

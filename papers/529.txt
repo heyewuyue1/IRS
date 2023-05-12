@@ -1,0 +1,6 @@
+ABLE: Meta-Path Prediction in Heterogeneous Information Networks
+Chenji Huang, Yixiang Fang, Xuemin Lin, Xin Cao, Wenjie Zhang
+ACM Transactions on Knowledge Discovery from Data
+08 January 2022
+Given a heterogeneous information network (HIN) H, a head node h , a meta-path P, and a tail node t , the meta-path prediction aims at predicting whether h can be linked to t by an instance of P. Most existing solutions either require predefined meta-paths, which limits their scalability to schema-rich HINs and long meta-paths, or do not aim at predicting the existence of an instance of P. To address these issues, in this article, we propose a novel prediction model, called ABLE, by exploiting the A ttention mechanism and B i L STM for E mbedding. Particularly, we present a concatenation node embedding method by considering the node types and a dynamic meta-path embedding method that carefully considers the importance and positions of edge types in the meta-paths by the Attention mechanism and BiLSTM model, respectively. A triplet embedding is then derived to complete the prediction. We conduct extensive experiments on four real datasets. The empirical results show that ABLE outperforms the state-of-the-art methods by up to 20% and 22% of improvement of AUC and AP scores, respectively.
+https://dl.acm.org/doi/10.1145/3494558

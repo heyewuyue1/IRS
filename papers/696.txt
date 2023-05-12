@@ -1,0 +1,6 @@
+Rare-event Simulation for Neural Network and Random Forest Predictors
+Yuanlu Bai, Zhiyuan Huang, Henry Lam, Ding Zhao
+ACM Transactions on Modeling and Computer Simulation
+06 July 2022
+We study rare-event simulation for a class of problems where the target hitting sets of interest are defined via modern machine learning tools such as neural networks and random forests. This problem is motivated from fast emerging studies on the safety evaluation of intelligent systems, robustness quantification of learning models, and other potential applications to large-scale simulation in which machine learning tools can be used to approximate complex rare-event set boundaries. We investigate an importance sampling scheme that integrates the dominating point machinery in large deviations and sequential mixed integer programming to locate the underlying dominating points. Our approach works for a range of neural network architectures including fully connected layers, rectified linear units, normalization, pooling and convolutional layers, and random forests built from standard decision trees. We provide efficiency guarantees and numerical demonstration of our approach using a classification model in the UCI Machine Learning Repository.
+https://dl.acm.org/doi/10.1145/3519385

@@ -1,0 +1,7 @@
+
+
+Mohannad Elhamod, Jie Bu, Christopher Singh, Matthew Redell, Abantika Ghosh, Viktor Podolskiy, Wei-Cheng Lee, Anuj Karpatne
+ACM Transactions on Intelligent Systems and Technology
+15 December 2022
+Physics-guided Neural Networks (PGNNs) represent an emerging class of neural networks that are trained using physics-guided (PG) loss functions (capturing violations in network outputs with known physics), along with the supervision contained in data. Existing work in PGNNs has demonstrated the efficacy of adding single PG loss functions in the neural network objectives, using constant tradeoff parameters, to ensure better generalizability. However, in the presence of multiple PG functions with competing gradient directions, there is a need to adaptively tune the contribution of different PG loss functions during the course of training to arrive at generalizable solutions. We demonstrate the presence of competing PG losses in the generic neural network problem of solving for the lowest (or highest) eigenvector of a physics-based eigenvalue equation, which is commonly encountered in many scientific problems. We present a novel approach to handle competing PG losses and demonstrate its efficacy in learning generalizable solutions in two motivating applications of quantum mechanics and electromagnetic propagation. All the code and data used in this work are available at https://github.com/jayroxis/Cophy-PGNN.
+https://dl.acm.org/doi/10.1145/3530911

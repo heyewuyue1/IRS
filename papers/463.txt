@@ -1,0 +1,6 @@
+Impact of Annotator Demographics on Sentiment Dataset Labeling
+Yi Ding, Jacob You, Tonja-Katrin Machulla, Jennifer Jacobs, Pradeep Sen, Tobias Höllerer
+Proceedings of the ACM on Human-Computer Interaction
+11 November 2022
+As machine learning methods become more powerful and capture more nuances of human behavior, biases in the dataset can shape what the model learns and is evaluated on. This paper explores and attempts to quantify the uncertainties and biases due to annotator demographics when creating sentiment analysis datasets. We ask >1000 crowdworkers to provide their demographic information and annotations for multimodal sentiment data and its component modalities. We show that demographic differences among annotators impute a significant effect on their ratings, and that these effects also occur in each component modality. We compare predictions of different state-of-the-art multimodal machine learning algorithms against annotations provided by different demographic groups, and find that changing annotator demographics can cause >4.5 in accuracy difference when determining positive versus negative sentiment. Our findings underscore the importance of accounting for crowdworker attributes, such as demographics, when building datasets, evaluating algorithms, and interpreting results for sentiment analysis.
+https://dl.acm.org/doi/10.1145/3555632

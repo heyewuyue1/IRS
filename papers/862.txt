@@ -1,0 +1,6 @@
+Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap
+Lingxi Xie, Xin Chen, Kaifeng Bi, Longhui Wei, Yuhui Xu, Lanfei Wang, Zhengsu Chen, An Xiao, Jianlong Chang, Xiaopeng Zhang, Qi Tian
+ACM Computing Surveys
+08 October 2021
+Neural architecture search (NAS) has attracted increasing attention. In recent years, individual search methods have been replaced by weight-sharing search methods for higher search efficiency, but the latter methods often suffer lower instability. This article provides a literature review on these methods and owes this issue to the optimization gap . From this perspective, we summarize existing approaches into several categories according to their efforts in bridging the gap, and we analyze both advantages and disadvantages of these methodologies. Finally, we share our opinions on the future directions of NAS and AutoML. Due to the expertise of the authors, this article mainly focuses on the application of NAS to computer vision problems.
+https://dl.acm.org/doi/10.1145/3473330

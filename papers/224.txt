@@ -1,0 +1,6 @@
+The five Is: Key principles for interpretable and safe conversational AI
+Mattias Wahde, Marco Virgolin
+CIIS '21: Proceedings of the 2021 4th International Conference on Computational Intelligence and Intelligent Systems
+11 April 2022
+In this position paper, we present five key principles, namely interpretability, inherent capability to explain, independent data, interactive learning, and inquisitiveness, for the development of conversational AI that, unlike the currently popular black box approaches, is transparent and accountable. At present, there is a growing concern with the use of black box statistical language models: While displaying impressive average performance, such systems are also prone to occasional spectacular failures, for which there is no clear remedy. In an effort to initiate a discussion on possible alternatives, we outline and exemplify how our five principles enable the development of conversational AI systems that are transparent and thus safer for use. We also present some of the challenges inherent in the implementation of those principles.
+https://dl.acm.org/doi/10.1145/3507623.3507632

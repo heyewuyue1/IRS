@@ -1,0 +1,6 @@
+Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems
+Jared Willard, Xiaowei Jia, Shaoming Xu, Michael Steinbach, Vipin Kumar
+ACM Computing Surveys
+21 November 2022
+There is a growing consensus that solutions to complex science and engineering problems require novel methodologies that are able to integrate traditional physics-based modeling approaches with state-of-the-art machine learning (ML) techniques. This article provides a structured overview of such techniques. Application-centric objective areas for which these approaches have been applied are summarized, and then classes of methodologies used to construct physics-guided ML models and hybrid physics-ML frameworks are described. We then provide a taxonomy of these existing techniques, which uncovers knowledge gaps and potential crossovers of methods between disciplines that can serve as ideas for future research.
+https://dl.acm.org/doi/10.1145/3514228

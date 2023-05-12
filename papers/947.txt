@@ -1,0 +1,6 @@
+BERT-based GitHub issue report classification
+Mohammed Latif Siddiq, Joanna C. S. Santos
+NLBSE '22: Proceedings of the 1st International Workshop on Natural Language-based Software Engineering
+01 February 2023
+Issue tracking is one of the integral parts of software development, especially for open source projects. GitHub, a commonly used software management tool, provides its own issue tracking system. Each issue can have various tags, which are manually assigned by the project's developers. However, manually labeling software reports is a time-consuming and error-prone task. In this paper, we describe a BERT-based classification technique to automatically label issues as questions, bugs, or enhancements. We evaluate our approach using a dataset containing over 800,000 labeled issues from real open source projects available on GitHub. Our approach classified reported issues with an average F1-score of 0.8571. Our technique outperforms a previous machine learning technique based on FastText.
+https://dl.acm.org/doi/10.1145/3528588.3528660

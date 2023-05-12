@@ -1,0 +1,6 @@
+D’ya Like DAGs? A Survey on Structure Learning and Causal Discovery
+Matthew J. Vowels, Necati Cihan Camgoz, Richard Bowden
+ACM Computing Surveys
+21 November 2022
+Causal reasoning is a crucial part of science and human intelligence. In order to discover causal relationships from data, we need structure discovery methods. We provide a review of background theory and a survey of methods for structure discovery. We primarily focus on modern, continuous optimization methods, and provide reference to further resources such as benchmark datasets and software packages. Finally, we discuss the assumptive leap required to take us from structure to causality.
+https://dl.acm.org/doi/10.1145/3527154

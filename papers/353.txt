@@ -1,0 +1,6 @@
+Body Shape Calculator: Understanding the Type of Body Shapes from Anthropometric Measurements
+Shintami Chusnul Hidayati, Yeni Anistyasari
+ICMR '21: Proceedings of the 2021 International Conference on Multimedia Retrieval
+01 September 2021
+Human body shape, which describes the contours of the body figure as well as the distribution of muscles and fat, contains a rich source of information, from health issues to aesthetic presentation of fashion styles. However, most of the existing methods for estimating body types are derived from subjective measures, which are susceptible to multiple biases. Determining the type of body shapes is still a challenging analytical task, for which open questions remain regarding good feature representation and classification methods, given noisy and imbalanced real-world data. In this work, we propose a novel body type recognition framework based on anthropometric measurements, which integrates label filtering and pseudo-feature synthesis modules. Label filtering is proposed to identify and filter out potentially noisy labels during classifier training, while pseudo-feature is generated to improve feature representation. Experimental results on the collected dataset from online feeds demonstrate the effectiveness of the approach compared to the state-of-the-art baselines.
+https://dl.acm.org/doi/10.1145/3460426.3463582

@@ -1,0 +1,6 @@
+Interactive Gated Decoder for Machine Reading Comprehension
+Yiming Cui, Wanxiang Che, Ziqing Yang, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu
+ACM Transactions on Asian and Low-Resource Language Information Processing
+19 January 2022
+Owing to the availability of various large-scale Machine Reading Comprehension ( MRC ) datasets, building an effective model to extract passage spans for question answering has been well studied in previous works. However, in reality, there are some questions that cannot be answered through the passage information, which brings more challenges to this task. In this article, we propose an Interactive Gated Decoder ( IG Decoder ), which focuses on modeling the interactions between the answer span prediction and no-answer prediction with a gating mechanism. We also propose a simple but effective approach for automatically generating pseudo training data, which aims to enrich the training data of the unanswerable questions. Experimental results on popular benchmark SQuAD 2.0 and NewsQA show that the proposed approaches yield consistent improvements over traditional BERT-large and strong ALBERT-xxlarge baseline systems. We also provide detailed ablations of the proposed method and error analysis on hard samples, which could be helpful in future research.
+https://dl.acm.org/doi/10.1145/3501399

@@ -1,0 +1,6 @@
+Learning a family of motor skills from a single motion clip
+Seyoung Lee, Sunmin Lee, Yongwoo Lee, Jehee Lee
+ACM Transactions on Graphics
+19 July 2021
+We present a new algorithm that learns a parameterized family of motor skills from a single motion clip. The motor skills are represented by a deep policy network, which produces a stream of motions in physics simulation in response to user input and environment interaction by navigating continuous action space. Three novel technical components play an important role in the success of our algorithm. First, it explicitly constructs motion parameterization that maps action parameters to their corresponding motions. Simultaneous learning of motion parameterization and motor skills significantly improves the performance and visual quality of learned motor skills. Second, continuous-time reinforcement learning is adopted to explore temporal variations as well as spatial variations in motion parameterization. Lastly, we present a new automatic curriculum generation method that explores continuous action space more efficiently. We demonstrate the flexibility and versatility of our algorithm with highly dynamic motor skills that can be parameterized by task goals, body proportions, physical measurements, and environmental conditions.
+https://dl.acm.org/doi/10.1145/3450626.3459774

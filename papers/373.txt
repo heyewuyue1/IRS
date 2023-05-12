@@ -1,0 +1,6 @@
+Network Embedding via Motifs
+Ping Shao, Yang Yang, Shengyao Xu, Chunping Wang
+ACM Transactions on Knowledge Discovery from Data
+22 October 2021
+Network embedding has emerged as an effective way to deal with downstream tasks, such as node classification  [ 16 , 31 , 42 ]. Most existing methods leverage multi-similarities between nodes such as connectivity, which considers vertices that are closely connected to be similar and structural similarity, which is measured by assessing their relations to neighbors; while these methods only focus on static graphs. In this work, we bridge connectivity and structural similarity in a uniform representation via motifs, and consequently present an algorithm for Learning Embeddings by leveraging Motifs Of Networks (LEMON), which aims to learn embeddings for vertices and various motifs. Moreover, LEMON is inherently capable of dealing with inductive learning tasks for dynamic graphs. To validate the effectiveness and efficiency, we conduct various experiments on two real-world datasets and five public datasets from diverse domains. Through comparison with state-of-the-art baseline models, we find that LEMON achieves significant improvements in downstream tasks. We release our code on Github at https://github.com/larry2020626/LEMON.
+https://dl.acm.org/doi/10.1145/3473911

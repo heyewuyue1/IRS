@@ -1,0 +1,6 @@
+Toward verified artificial intelligence
+Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry
+Communications of the ACM
+21 June 2022
+Making AI more trustworthy with a formal methods-based approach to AI system verification and validation.
+https://dl.acm.org/doi/10.1145/3503914

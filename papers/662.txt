@@ -1,0 +1,6 @@
+Images in Space and Time: Real Big Data in Healthcare
+Eman Badr
+ACM Computing Surveys
+13 July 2021
+Medical imaging diagnosis is mostly subjective, as it depends on medical experts. Hence, the service provided is limited by expert opinion variations and image complexity as well. However, with the increasing advancements in deep learning field, techniques are developed to help in the diagnosis and risk assessment processes. In this article, we survey different types of images in healthcare. A review of the concept and research methodology of Radiomics will highlight the potentials of integrated diagnostics. Convolutional neural networks can play an important role in next generations of automated imaging biomarker extraction and big data analytics systems. Examples are provided of what is already feasible today and also describe additional technological components required for successful clinical implementation.
+https://dl.acm.org/doi/10.1145/3453657

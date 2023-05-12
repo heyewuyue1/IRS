@@ -1,0 +1,6 @@
+A Survey on Data Augmentation for Text Classification
+Markus Bayer, Marc-André Kaufhold, Christian Reuter
+ACM Computing Surveys
+15 December 2022
+Data augmentation, the artificial creation of training data for machine learning by transformations, is a widely studied research field across machine learning disciplines. While it is useful for increasing a model's generalization capabilities, it can also address many other challenges and problems, from overcoming a limited amount of training data to regularizing the objective, to limiting the amount of data used to protect privacy. Based on a precise description of the goals and applications of data augmentation and a taxonomy for existing works, this survey is concerned with data augmentation methods for textual classification and aims at providing a concise and comprehensive overview for researchers and practitioners. Derived from the taxonomy, we divide more than 100 methods into 12 different groupings and give state-of-the-art references expounding which methods are highly promising by relating them to each other. Finally, research perspectives that may constitute a building block for future work are provided.
+https://dl.acm.org/doi/10.1145/3544558

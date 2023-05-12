@@ -1,0 +1,6 @@
+Quantization of Deep Neural Networks for Accurate Edge Computing
+Wentao Chen, Hailong Qiu, Jian Zhuang, Chutong Zhang, Yu Hu, Qing Lu, Tianchen Wang, Yiyu Shi, Meiping Huang, Xiaowe Xu
+ACM Journal on Emerging Technologies in Computing Systems
+30 June 2021
+Deep neural networks have demonstrated their great potential in recent years, exceeding the performance of human experts in a wide range of applications. Due to their large sizes, however, compression techniques such as weight quantization and pruning are usually applied before they can be accommodated on the edge. It is generally believed that quantization leads to performance degradation, and plenty of existing works have explored quantization strategies aiming at minimum accuracy loss. In this paper, we argue that quantization, which essentially imposes regularization on weight representations, can sometimes help to improve accuracy. We conduct comprehensive experiments on three widely used applications: fully connected network for biomedical image segmentation, convolutional neural network for image classification on ImageNet, and recurrent neural network for automatic speech recognition, and experimental results show that quantization can improve the accuracy by 1%, 1.95%, 4.23% on the three applications respectively with 3.5x-6.4x memory reduction.
+https://dl.acm.org/doi/10.1145/3451211

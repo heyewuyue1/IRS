@@ -1,0 +1,6 @@
+Investigating the Spread of Coronavirus Disease via Edge-AI and Air Pollution Correlation
+V. Gomathy, K. Janarthanan, Fadi Al-Turjman, R. Sitharthan, M. Rajesh, K. Vengatesan, T. Priya Reshma
+ACM Transactions on Internet Technology
+22 July 2021
+Coronavirus Disease 19 (COVID-19) is a highly infectious viral disease affecting millions of people worldwide in 2020. Several studies have shown that COVID-19 results in a severe acute respiratory syndrome and may lead to death. In past research, a greater number of respiratory diseases has been caused by exposure to air pollution for long periods of time. This article investigates the spread of COVID-19 as a result of air pollution by applying linear regression in machine learning method based edge computing. The analysis in this investigation have been based on the death rates caused by COVID-19 as well as the region of death rates based on hazardous air pollution using data retrieved from the Copernicus Sentinel-5P satellite. The results obtained in the investigation prove that the mortality rate due to the spread of COVID-19 is 77% higher in areas with polluted air. This investigation also proves that COVID-19 severely affected 68% of the individuals who had been exposed to polluted air.
+https://dl.acm.org/doi/10.1145/3424222

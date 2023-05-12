@@ -1,0 +1,6 @@
+A Survey on Deep Learning and Explainability for Automatic Report Generation from Medical Images
+Pablo Messina, Pablo Pino, Denis Parra, Alvaro Soto, Cecilia Besa, Sergio Uribe, Marcelo Andía, Cristian Tejos, Claudia Prieto, Daniel Capurro
+ACM Computing Surveys
+13 September 2022
+Every year physicians face an increasing demand of image-based diagnosis from patients, a problem that can be addressed with recent artificial intelligence methods. In this context, we survey works in the area of automatic report generation from medical images, with emphasis on methods using deep neural networks, with respect to (1) Datasets, (2) Architecture Design, (3) Explainability, and (4) Evaluation Metrics. Our survey identifies interesting developments but also remaining challenges. Among them, the current evaluation of generated reports is especially weak, since it mostly relies on traditional Natural Language Processing (NLP) metrics, which do not accurately capture medical correctness.
+https://dl.acm.org/doi/10.1145/3522747

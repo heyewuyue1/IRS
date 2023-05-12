@@ -1,0 +1,6 @@
+An Efficient Learning Framework for Federated XGBoost Using Secret Sharing and Distributed Optimization
+Lunchen Xie, Jiaqi Liu, Songtao Lu, Tsung-Hui Chang, Qingjiang Shi
+ACM Transactions on Intelligent Systems and Technology
+23 September 2022
+XGBoost is one of the most widely used machine learning models in the industry due to its superior learning accuracy and efficiency. Targeting at data isolation issues in the big data problems, it is crucial to deploy a secure and efficient federated XGBoost (FedXGB) model. Existing FedXGB models either have data leakage issues or are only applicable to the two-party setting with heavy communication and computation overheads. In this article, a lossless multi-party federated XGB learning framework is proposed with a security guarantee, which reshapes the XGBoost’s split criterion calculation process under a secret sharing setting and solves the leaf weight calculation problem by leveraging distributed optimization. Remarkably, a thorough analysis of model security is provided as well, and multiple numerical results showcase the superiority of the proposed FedXGB compared with the state-of-the-art models on benchmark datasets.
+https://dl.acm.org/doi/10.1145/3523061

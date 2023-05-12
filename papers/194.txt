@@ -1,0 +1,6 @@
+Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem
+Jiaqi Ma, Junwei Deng, Qiaozhu Mei
+WSDM '22: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining
+15 February 2022
+Graph neural networks (GNNs) have attracted increasing interests. With broad deployments of GNNs in real-world applications, there is an urgent need for understanding the robustness of GNNs under adversarial attacks, especially in realistic setups. In this work, we study the problem of attacking GNNs in a restricted and realistic setup, by perturbing the features of a small set of nodes, with no access to model parameters and model predictions. Our formal analysis draws a connection between this type of attacks and an influence maximization problem on the graph. This connection not only enhances our understanding on the problem of adversarial attack on GNNs, but also allows us to propose a group of effective and practical attack strategies. Our experiments verify that the proposed attack strategies significantly degrade the performance of three popular GNN models and outperform baseline adversarial attack strategies.
+https://dl.acm.org/doi/10.1145/3488560.3498497

@@ -1,0 +1,6 @@
+A Novel WiFi Gesture Recognition Method Based on CNN-LSTM and Channel Attention
+Yu Gu, Jiangan Li
+AISS '21: Proceedings of the 3rd International Conference on Advanced Information Science and System
+19 January 2022
+With the rapid development of wireless sensing, intelligent human-computer interaction, and other fields, gesture recognition based on WiFi has become an important research field. Gesture recognition based on WiFi has the advantages of non-contact and privacy protection. In addition, the use of home WiFi makes the technology have a broad application scenario. At present, most gesture recognition models based on WiFi can only achieve good results in a specific domain. When changing the environment or the orientation of gesture action, the performance of the model becomes very poor. This paper proposes a gesture recognition system based on the channel attention mechanism and CNN-LSTM fusion model. On the one hand, the channel attention mechanism can consider the importance of different channel characteristics; On the other hand, the CNN-LSTM fusion model can extract richer features in the time domain and space domain. The system has achieved good classification results in multiple domains of the public data set widar3.0.
+https://dl.acm.org/doi/10.1145/3503047.3503148

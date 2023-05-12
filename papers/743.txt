@@ -1,0 +1,6 @@
+Two New Large Corpora for Vietnamese Aspect-based Sentiment Analysis at Sentence Level
+Dang Van Thin, Ngan Luu-Thuy Nguyen, Tri Minh Truong, Lac Si Le, Duy Tin Vo
+ACM Transactions on Asian and Low-Resource Language Information Processing
+26 May 2021
+Aspect-based sentiment analysis has been studied in both research and industrial communities over recent years. For the low-resource languages, the standard benchmark corpora play an important role in the development of methods. In this article, we introduce two benchmark corpora with the largest sizes at sentence-level for two tasks: Aspect Category Detection and Aspect Polarity Classification in Vietnamese. Our corpora are annotated with high inter-annotator agreements for the restaurant and hotel domains. The release of our corpora would push forward the low-resource language processing community. In addition, we deploy and compare the effectiveness of supervised learning methods with a single and multi-task approach based on deep learning architectures. Experimental results on our corpora show that the multi-task approach based on BERT architecture outperforms the neural network architectures and the single approach. Our corpora and source code are published on this footnoted site. 1
+https://dl.acm.org/doi/10.1145/3446678

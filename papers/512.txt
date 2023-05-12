@@ -1,0 +1,6 @@
+Adversarial Perturbation Defense on Deep Neural Networks
+Xingwei Zhang, Xiaolong Zheng, Wenji Mao
+ACM Computing Surveys
+04 October 2021
+Deep neural networks (DNNs) have been verified to be easily attacked by well-designed adversarial perturbations. Image objects with small perturbations that are imperceptible to human eyes can induce DNN-based image class classifiers towards making erroneous predictions with high probability. Adversarial perturbations can also fool real-world machine learning systems and transfer between different architectures and datasets. Recently, defense methods against adversarial perturbations have become a hot topic and attracted much attention. A large number of works have been put forward to defend against adversarial perturbations, enhancing DNN robustness against potential attacks, or interpreting the origin of adversarial perturbations. In this article, we provide a comprehensive survey on classical and state-of-the-art defense methods by illuminating their main concepts, in-depth algorithms, and fundamental hypotheses regarding the origin of adversarial perturbations. In addition, we further discuss potential directions of this domain for future researchers.
+https://dl.acm.org/doi/10.1145/3465397

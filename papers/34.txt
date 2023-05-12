@@ -1,0 +1,6 @@
+Machine Learning for Electronic Design Automation: A Survey
+Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Zhaoyang Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, Yu Wang
+ACM Transactions on Design Automation of Electronic Systems
+05 June 2021
+With the down-scaling of CMOS technology, the design complexity of very large-scale integrated is increasing. Although the application of machine learning (ML) techniques in electronic design automation (EDA) can trace its history back to the 1990s, the recent breakthrough of ML and the increasing complexity of EDA tasks have aroused more interest in incorporating ML to solve EDA tasks. In this article, we present a comprehensive review of existing ML for EDA studies, organized following the EDA hierarchy.
+https://dl.acm.org/doi/10.1145/3451179

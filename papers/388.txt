@@ -1,0 +1,6 @@
+Formation control and coordination of swarm robotic systems
+Abzal Ermekbayuly Kyzyrkanov, Sabyrzhan Kubeisinovich Atanov, Shadi Abdel Rahman Aljawarneh
+ICEMIS'21: The 7th International Conference on Engineering & MIS 2021
+14 December 2021
+In many applications, a group of autonomous mobile robots must follow a given trajectory while maintaining a certain geometric structure. If the motion in formation is properly organized, many advantages over traditional systems can be obtained: system cost can be reduced, system reliability and efficiency can be increased, while ensuring the reconfigurability and flexibility of the system's structure.  Movement while maintaining a certain geometric structure has a wide range of applications. For example, in military missions, autonomous vehicles must maintain a certain structure of formation to cover terrain and conduct reconnaissance; in Smart Highway systems, the capacity of the transportation network can be greatly increased if vehicles can be grouped together at the same speed while maintaining a certain distance between them.  This paper provides an algorithm for movement with a certain geometric structure of a group of autonomous mobile robots.
+https://dl.acm.org/doi/10.1145/3492547.3492704

@@ -1,0 +1,6 @@
+Balance-Subsampled Stable Prediction Across Unknown Test Data
+Kun Kuang, Hengtao Zhang, Runze Wu, Fei Wu, Yueting Zhuang, Aijun Zhang
+ACM Transactions on Knowledge Discovery from Data
+22 October 2021
+In data mining and machine learning, it is commonly assumed that training and test data share the same population distribution. However, this assumption is often violated in practice because of the sample selection bias, which might induce the distribution shift from training data to test data. Such a model-agnostic distribution shift usually leads to prediction instability across unknown test data. This article proposes a novel balance-subsampled stable prediction (BSSP) algorithm based on the theory of fractional factorial design. It isolates the clear effect of each predictor from the confounding variables. A design-theoretic analysis shows that the proposed method can reduce the confounding effects among predictors induced by the distribution shift, improving both the accuracy of parameter estimation and the stability of prediction across unknown test data. Numerical experiments on synthetic and real-world datasets demonstrate that our BSSP algorithm can significantly outperform the baseline methods for stable prediction across unknown test data.
+https://dl.acm.org/doi/10.1145/3477052

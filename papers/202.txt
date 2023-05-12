@@ -1,0 +1,6 @@
+Facial Expression Modeling and Synthesis for Patient Simulator Systems: Past, Present, and Future
+Maryam Pourebadi, Laurel D. Riek
+ACM Transactions on Computing for Healthcare
+03 March 2022
+Clinical educators have used robotic and virtual patient simulator systems (RPS) for dozens of years, to help clinical learners (CL) gain key skills to help avoid future patient harm. These systems can simulate human physiological traits; however, they have static faces and lack the realistic depiction of facial cues, which limits CL engagement and immersion. In this article, we provide a detailed review of existing systems in use, as well as describe the possibilities for new technologies from the human–robot interaction and intelligent virtual agents communities to push forward the state of the art. We also discuss our own work in this area, including new approaches for facial recognition and synthesis on RPS systems, including the ability to realistically display patient facial cues such as pain and stroke. Finally, we discuss future research directions for the field.
+https://dl.acm.org/doi/10.1145/3483598

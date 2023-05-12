@@ -1,0 +1,6 @@
+Capsule Embedded ResNet for Image Classification
+Weijie Liu, Weiwei Chen, Chong Wang, Qiaomei Mao, Xinmiao Dai
+CSAI '21: Proceedings of the 2021 5th International Conference on Computer Science and Artificial Intelligence
+09 March 2022
+Various neural network models have been proposed in the past decade. Among them, the residual neural network (ResNet) is one of the most successful models of convolutional neural networks (CNNs), while the capsule neural network (CapsNet) is more robust to the rotation, translation and other transformations of objects in the images. In this paper, a capsule embedded ResNet (CE-ResNet) is proposed to combine the strengths of both. The proposed CE-ResNet utilizes the ResNet blocks based convolutional layers to extract low to medium level features from the images, while two capsule layers are embedded to process the high-level information in order to provide a better performance for image classification. The transformation between convolutional layers and capsules is carefully designed to embed the capsules properly. In the experiments, the proposed model achieves 90.8% and 99.64% accuracies on CIFAR-10 and MNIST datasets respectively, which are higher than the accuracies reported by the vanilla ResNet or CapsNet.
+https://dl.acm.org/doi/10.1145/3507548.3507570

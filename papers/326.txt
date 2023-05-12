@@ -1,0 +1,6 @@
+Improving Web QoE Monitoring for Encrypted Network Traffic through Time Series Modeling
+Nikolas Wehner, Michael Seufert, Joshua Schuler, Sarah Wassermann, Pedro Casas, Tobias Hossfeld
+ACM SIGMETRICS Performance Evaluation Review
+19 May 2021
+This paper addresses the problem of Quality of Experience (QoE) monitoring for web browsing. In particular, the inference of common Web QoE metrics such as Speed Index (SI) is investigated. Based on a large dataset collected with open web-measurement platforms on different device-types, a unique feature set is designed and used to estimate the RUMSI - an efficient approximation to SI, with machinelearning based regression and classification approaches. Results indicate that it is possible to estimate the RUMSI accurately, and that in particular, recurrent neural networks are highly suitable for the task, as they capture the network dynamics more precisely.
+https://dl.acm.org/doi/10.1145/3466826.3466840

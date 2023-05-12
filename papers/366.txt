@@ -1,0 +1,6 @@
+S3-Net: A Fast Scene Understanding Network by Single-Shot Segmentation for Autonomous Driving
+Yuan Cheng, Yuchao Yang, Hai-Bao Chen, Ngai Wong, Hao Yu
+ACM Transactions on Intelligent Systems and Technology
+23 September 2021
+Real-time segmentation and understanding of driving scenes are crucial in autonomous driving. Traditional pixel-wise approaches extract scene information by segmenting all pixels in a frame, and hence are inefficient and slow. Proposal-wise approaches only learn from the proposed object candidates, but still require multiple steps on the expensive proposal methods. Instead, this work presents a fast single-shot segmentation strategy for video scene understanding. The proposed net, called S3-Net, quickly locates and segments target sub-scenes , and meanwhile extracts attention-aware time-series sub-scene features ( ats-features ) as inputs to an attention-aware spatio-temporal model (ASM) . Utilizing tensorization and quantization techniques, S3-Net is intended to be lightweight for edge computing. Experiments results on CityScapes, UCF11, HMDB51, and MOMENTS datasets demonstrate that the proposed S3-Net achieves an accuracy improvement of 8.1% versus the 3D-CNN based approach on UCF11, a storage reduction of 6.9× and an inference speed of 22.8 FPS on CityScapes with a GTX1080Ti GPU.
+https://dl.acm.org/doi/10.1145/3470660

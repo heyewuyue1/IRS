@@ -1,0 +1,6 @@
+Multi-task Learning for Jersey Number Recognition in Ice Hockey
+Kanav Vats, Mehrnaz Fani, David A. Clausi, John Zelek
+MMSports'21: Proceedings of the 4th International Workshop on Multimedia Content Analysis in Sports
+20 October 2021
+Identifying players in sports videos by recognizing their jersey numbers is a challenging task in computer vision. We have designed and implemented a multi-task learning network for jersey number recognition. In order to train a network to recognize jersey numbers, two output label representations are used (1) Holistic - considers the entire jersey number as one class, and (2) Digit-wise - considers the two digits in a jersey number as two separate classes. The proposed network learns both holistic and digit-wise representations through a multi-task loss function. We determine the optimal weights to be assigned to holistic and digit-wise losses through an ablation study. Experimental results demonstrate that the proposed multi-task learning network performs better than the constituent holistic and digit-wise single-task learning networks.
+https://dl.acm.org/doi/10.1145/3475722.3482794

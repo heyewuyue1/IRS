@@ -1,0 +1,6 @@
+Analysis of Best Sampling Strategy in Credit Card Fraud Detection Using Machine Learning
+Hanbing Zou
+ICIIT '21: 2021 6th International Conference on Intelligent Information Technology
+10 August 2021
+
+https://dl.acm.org/doi/10.1145/3460179.3460186

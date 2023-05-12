@@ -1,0 +1,6 @@
+Automating data science
+Tijl De Bie, Luc De Raedt, José Hernández-Orallo, Holger H. Hoos, Padhraic Smyth, Christopher K. I. Williams
+Communications of the ACM
+23 February 2022
+Given the complexity of data science projects and related demand for human expertise, automation has the potential to transform the data science process.
+https://dl.acm.org/doi/10.1145/3495256

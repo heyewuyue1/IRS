@@ -1,0 +1,7 @@
+
+					
+Reyhan Aydoğan, Özgür Kafali, Furkan Arslan, Catholijn M. Jonker, Munindar P. Singh
+ACM Transactions on Intelligent Systems and Technology
+01 August 2021
+Specifying a normative multiagent system (nMAS) is challenging, because different agents often have conflicting requirements. Whereas existing approaches can resolve clear-cut conflicts, tradeoffs might occur in practice among alternative nMAS specifications with no apparent resolution. To produce an nMAS specification that is acceptable to each agent, we model the specification process as a negotiation over a set of norms. We propose an agent-based negotiation framework, where agents’ requirements are represented as values (e.g., patient safety, privacy, and national security), and an agent revises the nMAS specification to promote its values by executing a set of norm revision rules that incorporate ontology-based reasoning. To demonstrate that our framework supports creating a transparent and accountable nMAS specification, we conduct an experiment with human participants who negotiate against our agent. Our findings show that our negotiation agent reaches better agreements (with small p -value and large effect size) faster than a baseline strategy. Moreover, participants perceive that our agent enables more collaborative and transparent negotiations than the baseline (with small p -value and large effect size in particular settings) toward reaching an agreement.
+https://dl.acm.org/doi/10.1145/3465054

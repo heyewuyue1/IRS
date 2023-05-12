@@ -1,0 +1,6 @@
+Archives and AI: An Overview of Current Debates and Future Perspectives
+Giovanni Colavizza, Tobias Blanke, Charles Jeurgens, Julia Noordegraaf
+Journal on Computing and Cultural Heritage 
+14 December 2021
+The digital transformation is turning archives, both old and new, into data. As a consequence, automation in the form of artificial intelligence techniques is increasingly applied both to scale traditional recordkeeping activities, and to experiment with novel ways to capture, organise, and access records. We survey recent developments at the intersection of Artificial Intelligence and archival thinking and practice. Our overview of this growing body of literature is organised through the lenses of the Records Continuum model. We find four broad themes in the literature on archives and artificial intelligence: theoretical and professional considerations, the automation of recordkeeping processes, organising and accessing archives, and novel forms of digital archives. We conclude by underlining emerging trends and directions for future work, which include the application of recordkeeping principles to the very data and processes that power modern artificial intelligence and a more structural—yet critically aware—integration of artificial intelligence into archival systems and practice.
+https://dl.acm.org/doi/10.1145/3479010

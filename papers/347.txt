@@ -1,0 +1,6 @@
+Architecting for Artificial Intelligence with Emerging Nanotechnology
+Sourabh Kulkarni, Sachin Bhat, Csaba Andras Moritz
+ACM Journal on Emerging Technologies in Computing Systems
+12 August 2021
+Artificial Intelligence is becoming ubiquitous in products and services that we use daily. Although the domain of AI has seen substantial improvements over recent years, its effectiveness is limited by the capabilities of current computing technology. Recently, there have been several architectural innovations for AI using emerging nanotechnology. These architectures implement mathematical computations of AI with circuits that utilize physical behavior of nanodevices purpose-built for such computations. This approach leads to a much greater efficiency vs. software algorithms running on von Neumann processors or CMOS architectures, which emulate the operations with transistor circuits. In this article, we provide a comprehensive survey of these architectural directions and categorize them based on their contributions. Furthermore, we discuss the potential offered by these directions with real-world examples. We also discuss major challenges and opportunities in this field.
+https://dl.acm.org/doi/10.1145/3445977

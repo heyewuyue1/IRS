@@ -1,0 +1,6 @@
+Towards Next-Generation Cybersecurity with Graph AI
+Benjamin Bowman, H. Howie Huang
+ACM SIGOPS Operating Systems Review
+06 June 2021
+Cybersecurity professionals are inundated with large amounts of data, and require intelligent algorithms capable of distinguishing vulnerable from patched, normal from anomalous, and malicious from benign. Unfortunately, not all machine learning (ML) and artificial intelligence (AI) algorithms are created equal, and in this position paper we posit that a new breed of ML, specifically graph-based machine learning (Graph AI), is poised to make a significant impact in this domain. We will discuss the primary differentiators between traditional ML and graph ML, and provide reasons and justifications for why the latter is well-suited to many aspects of cybersecurity. We will present several example applications and result of graph ML in cybersecurity, followed by a discussion of the challenges that lie ahead.
+https://dl.acm.org/doi/10.1145/3469379.3469386

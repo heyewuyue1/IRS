@@ -1,0 +1,6 @@
+Detecting Anomalous Graphs in Labeled Multi-Graph Databases
+Hung T. Nguyen, Pierre J. Liang, Leman Akoglu
+ACM Transactions on Knowledge Discovery from Data
+20 February 2023
+Within a large database 𝒢 containing graphs with labeled nodes and directed, multi-edges; how can we detect the anomalous graphs? Most existing work are designed for plain (unlabeled) and/or simple (unweighted) graphs. We introduce CODEtect , the first approach that addresses the anomaly detection task for graph databases with such complex nature. To this end, it identifies a small representative set 𝒮 of structural patterns (i.e., node-labeled network motifs) that losslessly compress database 𝒢 as concisely as possible. Graphs that do not compress well are flagged as anomalous. CODEtect exhibits two novel building blocks: (i) a motif-based lossless graph encoding scheme, and (ii) fast memory-efficient search algorithms for 𝒮. We show the effectiveness of CODEtect on transaction graph databases from three different corporations and statistically similar synthetic datasets, where existing baselines adjusted for the task fall behind significantly, across different types of anomalies and performance metrics.
+https://dl.acm.org/doi/10.1145/3533770

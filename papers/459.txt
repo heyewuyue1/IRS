@@ -1,0 +1,6 @@
+Beyond Text Generation: Supporting Writers with Continuous Automatic Text Summaries
+Hai Dang, Karim Benharrak, Florian Lehmann, Daniel Buschek
+UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology
+28 October 2022
+We propose a text editor to help users plan, structure and reflect on their writing process. It provides continuously updated paragraph-wise summaries as margin annotations, using automatic text summarization. Summary levels range from full text, to selected (central) sentences, down to a collection of keywords. To understand how users interact with this system during writing, we conducted two user studies (N=4 and N=8) in which people wrote analytic essays about a given topic and article. As a key finding, the summaries gave users an external perspective on their writing and helped them to revise the content and scope of their drafted paragraphs. People further used the tool to quickly gain an overview of the text and developed strategies to integrate insights from the automated summaries. More broadly, this work explores and highlights the value of designing AI tools for writers, with Natural Language Processing (NLP) capabilities that go beyond direct text generation and correction.
+https://dl.acm.org/doi/10.1145/3526113.3545672

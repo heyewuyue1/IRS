@@ -1,0 +1,6 @@
+AI-Based Vehicular Network toward 6G and IoT: Deep Learning Approaches
+Mu-Yen Chen, Min-Hsuan Fan, Li-Xiang Huang
+ACM Transactions on Management Information Systems
+05 October 2021
+In recent years, vehicular networks have become increasingly large, heterogeneous, and dynamic, making it difficult to meet strict requirements of ultralow latency, high reliability, high security, and massive connections for next generation (6G) networks. Recently, deep learning (DL ) has emerged as a powerful artificial intelligence (AI ) technique to optimize the efficiency and adaptability of vehicle and wireless communication. However, rapidly increasing absolute numbers of vehicles on the roads are leading to increased automobile accidents, many of which are attributable to drivers interacting with their mobile phones. To address potentially dangerous driver behavior, this study applies deep learning approaches to image recognition to develop an AI-based detection system that can detect potentially dangerous driving behavior. Multiple convolutional neural network (CNN )-based techniques including VGG16, VGG19, Densenet, and Openpose were compared in terms of their ability to detect and identify problematic driving.
+https://dl.acm.org/doi/10.1145/3466691

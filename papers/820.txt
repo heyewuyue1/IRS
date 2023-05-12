@@ -1,0 +1,6 @@
+Level-5 Autonomous Driving—Are We There Yet? A Review of Research Literature
+Manzoor Ahmed Khan, Hesham El Sayed, Sumbal Malik, Talha Zia, Jalal Khan, Najla Alkaabi, Henry Ignatious
+ACM Computing Surveys
+18 January 2022
+Autonomous vehicles are revolutionizing transport and next-generation autonomous mobility. Such vehicles are promising to increase road safety, improve traffic efficiency, reduce vehicle emission, and improve mobility. However, for these vehicles to live up to their full potentials, there are significant research, technological and urgent organizational issues that need to be addressed to reach the highest level of automation, i.e., level 5. Sensors, communication, mobile edge computing, machine learning, data analytic, distributed learning, and so on, are examples of the building blocks technologies and concepts constituting the end-to-end solution. This survey discusses these technologies and concepts and maps their roles to the end-to-end solution. It highlights the challenges for each technology. Moreover, this survey provides an analysis of different solution approaches proposed by relevant stakeholders, utilizing these technologies aiming to achieve level-5 autonomy. Finally, the article details two use cases to present the interplay of the building blocks technologies.
+https://dl.acm.org/doi/10.1145/3485767

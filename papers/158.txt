@@ -1,0 +1,6 @@
+DR2L: Surfacing Corner Cases to Robustify Autonomous Driving via Domain Randomization Reinforcement Learning
+Haoyi Niu, Jianming Hu, Zheyu Cui, Yi Zhang
+CSAE '21: Proceedings of the 5th International Conference on Computer Science and Application Engineering
+07 December 2021
+How to explore corner cases as efficiently and thoroughly as possible has long been one of the top concerns in the context of deep reinforcement learning (DeepRL) autonomous driving. Training with simulated data is less costly and dangerous than utilizing real-world data, but the inconsistency of parameter distribution and the incorrect system modeling in simulators always lead to an inevitable Sim2real gap, which probably accounts for the underperformance in novel, anomalous and risky cases that simulators can hardly generate. Domain Randomization(DR) is a methodology that can bridge this gap with little or no real-world data. Consequently, in this research, an adversarial model is put forward to robustify DeepRL-based autonomous vehicles trained in simulation to gradually surfacing harder events, so that the models could readily transfer to the real world.
+https://dl.acm.org/doi/10.1145/3487075.3487177

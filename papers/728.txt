@@ -1,0 +1,6 @@
+Graph Neural Networks: Taxonomy, Advances, and Trends
+Yu Zhou, Haixia Zheng, Xin Huang, Shufeng Hao, Dengao Li, Jumin Zhao
+ACM Transactions on Intelligent Systems and Technology
+10 January 2022
+Graph neural networks provide a powerful toolkit for embedding real-world graphs into low-dimensional spaces according to specific tasks. Up to now, there have been several surveys on this topic. However, they usually lay emphasis on different angles so that the readers cannot see a panorama of the graph neural networks. This survey aims to overcome this limitation and provide a systematic and comprehensive review on the graph neural networks. First of all, we provide a novel taxonomy for the graph neural networks, and then refer to up to 327 relevant literatures to show the panorama of the graph neural networks. All of them are classified into the corresponding categories. In order to drive the graph neural networks into a new stage, we summarize four future research directions so as to overcome the challenges faced. It is expected that more and more scholars can understand and exploit the graph neural networks and use them in their research community.
+https://dl.acm.org/doi/10.1145/3495161

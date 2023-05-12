@@ -1,0 +1,6 @@
+Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception
+Chengzeng You, Zhongyuan Hau, Soteris Demetriou
+MAISP'21: Proceedings of the 1st Workshop on Security and Privacy for Mobile AI
+01 July 2021
+LiDAR sensors are used widely in Autonomous Vehicles for better perceiving the environment which enables safer driving decisions. Recent work has demonstrated serious LiDAR spoofing attacks with alarming consequences. In particular, model-level LiDAR spoofing attacks aim to inject fake depth measurements to elicit ghost objects that are erroneously detected by 3D Object Detectors, resulting in hazardous driving decisions. In this work, we explore the use of motion as a physical invariant of genuine objects for detecting such attacks. Based on this, we propose a general methodology, 3D Temporal Consistency Check (3D-TC2), which leverages spatiotemporal information from motion prediction to verify objects detected by 3D Object Detectors. Our preliminary design and implementation of a 3D-TC2 prototype demonstrates very promising performance, providing more than 98% attack detection rate with a recall of 91% for detecting spoofed Vehicle (Car) objects, and is able to achieve real-time detection at 41Hz.
+https://dl.acm.org/doi/10.1145/3469261.3469406

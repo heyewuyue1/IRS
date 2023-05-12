@@ -1,0 +1,6 @@
+Research Progress and Challenges on Application-Driven Adversarial Examples: A Survey
+Wei Jiang, Zhiyuan He, Jinyu Zhan, Weijia Pan, Deepak Adhikari
+ACM Transactions on Cyber-Physical Systems
+22 September 2021
+Great progress has been made in deep learning over the past few years, which drives the deployment of deep learning–based applications into cyber-physical systems. But the lack of interpretability for deep learning models has led to potential security holes. Recent research has found that deep neural networks are vulnerable to well-designed input examples, called adversarial examples . Such examples are often too small to detect, but they completely fool deep learning models. In practice, adversarial attacks pose a serious threat to the success of deep learning. With the continuous development of deep learning applications, adversarial examples for different fields have also received attention. In this article, we summarize the methods of generating adversarial examples in computer vision, speech recognition, and natural language processing and study the applications of adversarial examples. We also explore emerging research and open problems.
+https://dl.acm.org/doi/10.1145/3470493

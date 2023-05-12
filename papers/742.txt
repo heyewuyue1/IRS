@@ -1,0 +1,6 @@
+A Framework for Indonesian Grammar Error Correction
+Nankai Lin, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang
+ACM Transactions on Asian and Low-Resource Language Information Processing
+26 May 2021
+Grammatical Error Correction (GEC) is a challenge in Natural Language Processing research. Although many researchers have been focusing on GEC in universal languages such as English or Chinese, few studies focus on Indonesian, which is a low-resource language. In this article, we proposed a GEC framework that has the potential to be a baseline method for Indonesian GEC tasks. This framework treats GEC as a multi-classification task. It integrates different language embedding models and deep learning models to correct 10 types of Part of Speech (POS) error in Indonesian text. In addition, we constructed an Indonesian corpus that can be utilized as an evaluation dataset for Indonesian GEC research. Our framework was evaluated on this dataset. Results showed that the Long Short-Term Memory model based on word-embedding achieved the best performance. Its overall macro-average F 0.5 in correcting 10 POS error types reached 0.551. Results also showed that the framework can be trained on a low-resource dataset.
+https://dl.acm.org/doi/10.1145/3440993

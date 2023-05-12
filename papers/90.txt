@@ -1,0 +1,6 @@
+Real-time Text Stream Processing: A Dynamic and Distributed NLP Pipeline
+Mohammad Arshi Saloot, Duc Nghia Pham
+ISEEIE 2021: 2021 International Symposium on Electrical, Electronics and Information Engineering
+20 July 2021
+In recent years, the need for flexible and instant Natural Language Processing (NLP) pipelines becomes more crucial. The existence of real-time data sources, such as Twitter, necessitates using real-time text analysis platforms. In addition, due to the existence of a wide range of NLP toolkits and libraries in a variety of programming languages, a streaming platform is required to combine and integrate different modules of various NLP toolkits. This study proposes a real-time architecture that uses Apache Storm and Apache Kafka to apply different NLP tasks on streams of textual data. The architecture allows developers to inject NLP modules to it via different programming languages. To compare the performance of the architecture, a series of experiments are conducted to handle OpenNLP, Fasttext, and SpaCy modules for Bahasa Malaysia and English languages. The result shows that Apache Storm achieved the lowest latency, compared with Trident and baseline experiments.
+https://dl.acm.org/doi/10.1145/3459104.3459198

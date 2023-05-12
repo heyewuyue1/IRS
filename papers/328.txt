@@ -1,0 +1,6 @@
+An Improved English-to-Mizo Neural Machine Translation
+Candy Lalrempuii, Badal Soni, Partha Pakray
+ACM Transactions on Asian and Low-Resource Language Information Processing
+26 May 2021
+Machine Translation is an effort to bridge language barriers and misinterpretations, making communication more convenient through the automatic translation of languages. The quality of translations produced by corpus-based approaches predominantly depends on the availability of a large parallel corpus. Although machine translation of many Indian languages has progressively gained attention, there is very limited research on machine translation and the challenges of using various machine translation techniques for a low-resource language such as Mizo. In this article, we have implemented and compared statistical-based approaches with modern neural-based approaches for the English–Mizo language pair. We have experimented with different tokenization methods, architectures, and configurations. The performance of translations predicted by the trained models has been evaluated using automatic and human evaluation measures. Furthermore, we have analyzed the prediction errors of the models and the quality of predictions based on variations in sentence length and compared the model performance with the existing baselines.
+https://dl.acm.org/doi/10.1145/3445974

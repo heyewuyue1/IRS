@@ -1,0 +1,6 @@
+Language models: past, present, and future
+Hang Li
+Communications of the ACM
+21 June 2022
+A language modeling overview, highlighting basic concepts, intuitive explanations, technical achievements, and fundamental challenges.
+https://dl.acm.org/doi/10.1145/3490443

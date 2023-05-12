@@ -1,0 +1,6 @@
+Endless loops: detecting and animating periodic patterns in still images
+Tavi Halperin, Hanit Hakim, Orestis Vantzos, Gershon Hochman, Netai Benaim, Lior Sassy, Michael Kupchik, Ofir Bibi, Ohad Fried
+ACM Transactions on Graphics
+19 July 2021
+We present an algorithm for producing a seamless animated loop from a single image. The algorithm detects periodic structures, such as the windows of a building or the steps of a staircase, and generates a non-trivial displacement vector field that maps each segment of the structure onto a neighboring segment along a user- or auto-selected main direction of motion. This displacement field is used, together with suitable temporal and spatial smoothing, to warp the image and produce the frames of a continuous animation loop. Our cinemagraphs are created in under a second on a mobile device. Over 140,000 users downloaded our app and exported over 350,000 cinemagraphs. Moreover, we conducted two user studies that show that users prefer our method for creating surreal and structured cinemagraphs compared to more manual approaches and compared to previous methods.
+https://dl.acm.org/doi/10.1145/3450626.3459935

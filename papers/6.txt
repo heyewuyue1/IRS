@@ -1,0 +1,6 @@
+Principal Component Analysis: A Natural Approach to Data Exploration
+Felipe L. Gewers, Gustavo R. Ferreira, Henrique F. De Arruda, Filipi N. Silva, Cesar H. Comin, Diego R. Amancio, Luciano Da F. Costa
+ACM Computing Surveys
+24 May 2021
+Principal component analysis (PCA) is often applied for analyzing data in the most diverse areas. This work reports, in an accessible and integrated manner, several theoretical and practical aspects of PCA. The basic principles underlying PCA, data standardization, possible visualizations of the PCA results, and outlier detection are subsequently addressed. Next, the potential of using PCA for dimensionality reduction is illustrated on several real-world datasets. Finally, we summarize PCA-related approaches and other dimensionality reduction techniques. All in all, the objective of this work is to assist researchers from the most diverse areas in using and interpreting PCA.
+https://dl.acm.org/doi/10.1145/3447755

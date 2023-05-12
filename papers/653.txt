@@ -1,0 +1,6 @@
+QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension
+Anna Rogers, Matt Gardner, Isabelle Augenstein
+ACM Computing Surveys
+02 February 2023
+Alongside huge volumes of research on deep learning models in NLP in the recent years, there has been much work on benchmark datasets needed to track modeling progress. Question answering and reading comprehension have been particularly prolific in this regard, with more than 80 new datasets appearing in the past 2 years. This study is the largest survey of the field to date. We provide an overview of the various formats and domains of the current resources, highlighting the current lacunae for future work. We further discuss the current classifications of “skills” that question answering/reading comprehension systems are supposed to acquire and propose a new taxonomy. The supplementary materials survey the current multilingual resources and monolingual resources for languages other than English, and we discuss the implications of overfocusing on English. The study is aimed at both practitioners looking for pointers to the wealth of existing data and at researchers working on new resources.
+https://dl.acm.org/doi/10.1145/3560260

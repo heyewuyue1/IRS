@@ -1,0 +1,6 @@
+Detection of Moving Object Using Superpixel Fusion Network
+Yang Li
+ACM Transactions on Multimedia Computing, Communications, and Applications
+16 March 2023
+Moving object detection is still a challenging task in complex scenes. The existing methods based on deep learning mainly use U-Nets and have achieved amazing results. However, they ignore the local continuity between pixels. In order to solve this problem, a method based on a superpixel fusion network (SF-Net) is proposed in this article. First, the median filter is used to extract the candidate foreground (called pixel features ) and the image sequence is segmented by superpixel. Then, the histogram features (called superpixel features ) of the candidate foreground superpixels are extracted. Next, the pixel features and the superpixel features are the inputs of SF-Net, respectively. Experiments show the effectiveness of SF-Net on 34 image sequences and the average F-measure reaches 0.84. SF-Net can remove more background noise and has stronger expression ability than a network with the same depth.
+https://dl.acm.org/doi/10.1145/3579998

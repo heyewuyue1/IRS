@@ -1,0 +1,6 @@
+A Review and Outlook for Relation Extraction
+Yu Yan, Haolin Sun, Jie Liu
+CSAE '21: Proceedings of the 5th International Conference on Computer Science and Application Engineering
+07 December 2021
+Relation extraction (RE) aims to identify and determine the specific relation between entity pairs from natural language texts. As a key technology of Natural Language Processing (NLP), RE has broad application prospects in the fields of information retrieval, knowledge graphs, and automatic question answering systems. From pattern matching to neural network, we have made a detailed review of supervised relation extraction methods. In this paper, we focus on the two challenges of current RE: Few-shot learning and dealing with more complex context. We also make a comparative analysis of the existing methods and summarize the technical difficulties. Finally, we look forward to the development of RE.
+https://dl.acm.org/doi/10.1145/3487075.3487103

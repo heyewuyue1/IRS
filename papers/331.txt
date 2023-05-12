@@ -1,0 +1,6 @@
+Artificial Intelligence and Its Self-Consciousness
+Hong Lu, Weibing Hu, Chaochao Pan
+WABD 2021: 2021 Workshop on Algorithm and Big Data
+06 June 2021
+Recently, the question of whether machine can have its “self-consciousness” has become a focus being concerned and thought of. e Researches on machine consciousness or artificial consciousness, has gradually become a hot spot in the field of artificial intelligence (AI). With the common sense of human being as the only intelligent life with “self-consciousness”, only human's self-consciousness can be taken as a model in order to build AI with self-consciousness. In this paper, the theories of self-consciousness from the perspectives of psychology, cognitive neuroscience, philosophy and cognitive science were introduced with the hope of providing new ideas for the development of AI with self-consciousness.
+https://dl.acm.org/doi/10.1145/3456389.3456402

@@ -1,0 +1,6 @@
+Research on Moving Object Tracking Technology of Sports Video Based on Deep Learning Algorithm
+Jianfeng Jiang, Xiaojing Zhang
+ICISCAE 2021: 2021 4th International Conference on Information Systems and Computer Aided Education
+22 November 2021
+Visual target tracking is the research focus in the field of computer vision. Its development is of great significance and has been widely used in various fields. The development of computer vision technology provides a new training tool for coaches. Because machine vision has better accuracy and memory than human eyes, it can quickly capture moving targets and record various motion data of targets. Today, with the development of sci & tech, in the process of people's pursuit of constantly surpassing themselves, this traditional training method has obviously been difficult to adapt to and meet the training needs of sports athletes, and can not effectively improve the skill level of athletes. In this paper, the technical idea of moving target tracking in sports video based on deep learning algorithm is put forward, so as to capture and track the moving target in sports video with the help of advanced information technology such as computer vision technology, and to guide athletes' movements more scientifically by recording various data.
+https://dl.acm.org/doi/10.1145/3482632.3487433

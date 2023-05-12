@@ -1,0 +1,6 @@
+Low-resource Neural Machine Translation: Methods and Trends
+Shumin Shi, Xing Wu, Rihai Su, Heyan Huang
+ACM Transactions on Asian and Low-Resource Language Information Processing
+15 November 2022
+Neural Machine Translation (NMT) brings promising improvements in translation quality, but until recently, these models rely on large-scale parallel corpora. As such corpora only exist on a handful of language pairs, the translation performance is far from the desired effect in the majority of low-resource languages. Thus, developing low-resource language translation techniques is crucial and it has become a popular research field in neural machine translation. In this article, we make an overall review of existing deep learning techniques in low-resource NMT. We first show the research status as well as some widely used low-resource datasets. Then, we categorize the existing methods and show some representative works detailedly. Finally, we summarize the common characters among them and outline the future directions in this field.
+https://dl.acm.org/doi/10.1145/3524300

@@ -1,0 +1,6 @@
+A Survey on Active Deep Learning: From Model Driven to Data Driven
+Peng Liu, Lizhe Wang, Rajiv Ranjan, Guojin He, Lei Zhao
+ACM Computing Surveys
+13 September 2022
+Which samples should be labelled in a large dataset is one of the most important problems for the training of deep learning. So far, a variety of active sample selection strategies related to deep learning have been proposed in the literature. We defined them as Active Deep Learning (ADL) only if their predictor or selector is a deep model, where the basic learner is called the predictor and the labeling schemes are called the selector. In this survey, we categorize ADL into model-driven ADL and data-driven ADL by whether its selector is model driven or data driven. We also introduce the different characteristics of the two major types of ADL, respectively. We summarized three fundamental factors in the designation of a selector. We pointed out that, with the development of deep learning, the selector in ADL also is experiencing the stage from model driven to data driven. The advantages and disadvantages between data-driven ADL and model-driven ADL are thoroughly analyzed. Furthermore, different sub-classes of data-drive or model-driven ADL are also summarized and discussed emphatically. Finally, we survey the trend of ADL from model driven to data driven.
+https://dl.acm.org/doi/10.1145/3510414

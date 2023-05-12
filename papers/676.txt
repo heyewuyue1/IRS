@@ -1,0 +1,6 @@
+A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation
+Shuren Qi, Yushu Zhang, Chao Wang, Jiantao Zhou, Xiaochun Cao
+ACM Computing Surveys
+23 November 2021
+Image representation is an important topic in computer vision and pattern recognition. It plays a fundamental role in a range of applications toward understanding visual contents. Moment-based image representation has been reported to be effective in satisfying the core conditions of semantic description due to its beneficial mathematical properties, especially geometric invariance and independence. This article presents a comprehensive survey of the orthogonal moments for image representation, covering recent advances in fast/accurate calculation, robustness/invariance optimization, definition extension, and application. We also create a software package for a variety of widely used orthogonal moments and evaluate such methods in a same base. The presented theory analysis, software implementation, and evaluation results can support the community, particularly in developing novel techniques and promoting real-world applications.
+https://dl.acm.org/doi/10.1145/3479428

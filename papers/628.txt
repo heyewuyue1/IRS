@@ -1,0 +1,6 @@
+Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation
+Rongrong Ma, Guansong Pang, Ling Chen, Anton van den Hengel
+WSDM '22: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining
+15 February 2022
+Graph-level anomaly detection (GAD) describes the problem of detecting graphs that are abnormal in their structure and/or the features of their nodes, as compared to other graphs. One of the challenges in GAD is to devise graph representations that enable the detection of both locally- and globally-anomalous graphs, i.e., graphs that are abnormal in their fine-grained (node-level) or holistic (graph-level) properties, respectively. To tackle this challenge we introduce a novel deep anomaly detection approach for GAD that learns rich global and local normal pattern information by joint random distillation of graph and node representations. The random distillation is achieved by training one GNN to predict another GNN with randomly initialized network weights. Extensive experiments on 16 real-world graph datasets from diverse domains show that our model significantly outperforms seven state-of-the-art models. Code and datasets are available at https://git.io/GLocalKD.
+https://dl.acm.org/doi/10.1145/3488560.3498473
