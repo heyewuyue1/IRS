@@ -1,0 +1,15 @@
+@keyframes ball {
+    100% { top: 0px} 
+}
+
+.wrapper {
+    width: 80%;
+    top: 33vh;
+    left: 143px;
+    position: relative;
+}
+
+.results {
+    width: 53%;
+    left: 143px;
+}

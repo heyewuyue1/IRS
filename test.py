@@ -1,1 +1,0 @@
-print(['https://dl.acm.org/subject/ai?startPage=%d&pageSize=50' % i for i in range(20)])
