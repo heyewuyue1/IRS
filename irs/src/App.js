@@ -9,21 +9,21 @@ function App() {
   const [inputValue, setInputValue] = useState('')
   const [results, setResults] = useState([])
   const [rateOpen, setRateOpen] = useState(false)
-
-  const handleResponse = (res) => {
-    setResults(res.data)
-  }
+  const [rateBut, setRateBut] = useState(true)
 
   const handleSearch = () => {
     axios.get("http://127.0.0.1:8000/irs", {
       params: {
         message: inputValue
       }
-    }).then(result => handleResponse(result))
-    var wrapper = document.querySelector('.wrapper')
-    wrapper.style.animationName = 'ball'
-    wrapper.style.animationDuration = '0.5s'
-    wrapper.style.animationFillMode = 'both'
+    }).then((res) => {
+      setResults(res.data)
+      setRateBut(false)
+      var wrapper = document.querySelector('.wrapper')
+      wrapper.style.animationName = 'ball'
+      wrapper.style.animationDuration = '0.5s'
+      wrapper.style.animationFillMode = 'both'
+    })
   }
 
   const handleKeyDown = (event) => {
@@ -44,11 +44,11 @@ function App() {
         right: "10px",
         top: "40%",
       }}>
-        <Button shadow color="gradient" onPress={()=>{setRateOpen(true)}} auto>
+        <Button shadow color="gradient" onPress={() => { setRateOpen(true) }} auto disabled={rateBut}>
           Rate?
         </Button>
-        <Modal onClose={()=>{setRateOpen(false)}} open={rateOpen}>
-          <Modal.Body css={{margin:"20px"}}>
+        <Modal onClose={() => { setRateOpen(false); setRateBut(true); }} open={rateOpen}>
+          <Modal.Body css={{ margin: "20px" }}>
             <Radio.Group label="How do you think of the search results?">
               <Radio value="1">very bad</Radio>
               <Radio value="2">bad</Radio>

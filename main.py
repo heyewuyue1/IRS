@@ -75,12 +75,6 @@ def handle_query(message):
             else:
                 vec.append(0)
         ret_info = {}
-        {
-            111: {
-                'md': 0.18,
-                'match': ['aaa', 'bbb']
-            },
-        }
         sort_md = {}
         for words in text:
             if words in key_words:

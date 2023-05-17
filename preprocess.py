@@ -2,7 +2,6 @@
 import re
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.stem.porter import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
 from stop_words import get_stop_words
@@ -13,8 +12,7 @@ stop_words = set(get_stop_words('en'))
 new_words = ["using", "show", "result", "large", "also",
              "iv", "one", "two", "new", "previously", "shown", "based"]
 stop_words = stop_words.union(new_words)
-# Stemming
-ps = PorterStemmer()
+
 # Lemmatisation
 lem = WordNetLemmatizer()
 
