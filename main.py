@@ -116,11 +116,6 @@ def give_response(message: str):
 def save_rate(r: Rate):
     rate_file.write(str(r)+'\n')
 
-@app.post("/audio")
-def audio_query(audio: Audio):
-    response = requests.post(url="http://vop.baidu.com/server_api?dev_pid=1737&cuid=heyewuyue&token=%s" % token, headers={"Content-Type": "audio/pcm;rate=16000"},data=audio)
-    print(response.text)
-
 if __name__ == "__main__":
     uvicorn.run(app='main:app', host="127.0.0.1",
                 port=8000, reload=True)
