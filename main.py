@@ -6,7 +6,15 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from stop_words import get_stop_words
 import json
 import numpy as np
+from pydantic import BaseModel
+import requests
 
+class Rate(BaseModel):
+    query: str
+    rate: str
+
+class Audio(BaseModel):
+    audio: bytes
 
 app = FastAPI()
 app.add_middleware(
@@ -35,6 +43,8 @@ with open('rev_index.json') as f:
 
 with open('text_vector.json') as f:
     text_vec = eval(f.read())
+
+rate_file = open('rate.txt', 'a')
 
 def get_info(v):
     with open('papers/%d.txt' % v) as f:
@@ -87,14 +97,13 @@ def handle_query(message):
                             'match': ""
                         }
                         sort_md[i] = md
-                    ret_info[i]['match'] += ' ' + words
+                    if words not in ret_info[i]['match']:
+                        ret_info[i]['match'] += ' ' + words
         sort_md = list(sort_md.items())
         sort_md = sorted(sort_md, key=lambda x: x[1], reverse=True)
-        print(sort_md)
         for t in sort_md:
             ret_obj = ret_info[t[0]]
             ret_obj.update(get_info(t[0]))
-            print(ret_obj)
             ret_list.append(ret_obj)
         return ret_list
         
@@ -103,6 +112,14 @@ def handle_query(message):
 def give_response(message: str):
     return handle_query(message)
 
+@app.post("/rate")
+def save_rate(r: Rate):
+    rate_file.write(str(r)+'\n')
+
+@app.post("/audio")
+def audio_query(audio: Audio):
+    response = requests.post(url="http://vop.baidu.com/server_api?dev_pid=1737&cuid=heyewuyue&token=%s" % token, headers={"Content-Type": "audio/pcm;rate=16000"},data=audio)
+    print(response.text)
 
 if __name__ == "__main__":
     uvicorn.run(app='main:app', host="127.0.0.1",
