@@ -7,7 +7,6 @@ from stop_words import get_stop_words
 import json
 import numpy as np
 from pydantic import BaseModel
-import requests
 
 class Rate(BaseModel):
     query: str
